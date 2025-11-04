@@ -34,7 +34,7 @@
 	icon_state = "hilbertshotel";
 	pixel_y = -12;
 	name = "anomaly";
-	color = #954696
+	color = "#954696"
 	},
 /obj/effect/turf_decal/stripes/red/line{
 	dir = 1

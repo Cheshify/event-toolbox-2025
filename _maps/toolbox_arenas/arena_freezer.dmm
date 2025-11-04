@@ -8,7 +8,7 @@
 	pixel_y = 10;
 	pixel_x = -6
 	},
-/obj/item/clothing/mask/cigarette{
+/obj/item/cigarette{
 	pixel_y = 5
 	},
 /obj/item/lighter{

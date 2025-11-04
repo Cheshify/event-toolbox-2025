@@ -8,7 +8,7 @@
 /turf/open/misc/grass/jungle,
 /area/space)
 "e" = (
-/obj/item/stock_parts/cell/lead,
+/obj/item/stock_parts/power_store/cell/lead,
 /turf/open/water/beach,
 /area/space)
 "g" = (
@@ -35,13 +35,11 @@
 /turf/open/misc/grass/jungle,
 /area/space)
 "v" = (
-/obj/item/flashlight/flare/torch{
-	on = 1
-	},
+/obj/item/flashlight/flare/torch/on,
 /turf/open/misc/beach/sand,
 /area/space)
 "x" = (
-/mob/living/simple_animal/pet/gondola,
+/mob/living/basic/pet/gondola,
 /obj/structure/flora/bush/fullgrass/style_random,
 /obj/item/storage/toolbox/fishing,
 /obj/item/clothing/head/soft/fishing_hat,

@@ -11,7 +11,7 @@
 		target.become_blind("smite")
 		return
 
-	var/obj/item/organ/internal/eyes/eyes = target.get_organ_slot(ORGAN_SLOT_EYES)
+	var/obj/item/organ/eyes/eyes = target.get_organ_slot(ORGAN_SLOT_EYES)
 	eyes.apply_organ_damage(eyes.maxHealth)
 
 /datum/smite/reverse_controls

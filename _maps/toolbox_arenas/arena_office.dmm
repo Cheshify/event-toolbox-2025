@@ -967,7 +967,7 @@
 /area/space)
 "Mz" = (
 /obj/effect/decal/cleanable/dirt,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/blood/oil,
 /turf/open/misc/dirt,
 /area/space)
 "MQ" = (
@@ -1017,7 +1017,7 @@
 	dir = 1;
 	plane = -9
 	},
-/obj/item/areaeditor/blueprints/golem{
+/obj/item/blueprints/golem{
 	pixel_x = -5;
 	pixel_y = 6
 	},

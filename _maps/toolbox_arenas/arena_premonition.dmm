@@ -385,7 +385,7 @@
 	pixel_x = -4;
 	pixel_y = 15
 	},
-/obj/item/paper/calling_card{
+/obj/item/paper{
 	pixel_x = 2;
 	pixel_y = 4
 	},

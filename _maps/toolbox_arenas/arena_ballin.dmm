@@ -281,7 +281,7 @@
 	dir = 8
 	},
 /obj/structure/fans/tiny,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/blood/oil,
 /obj/effect/decal/cleanable/wrapping,
 /turf/open/floor/catwalk_floor,
 /area/space)
@@ -364,7 +364,7 @@
 	pixel_y = 11
 	},
 /obj/effect/turf_decal/siding/thinplating_new/dark,
-/obj/effect/decal/cleanable/robot_debris{
+/obj/effect/decal/cleanable/blood/gibs/robot_debris{
 	pixel_x = 3;
 	pixel_y = 20
 	},
@@ -379,7 +379,7 @@
 	dir = 8
 	},
 /obj/structure/closet/crate/trashcart,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/blood/oil,
 /obj/effect/decal/cleanable/greenglow,
 /turf/open/floor/catwalk_floor/iron_dark,
 /area/space)
@@ -585,7 +585,7 @@
 /obj/effect/turf_decal/siding/thinplating_new/dark{
 	dir = 8
 	},
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/blood/oil,
 /obj/effect/decal/cleanable/wrapping/pinata/syndie,
 /obj/structure/railing{
 	dir = 4
@@ -1063,7 +1063,7 @@
 	dir = 8
 	},
 /obj/machinery/icecream_vat,
-/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/blood/oil,
 /turf/open/floor/catwalk_floor/iron_dark,
 /area/space)
 "RT" = (

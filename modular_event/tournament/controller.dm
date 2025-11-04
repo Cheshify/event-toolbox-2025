@@ -46,7 +46,7 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 	. = ..()
 
 	radio = new(src)
-	radio.independent = TRUE
+	radio.special_channels |= RADIO_SPECIAL_CENTCOM
 	radio.set_frequency(FREQ_CENTCOM)
 
 	if (arena_id in GLOB.tournament_controllers)
@@ -119,10 +119,10 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 			export_tournament_teams()
 
 /obj/machinery/computer/tournament_controller/ui_state(mob/user)
-	return GLOB.admin_state
+	return ADMIN_STATE(R_ADMIN)
 
 /obj/machinery/computer/tournament_controller/ui_status(mob/user)
-	return GLOB.admin_state.can_use_topic(src, user)
+	return check_rights_for(user.client, R_ADMIN) ? UI_INTERACTIVE : UI_CLOSE
 
 /obj/machinery/computer/tournament_controller/proc/get_landmark_turf(landmark_tag)
 	for(var/obj/effect/landmark/arena/arena_landmark in GLOB.landmarks_list)
@@ -252,7 +252,7 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 				old_mobs[client] = old_mob
 				old_mobs_loc[client] = get_turf(old_mob)
 				old_mob.visible_message(span_notice("[old_mob] teleported away to participate in the tournament! Watch this space."))
-				playsound(get_turf(old_mob), 'sound/magic/wand_teleport.ogg', 50, TRUE)
+				playsound(get_turf(old_mob), 'sound/effects/magic/wand_teleport.ogg', 50, TRUE)
 				old_mob.forceMove(src)
 
 			var/mob/living/carbon/human/contestant_mob = new
@@ -325,7 +325,7 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 
 		old_mob.forceMove(old_mobs_loc[client])
 		old_mob.key = client?.key
-		playsound(get_turf(old_mob), 'sound/magic/wand_teleport.ogg', 50, TRUE)
+		playsound(get_turf(old_mob), 'sound/effects/magic/wand_teleport.ogg', 50, TRUE)
 
 	QDEL_LIST(contestants)
 	old_mobs.Cut()

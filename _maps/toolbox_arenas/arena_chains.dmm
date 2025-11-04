@@ -25,7 +25,7 @@
 /area/space)
 "bJ" = (
 /obj/effect/decal/cleanable/dirt/dust,
-/obj/item/clothing/mask/cigarette/cigar{
+/obj/item/cigarette/cigar{
 	pixel_x = 7;
 	pixel_y = 3
 	},

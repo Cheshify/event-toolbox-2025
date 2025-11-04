@@ -4,7 +4,7 @@
 /obj/item/reagent_containers/cup/bottle/capsaicin{
 	pixel_x = -20
 	},
-/obj/item/reagent_containers/cup/rag{
+/obj/item/rag{
 	pixel_x = -4
 	},
 /turf/open/floor/iron/checker,
@@ -439,7 +439,7 @@
 /obj/item/plate/large{
 	pixel_y = 18
 	},
-/obj/item/clothing/mask/cigarette/cigar,
+/obj/item/cigarette/cigar,
 /turf/open/floor/wood/parquet,
 /area/centcom/tdome/arena)
 "GI" = (
@@ -530,7 +530,7 @@
 /area/centcom/tdome/arena)
 "Mt" = (
 /obj/structure/table/wood/fancy/black,
-/obj/item/clothing/mask/cigarette/cigar{
+/obj/item/cigarette/cigar{
 	pixel_y = 6
 	},
 /obj/item/food/cake/berry_vanilla_cake{
@@ -643,7 +643,7 @@
 /area/centcom/tdome/arena)
 "Tw" = (
 /obj/structure/table/reinforced,
-/obj/item/reagent_containers/cup/rag{
+/obj/item/rag{
 	pixel_x = 4;
 	pixel_y = 13
 	},

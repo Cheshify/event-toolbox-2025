@@ -56,7 +56,7 @@
 	target_toolbox.icon = 'icons/obj/storage/storage.dmi'
 	target_toolbox.icon_state = "toolbox_blue_old"
 	target_toolbox.has_latches = FALSE
-	playsound(user, 'sound/magic/magic_block_holy.ogg', 50, TRUE)
+	playsound(user, 'sound/effects/magic/magic_block_holy.ogg', 50, TRUE)
 	var/effect = mutable_appearance('icons/mob/effects/genetics.dmi', "servitude", -MUTATIONS_LAYER)
 	user.add_overlay(effect)
 	addtimer(CALLBACK(user, /atom/proc/cut_overlay, effect), 2 SECONDS)

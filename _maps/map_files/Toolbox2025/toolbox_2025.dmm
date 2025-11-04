@@ -2298,7 +2298,7 @@
 /obj/structure/sign/clock/directional/east,
 /obj/machinery/vending/cigarette{
 	extended_inventory = 1;
-	all_products_free = true;
+	all_products_free = 1;
 	age_restrictions = 0
 	},
 /turf/open/floor/wood,
@@ -4598,7 +4598,7 @@
 /area/event)
 "qP" = (
 /obj/machinery/vending/wardrobe/chef_wardrobe{
-	all_products_free = true
+	all_products_free = 1
 	},
 /turf/open/floor/iron/terracotta/small,
 /area/event)
@@ -5073,7 +5073,7 @@
 /area/event)
 "sE" = (
 /obj/machinery/vending/wardrobe/bar_wardrobe{
-	all_products_free = true
+	all_products_free = 1
 	},
 /turf/open/floor/wood/large,
 /area/event)
@@ -5127,7 +5127,7 @@
 /obj/machinery/vending/boozeomat{
 	age_restrictions = 0;
 	extended_inventory = 1;
-	all_products_free = true
+	all_products_free = 1
 	},
 /turf/open/floor/wood/large,
 /area/event)
@@ -7016,7 +7016,7 @@
 	dir = 4
 	},
 /obj/machinery/vending/cola/black{
-	all_products_free = true
+	all_products_free = 1
 	},
 /turf/open/floor/wood,
 /area/event)
@@ -8106,7 +8106,7 @@
 /obj/structure/sign/clock/directional/west,
 /obj/machinery/vending/cigarette{
 	extended_inventory = 1;
-	all_products_free = true;
+	all_products_free = 1;
 	age_restrictions = 0
 	},
 /turf/open/floor/wood,
@@ -10231,7 +10231,7 @@
 	dir = 5
 	},
 /obj/machinery/vending/games{
-	all_products_free = true;
+	all_products_free = 1;
 	extended_inventory = 1
 	},
 /turf/open/floor/wood,
@@ -10267,10 +10267,6 @@
 "KL" = (
 /obj/structure/sink/directional/west,
 /turf/open/floor/stone,
-/area/event)
-"KP" = (
-/obj/structure/fluff/totem_pole,
-/turf/open/misc/sandy_dirt,
 /area/event)
 "KQ" = (
 /obj/effect/turf_decal/weather/sand{
@@ -10991,7 +10987,7 @@
 	dir = 8
 	},
 /obj/machinery/vending/snack/green{
-	all_products_free = true
+	all_products_free = 1
 	},
 /turf/open/floor/wood,
 /area/event)
@@ -13901,7 +13897,7 @@
 /area/event)
 "XE" = (
 /obj/machinery/vending/dinnerware{
-	all_products_free = true
+	all_products_free = 1
 	},
 /turf/open/floor/iron/terracotta/small,
 /area/event)
@@ -99980,7 +99976,7 @@ LU
 ko
 Ho
 tW
-KP
+tW
 tW
 Ho
 Rk
@@ -101522,7 +101518,7 @@ Ho
 ko
 Ho
 tW
-KP
+tW
 tW
 tW
 Ho
