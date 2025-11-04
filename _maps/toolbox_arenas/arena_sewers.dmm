@@ -1,0 +1,614 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"eV" = (
+/obj/structure/railing/corner/end/flip{
+	dir = 8
+	},
+/turf/open/floor/iron/smooth_corner,
+/area/space)
+"fK" = (
+/obj/structure/railing,
+/obj/item/cigbutt{
+	pixel_x = -13
+	},
+/turf/open/floor/iron/smooth_half,
+/area/space)
+"hf" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/space)
+"hB" = (
+/obj/structure/railing,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/trash/can{
+	pixel_x = -5;
+	pixel_y = 2
+	},
+/turf/open/water,
+/area/space)
+"hN" = (
+/turf/open/floor/iron/smooth_half{
+	dir = 1
+	},
+/area/space)
+"hW" = (
+/turf/open/water,
+/area/space)
+"if" = (
+/obj/structure/railing/corner/end{
+	dir = 4
+	},
+/turf/open/floor/iron/smooth_corner,
+/area/space)
+"ii" = (
+/obj/structure/lattice/catwalk,
+/mob/living/basic/mouse/brown,
+/turf/open/water,
+/area/space)
+"iG" = (
+/obj/effect/decal/cleanable/vomit,
+/turf/open/floor/stone,
+/area/space)
+"md" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/decal/cleanable/dirt,
+/mob/living/basic/mouse/brown,
+/obj/item/ammo_casing/spent{
+	pixel_x = -5;
+	pixel_y = 3
+	},
+/obj/item/ammo_casing/spent{
+	pixel_x = -8;
+	pixel_y = -4
+	},
+/turf/open/water,
+/area/space)
+"nl" = (
+/obj/structure/lattice/catwalk,
+/obj/item/ammo_casing/spent{
+	pixel_x = 6;
+	pixel_y = -4
+	},
+/turf/open/water,
+/area/space)
+"oK" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/cigbutt{
+	pixel_x = -13;
+	pixel_y = 16
+	},
+/turf/open/water,
+/area/space)
+"oR" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/trash/flare,
+/turf/open/water,
+/area/space)
+"pj" = (
+/mob/living/basic/cockroach,
+/turf/open/floor/stone,
+/area/space)
+"pG" = (
+/obj/effect/decal/cleanable/dirt,
+/mob/living/basic/mouse,
+/turf/open/floor/iron/smooth_corner,
+/area/space)
+"pI" = (
+/turf/open/floor/stone,
+/area/space)
+"qw" = (
+/obj/effect/decal/cleanable/dirt,
+/mob/living/basic/cockroach,
+/turf/open/floor/iron/smooth_half,
+/area/space)
+"qH" = (
+/obj/effect/decal/cleanable/dirt,
+/mob/living/basic/mouse,
+/turf/open/floor/iron/smooth_half,
+/area/space)
+"rc" = (
+/obj/effect/decal/cleanable/dirt,
+/mob/living/basic/mouse/white,
+/turf/open/floor/stone,
+/area/space)
+"ru" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/water,
+/area/space)
+"rE" = (
+/obj/item/cigbutt{
+	pixel_x = -13
+	},
+/turf/open/floor/stone,
+/area/space)
+"sv" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/smooth_corner{
+	dir = 4
+	},
+/area/space)
+"sw" = (
+/obj/structure/railing/corner/end{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/smooth_corner{
+	dir = 8
+	},
+/area/space)
+"ti" = (
+/mob/living/basic/cockroach,
+/obj/item/ammo_casing/spent{
+	pixel_x = 3;
+	pixel_y = -9
+	},
+/turf/open/floor/stone,
+/area/space)
+"us" = (
+/obj/item/wirecutters{
+	pixel_y = 6
+	},
+/turf/open/floor/iron/smooth_half{
+	dir = 1
+	},
+/area/space)
+"uu" = (
+/obj/effect/decal/cleanable/dirt,
+/mob/living/basic/cockroach,
+/turf/open/floor/stone,
+/area/space)
+"uz" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/smooth_half{
+	dir = 1
+	},
+/area/space)
+"uP" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/trash/tray,
+/turf/open/floor/iron/smooth_corner{
+	dir = 8
+	},
+/area/space)
+"vd" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/stone,
+/area/space)
+"vq" = (
+/obj/structure/lattice/catwalk,
+/mob/living/basic/cockroach,
+/obj/item/cigbutt{
+	pixel_x = -13;
+	pixel_y = -5
+	},
+/turf/open/water,
+/area/space)
+"wW" = (
+/obj/item/cigbutt{
+	pixel_x = -13;
+	pixel_y = 16
+	},
+/turf/open/floor/iron/smooth_corner{
+	dir = 1
+	},
+/area/space)
+"xe" = (
+/obj/structure/railing,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/smooth_half,
+/area/space)
+"xH" = (
+/turf/open/floor/iron/smooth_half,
+/area/space)
+"yy" = (
+/obj/effect/decal/cleanable/dirt,
+/mob/living/basic/mouse/brown,
+/turf/open/floor/stone,
+/area/space)
+"yC" = (
+/obj/item/ammo_casing/spent{
+	pixel_x = 3;
+	pixel_y = -9
+	},
+/turf/open/floor/stone,
+/area/space)
+"yM" = (
+/obj/structure/lattice/catwalk,
+/obj/item/cigbutt{
+	pixel_x = -13;
+	pixel_y = -5
+	},
+/turf/open/water,
+/area/space)
+"zc" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/ammo_casing/spent{
+	pixel_x = -5;
+	pixel_y = 3
+	},
+/turf/open/water,
+/area/space)
+"zk" = (
+/obj/item/cigbutt{
+	pixel_x = -13;
+	pixel_y = 16
+	},
+/turf/open/floor/iron/smooth_half,
+/area/space)
+"zs" = (
+/obj/structure/railing,
+/obj/effect/decal/cleanable/dirt,
+/mob/living/basic/cockroach,
+/turf/open/floor/iron/smooth_half,
+/area/space)
+"zO" = (
+/obj/item/cigbutt{
+	pixel_x = -13
+	},
+/turf/open/floor/iron/smooth_half,
+/area/space)
+"zS" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/vomit,
+/turf/open/floor/stone,
+/area/space)
+"Bm" = (
+/obj/item/cigbutt{
+	pixel_x = -11;
+	pixel_y = -4
+	},
+/turf/open/floor/iron/smooth_half{
+	dir = 1
+	},
+/area/space)
+"Cp" = (
+/obj/structure/lattice/catwalk,
+/obj/item/ammo_casing/spent{
+	pixel_x = -8;
+	pixel_y = -4
+	},
+/turf/open/water,
+/area/space)
+"EC" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/smooth_half,
+/area/space)
+"EJ" = (
+/turf/open/floor/iron/smooth_corner{
+	dir = 4
+	},
+/area/space)
+"EX" = (
+/obj/structure/lattice/catwalk,
+/obj/item/ammo_casing/spent{
+	pixel_x = 5;
+	pixel_y = 9
+	},
+/turf/open/water,
+/area/space)
+"Gg" = (
+/obj/structure/lattice/catwalk,
+/turf/open/water,
+/area/space)
+"Gr" = (
+/turf/open/floor/iron/smooth_large,
+/area/space)
+"Hc" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/water,
+/area/space)
+"Ih" = (
+/obj/structure/railing,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/water,
+/area/space)
+"Jf" = (
+/obj/item/ammo_casing/spent{
+	pixel_x = 3;
+	pixel_y = -9
+	},
+/turf/open/floor/iron/smooth_half{
+	dir = 1
+	},
+/area/space)
+"Jj" = (
+/obj/structure/railing/corner/end/flip{
+	dir = 8
+	},
+/obj/item/trash/peanuts,
+/turf/open/floor/iron/smooth_corner{
+	dir = 8
+	},
+/area/space)
+"JU" = (
+/obj/effect/decal/cleanable/dirt,
+/mob/living/basic/cockroach,
+/turf/open/floor/iron/smooth_large,
+/area/space)
+"KZ" = (
+/obj/structure/lattice/catwalk,
+/mob/living/basic/cockroach,
+/turf/open/water,
+/area/space)
+"NH" = (
+/obj/structure/railing,
+/turf/open/floor/iron/smooth_half,
+/area/space)
+"PJ" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/stone,
+/area/space)
+"QP" = (
+/obj/structure/railing,
+/turf/open/water,
+/area/space)
+"Rp" = (
+/obj/structure/lattice/catwalk,
+/obj/item/cigbutt{
+	pixel_x = -13;
+	pixel_y = 16
+	},
+/turf/open/water,
+/area/space)
+"RX" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/water,
+/area/space)
+"SG" = (
+/obj/structure/lattice/catwalk,
+/obj/item/ammo_casing/spent{
+	pixel_x = -2;
+	pixel_y = 9
+	},
+/turf/open/water,
+/area/space)
+"TB" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/trash/chips,
+/turf/open/floor/iron/smooth_corner{
+	dir = 1
+	},
+/area/space)
+"UZ" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/smooth_large,
+/area/space)
+"Vc" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/iron/smooth_corner{
+	dir = 1
+	},
+/area/space)
+"YL" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/trash/cnds{
+	pixel_x = -5;
+	pixel_y = 5
+	},
+/turf/open/floor/stone,
+/area/space)
+"Zn" = (
+/obj/structure/lattice/catwalk,
+/obj/item/trash/sosjerky{
+	pixel_x = -8;
+	pixel_y = -4
+	},
+/turf/open/water,
+/area/space)
+"Zp" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/cigbutt{
+	pixel_x = -13
+	},
+/turf/open/water,
+/area/space)
+
+(1,1,1) = {"
+YL
+pj
+hf
+hf
+hf
+pI
+pI
+PJ
+hf
+iG
+"}
+(2,1,1) = {"
+vd
+hf
+pG
+Jf
+us
+hN
+uz
+sv
+pI
+uu
+"}
+(3,1,1) = {"
+rc
+if
+wW
+EX
+Gg
+Gg
+Zn
+sw
+EJ
+yC
+"}
+(4,1,1) = {"
+ti
+xe
+oR
+ru
+Gg
+Hc
+vq
+hB
+qw
+vd
+"}
+(5,1,1) = {"
+UZ
+NH
+hW
+ii
+Gg
+Gg
+Gg
+QP
+zk
+Gr
+"}
+(6,1,1) = {"
+pI
+NH
+RX
+oK
+Gg
+Gg
+ru
+Ih
+EC
+hf
+"}
+(7,1,1) = {"
+hf
+NH
+hW
+Gg
+ru
+yM
+Gg
+QP
+EC
+pI
+"}
+(8,1,1) = {"
+rE
+xe
+hW
+Gg
+Gg
+Gg
+Gg
+Ih
+zO
+hf
+"}
+(9,1,1) = {"
+pI
+NH
+hW
+Gg
+Gg
+ru
+Gg
+QP
+EC
+pI
+"}
+(10,1,1) = {"
+pI
+xe
+hW
+Gg
+Gg
+Gg
+ru
+QP
+xH
+pI
+"}
+(11,1,1) = {"
+hf
+NH
+hW
+ru
+ru
+Gg
+ru
+QP
+EC
+hf
+"}
+(12,1,1) = {"
+yy
+xe
+hW
+yM
+Gg
+Gg
+Zp
+Ih
+qH
+pI
+"}
+(13,1,1) = {"
+UZ
+fK
+RX
+KZ
+zc
+nl
+SG
+QP
+xH
+JU
+"}
+(14,1,1) = {"
+pI
+zs
+hW
+Gg
+Cp
+md
+Gg
+Ih
+EC
+hf
+"}
+(15,1,1) = {"
+vd
+Jj
+sv
+Gg
+zc
+Rp
+Gg
+eV
+TB
+pI
+"}
+(16,1,1) = {"
+zS
+pI
+uP
+Bm
+uz
+us
+hN
+Vc
+pj
+hf
+"}
+(17,1,1) = {"
+pI
+hf
+pI
+pI
+pI
+pI
+hf
+pI
+hf
+pI
+"}

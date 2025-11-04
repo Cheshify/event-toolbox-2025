@@ -1,0 +1,1073 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"bo" = (
+/obj/machinery/griddle,
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/machinery/light/directional/west,
+/obj/item/storage/fancy/cigarettes/cigpack_midori{
+	pixel_y = 10;
+	pixel_x = -6
+	},
+/obj/item/clothing/mask/cigarette{
+	pixel_y = 5
+	},
+/obj/item/lighter{
+	pixel_x = 4;
+	pixel_y = 4
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"bp" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/misc/snow{
+	temperature = 180
+	},
+/area/centcom/tdome/arena)
+"bu" = (
+/obj/effect/decal/cleanable/blood/hitsplatter{
+	dir = 8
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"bB" = (
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/effect/decal/cleanable/food/flour,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"cM" = (
+/obj/structure/kitchenspike,
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/misc/snow{
+	temperature = 180
+	},
+/area/centcom/tdome/arena)
+"dD" = (
+/obj/item/food/dough,
+/obj/item/kitchen/rollingpin,
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/machinery/light/directional/east,
+/obj/structure/table,
+/obj/effect/decal/cleanable/food/flour,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"dO" = (
+/obj/structure/kitchenspike,
+/obj/item/stack/sheet/animalhide/monkey,
+/obj/item/food/meat/slab/monkey,
+/obj/item/food/meat/slab/monkey,
+/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 9
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 10
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"ew" = (
+/obj/structure/fans/tiny/invisible,
+/obj/effect/turf_decal/stripes/red/full,
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"fq" = (
+/obj/structure/kitchenspike,
+/obj/item/stack/sheet/animalhide/monkey,
+/obj/item/food/meat/slab/monkey,
+/obj/item/food/meat/slab/monkey,
+/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 4
+	},
+/turf/open/misc/snow{
+	temperature = 180
+	},
+/area/centcom/tdome/arena)
+"gf" = (
+/obj/structure/kitchenspike,
+/obj/effect/mob_spawn/corpse/human/monkey,
+/obj/machinery/atmospherics/components/unary/passive_vent,
+/turf/open/misc/snow{
+	temperature = 180
+	},
+/area/centcom/tdome/arena)
+"iQ" = (
+/obj/effect/turf_decal/stripes/red/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/weather/snow/corner,
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"jr" = (
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"kb" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"kc" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"lb" = (
+/obj/machinery/vending/wardrobe/chef_wardrobe,
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"lX" = (
+/obj/effect/turf_decal/stripes/red/corner{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/blood/footprints{
+	dir = 8
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"lZ" = (
+/obj/effect/turf_decal/stripes/red/corner,
+/obj/effect/decal/cleanable/blood/footprints{
+	dir = 4
+	},
+/obj/effect/turf_decal/weather/snow/corner,
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"op" = (
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/structure/sink/kitchen/directional/north,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"oL" = (
+/obj/structure/kitchenspike,
+/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/machinery/light/cold/directional/west,
+/turf/open/misc/snow{
+	temperature = 180
+	},
+/area/centcom/tdome/arena)
+"pA" = (
+/obj/structure/fans/tiny/invisible,
+/obj/effect/turf_decal/stripes/red/full,
+/obj/effect/turf_decal/weather/snow/corner,
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"pZ" = (
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"qf" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 9
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"rh" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 5
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 9
+	},
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 9
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"rO" = (
+/obj/structure/kitchenspike,
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 4
+	},
+/turf/open/misc/snow{
+	temperature = 180
+	},
+/area/centcom/tdome/arena)
+"sK" = (
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/effect/decal/cleanable/blood/drip{
+	pixel_y = 13;
+	pixel_x = -7
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"tb" = (
+/obj/item/clothing/suit/apron/chef,
+/obj/item/clothing/suit/apron/chef,
+/obj/item/clothing/suit/apron/chef,
+/obj/item/clothing/head/soft/mime,
+/obj/item/clothing/head/soft/mime,
+/obj/item/clothing/head/soft/mime,
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/structure/extinguisher_cabinet/directional/east,
+/obj/structure/table,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"th" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 6
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"ti" = (
+/obj/machinery/vending/dinnerware,
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"tH" = (
+/obj/machinery/processor,
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/effect/decal/cleanable/blood/old,
+/obj/item/food/meat/slab/monkey,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"uF" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"vj" = (
+/obj/effect/turf_decal/stripes/red/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"vk" = (
+/obj/effect/spawner/structure/window/ice,
+/turf/open/floor/plating,
+/area/centcom/tdome/arena)
+"vq" = (
+/obj/structure/kitchenspike,
+/obj/item/stack/sheet/animalhide/monkey,
+/obj/item/food/meat/slab/monkey,
+/obj/item/food/meat/slab/monkey,
+/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 10
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 9
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"vK" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 5
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"wl" = (
+/obj/effect/turf_decal/stripes/red/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"yQ" = (
+/obj/structure/fans/tiny/invisible,
+/obj/effect/turf_decal/stripes/red/full,
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"zS" = (
+/obj/effect/decal/cleanable/blood/footprints,
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"Bh" = (
+/obj/effect/turf_decal/stripes/red/corner,
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"Bq" = (
+/obj/effect/turf_decal/weather/snow/corner,
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"Bs" = (
+/obj/structure/kitchenspike,
+/obj/item/stack/sheet/animalhide/monkey,
+/obj/item/food/meat/slab/monkey,
+/obj/item/food/meat/slab/monkey,
+/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 4
+	},
+/obj/machinery/atmospherics/components/unary/passive_vent,
+/turf/open/misc/snow{
+	temperature = 180
+	},
+/area/centcom/tdome/arena)
+"BU" = (
+/obj/structure/kitchenspike,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 6
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"Cf" = (
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/structure/sink/kitchen/directional/south,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"Cq" = (
+/obj/structure/kitchenspike,
+/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 6
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"Dg" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"Dx" = (
+/obj/structure/kitchenspike,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 8
+	},
+/obj/machinery/light/cold/directional/west,
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 9
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"DW" = (
+/obj/effect/turf_decal/stripes/red/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 4
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"Ey" = (
+/obj/structure/kitchenspike,
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 8
+	},
+/obj/machinery/atmospherics/components/unary/passive_vent,
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 9
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 5
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"EB" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/blood/drip{
+	pixel_y = 10
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"EQ" = (
+/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/blood/drip{
+	pixel_y = 7;
+	pixel_x = 13
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"FO" = (
+/obj/structure/kitchenspike,
+/obj/effect/decal/cleanable/blood/gibs/old,
+/turf/open/misc/snow{
+	temperature = 180
+	},
+/area/centcom/tdome/arena)
+"Gu" = (
+/obj/structure/kitchenspike,
+/obj/item/stack/sheet/animalhide/monkey,
+/obj/item/food/meat/slab/monkey,
+/obj/item/food/meat/slab/monkey,
+/obj/effect/decal/cleanable/blood/gibs,
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 4
+	},
+/obj/machinery/light/cold/directional/east,
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"Gz" = (
+/obj/structure/kitchenspike,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 4
+	},
+/turf/open/misc/snow{
+	temperature = 180
+	},
+/area/centcom/tdome/arena)
+"Ib" = (
+/turf/open/misc/snow{
+	temperature = 180
+	},
+/area/centcom/tdome/arena)
+"Ix" = (
+/obj/effect/decal/cleanable/blood/hitsplatter{
+	dir = 4
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"IT" = (
+/obj/machinery/griddle,
+/obj/item/food/raw_patty{
+	pixel_y = 6;
+	pixel_x = -7
+	},
+/obj/item/food/raw_patty{
+	pixel_y = 6;
+	pixel_x = 5
+	},
+/obj/item/food/raw_patty{
+	pixel_y = -1;
+	pixel_x = 5
+	},
+/obj/item/food/raw_patty{
+	pixel_y = -1;
+	pixel_x = -7
+	},
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"IX" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/weather/snow/corner,
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"JG" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 10
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"Kn" = (
+/obj/machinery/reagentgrinder{
+	pixel_y = 12;
+	pixel_x = -4
+	},
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/machinery/light/directional/west,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/reagent_containers/cup/soda_cans/beer{
+	pixel_x = 6;
+	pixel_y = 4
+	},
+/obj/structure/table,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"KV" = (
+/obj/effect/turf_decal/stripes/red/corner,
+/obj/effect/turf_decal/weather/snow/corner,
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"LS" = (
+/turf/closed/wall/ice,
+/area/centcom/tdome/arena)
+"LU" = (
+/obj/structure/kitchenspike,
+/obj/effect/decal/cleanable/blood/gibs/old,
+/obj/effect/mob_spawn/corpse/human/monkey,
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/atmospherics/components/unary/passive_vent,
+/turf/open/misc/snow{
+	temperature = 180
+	},
+/area/centcom/tdome/arena)
+"Nx" = (
+/obj/effect/decal/cleanable/blood/splatter,
+/turf/open/misc/snow{
+	temperature = 180
+	},
+/area/centcom/tdome/arena)
+"NT" = (
+/obj/structure/kitchenspike,
+/obj/effect/decal/cleanable/blood/splatter,
+/turf/open/misc/snow{
+	temperature = 180
+	},
+/area/centcom/tdome/arena)
+"OF" = (
+/obj/structure/fans/tiny/invisible,
+/obj/effect/turf_decal/stripes/red/full,
+/obj/machinery/door/airlock/multi_tile/public/glass{
+	dir = 8
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"OM" = (
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/effect/mapping_helpers/burnt_floor,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"Pl" = (
+/obj/item/storage/bag/tray,
+/obj/item/storage/bag/tray{
+	pixel_y = 4
+	},
+/obj/item/storage/bag/tray{
+	pixel_y = 8
+	},
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/structure/extinguisher_cabinet/directional/west,
+/obj/structure/table,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"Ps" = (
+/obj/structure/kitchenspike,
+/obj/machinery/light/cold/directional/east,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/misc/snow{
+	temperature = 180
+	},
+/area/centcom/tdome/arena)
+"Qu" = (
+/obj/effect/decal/cleanable/blood/tracks{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/misc/snow{
+	temperature = 180
+	},
+/area/centcom/tdome/arena)
+"QB" = (
+/obj/effect/decal/cleanable/blood/footprints{
+	dir = 8
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"QK" = (
+/obj/machinery/chem_master/condimaster{
+	name = "CondiMaster Neo"
+	},
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"QL" = (
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"QS" = (
+/obj/structure/kitchenspike,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 8
+	},
+/turf/open/misc/snow{
+	temperature = 180
+	},
+/area/centcom/tdome/arena)
+"RO" = (
+/obj/machinery/oven/range,
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/storage/bag/tray,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"RP" = (
+/obj/effect/turf_decal/stripes/red/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"Se" = (
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/effect/decal/cleanable/blood/drip,
+/obj/effect/decal/cleanable/blood/drip{
+	pixel_y = 7;
+	pixel_x = 13
+	},
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"Sx" = (
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/effect/decal/cleanable/blood/hitsplatter{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"SL" = (
+/obj/structure/kitchenspike,
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 5
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 6
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"Vb" = (
+/obj/structure/fans/tiny/invisible,
+/obj/effect/turf_decal/stripes/red/full,
+/obj/machinery/door/airlock/multi_tile/public/glass{
+	dir = 4
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"Wz" = (
+/obj/effect/spawner/structure/window/ice,
+/obj/effect/decal/cleanable/blood/splatter/over_window,
+/turf/open/floor/plating,
+/area/centcom/tdome/arena)
+"WX" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 9
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 5
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"Xc" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 10
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"Yo" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/blood/drip{
+	pixel_y = 6
+	},
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+"Yr" = (
+/obj/structure/kitchenspike,
+/turf/open/misc/snow{
+	temperature = 180
+	},
+/area/centcom/tdome/arena)
+"Zx" = (
+/obj/machinery/oven/range,
+/obj/effect/turf_decal/tile/bar/diagonal_centre,
+/obj/effect/turf_decal/tile/dark/diagonal_centre,
+/obj/machinery/light/directional/east,
+/obj/effect/mapping_helpers/burnt_floor,
+/turf/open/floor/iron/kitchen/diagonal,
+/area/centcom/tdome/arena)
+"ZS" = (
+/obj/structure/kitchenspike,
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 10
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 6
+	},
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/iron/freezer{
+	temperature = 180;
+	initial_gas_mix = "o2=22;n2=82;TEMP=180"
+	},
+/area/centcom/tdome/arena)
+
+(1,1,1) = {"
+LS
+ew
+pA
+LS
+vk
+vk
+LS
+ew
+pA
+LS
+"}
+(2,1,1) = {"
+Ey
+vj
+iQ
+oL
+dO
+NT
+Dx
+vj
+iQ
+gf
+"}
+(3,1,1) = {"
+bp
+uF
+QL
+kb
+Ix
+EB
+zS
+QL
+Bq
+Ib
+"}
+(4,1,1) = {"
+WX
+QL
+qf
+EQ
+IX
+Qu
+vK
+QL
+QL
+JG
+"}
+(5,1,1) = {"
+fq
+RP
+lZ
+Gz
+SL
+rO
+fq
+RP
+Bh
+Cq
+"}
+(6,1,1) = {"
+LS
+yQ
+OF
+LS
+Wz
+vk
+LS
+yQ
+OF
+LS
+"}
+(7,1,1) = {"
+Pl
+pZ
+pZ
+Kn
+tH
+IT
+bo
+jr
+pZ
+lb
+"}
+(8,1,1) = {"
+jr
+pZ
+pZ
+Se
+Sx
+sK
+jr
+pZ
+pZ
+jr
+"}
+(9,1,1) = {"
+Cf
+pZ
+pZ
+pZ
+pZ
+pZ
+pZ
+pZ
+pZ
+op
+"}
+(10,1,1) = {"
+jr
+pZ
+pZ
+pZ
+OM
+pZ
+bB
+pZ
+pZ
+pZ
+"}
+(11,1,1) = {"
+ti
+jr
+pZ
+Zx
+RO
+QK
+dD
+bB
+jr
+tb
+"}
+(12,1,1) = {"
+LS
+yQ
+Vb
+LS
+vk
+vk
+LS
+yQ
+Vb
+LS
+"}
+(13,1,1) = {"
+QS
+DW
+iQ
+cM
+Yr
+vq
+FO
+lX
+wl
+ZS
+"}
+(14,1,1) = {"
+Ib
+Yo
+QL
+Xc
+Nx
+uF
+kc
+QB
+Bq
+bp
+"}
+(15,1,1) = {"
+rh
+th
+QL
+bu
+kc
+Dg
+Dg
+QB
+Bq
+Ib
+"}
+(16,1,1) = {"
+LU
+RP
+Bh
+Gu
+BU
+Yr
+Ps
+RP
+KV
+Bs
+"}
+(17,1,1) = {"
+LS
+ew
+pA
+LS
+vk
+vk
+LS
+ew
+pA
+LS
+"}

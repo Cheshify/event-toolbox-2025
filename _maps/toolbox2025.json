@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"map_name": "Toolbox 2025",
+	"map_path": "map_files/Toolbox2025",
+	"map_file": "toolbox_2025.dmm",
+	"traits": [
+		{
+			"Up": true,
+			"Linkage": "Cross"
+		},
+		{
+			"Down": true,
+			"Baseturf": "/turf/open/openspace",
+			"Linkage": "Cross"
+		}
+	]
+}

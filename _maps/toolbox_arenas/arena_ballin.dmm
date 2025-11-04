@@ -1,0 +1,1444 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"bk" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark,
+/obj/effect/turf_decal/siding/thinplating_new/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/dark/warning{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/space)
+"bL" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark,
+/obj/effect/turf_decal/siding/thinplating_new/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark/warning{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/space)
+"ca" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark/corner{
+	dir = 4
+	},
+/obj/item/clothing/head/cone{
+	pixel_x = -8;
+	pixel_y = 1
+	},
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 4
+	},
+/turf/open/floor/stone,
+/area/space)
+"cz" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark/corner,
+/turf/open/floor/stone,
+/area/space)
+"cV" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/thinplating_new/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/dark/warning,
+/turf/open/floor/stone,
+/area/space)
+"dt" = (
+/obj/effect/turf_decal/trimline/dark,
+/obj/effect/turf_decal/trimline/dark/mid_joiner,
+/obj/effect/turf_decal/trimline/dark/mid_joiner{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark/mid_joiner{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/dark/mid_joiner{
+	dir = 8
+	},
+/obj/structure/flora/tree/dead/style_6{
+	pixel_x = -18;
+	pixel_y = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/misc/dirt,
+/area/space)
+"eu" = (
+/obj/structure/hoop,
+/obj/effect/turf_decal/trimline/neutral/end,
+/turf/open/floor/iron/dark/textured_large,
+/area/space)
+"eG" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark,
+/obj/effect/turf_decal/trimline/dark/warning{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/space)
+"fW" = (
+/obj/effect/turf_decal/siding/thinplating_new/corner,
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/trimline/dark/warning,
+/turf/open/floor/stone,
+/area/space)
+"gI" = (
+/obj/effect/turf_decal/trimline/neutral/warning,
+/turf/open/floor/iron/dark/textured_corner{
+	dir = 4
+	},
+/area/space)
+"hp" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/space)
+"hP" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/structure/rack,
+/obj/item/stack/package_wrap,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/space)
+"hS" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 6
+	},
+/turf/open/floor/iron/dark/textured_corner{
+	dir = 1
+	},
+/area/space)
+"iY" = (
+/obj/structure/flora/tree/dead/style_4{
+	pixel_x = -19;
+	pixel_y = 8
+	},
+/obj/effect/turf_decal/trimline/dark,
+/obj/effect/turf_decal/trimline/dark/mid_joiner,
+/obj/effect/turf_decal/trimline/dark/mid_joiner{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark/mid_joiner{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/dark/mid_joiner{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/misc/dirt,
+/area/space)
+"jb" = (
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/textured_edge,
+/area/space)
+"ji" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/space)
+"jx" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/thinplating_new,
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 4
+	},
+/obj/item/chair/plastic,
+/turf/open/floor/stone,
+/area/space)
+"ke" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark/corner{
+	dir = 8
+	},
+/obj/item/trash/flare{
+	pixel_y = 16
+	},
+/obj/effect/turf_decal/siding/thinplating_new{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 8
+	},
+/turf/open/floor/stone,
+/area/space)
+"kr" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured,
+/area/space)
+"ks" = (
+/obj/structure/hedge,
+/obj/structure/fence/cut/large{
+	dir = 4
+	},
+/turf/open/space/basic,
+/area/space)
+"kD" = (
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 9
+	},
+/turf/open/floor/iron/dark/textured_corner{
+	dir = 4
+	},
+/area/space)
+"ms" = (
+/obj/effect/turf_decal/trimline/neutral/warning{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured_edge,
+/area/space)
+"mR" = (
+/obj/effect/decal/cleanable/blood/old{
+	icon_state = "floor4-old"
+	},
+/turf/open/floor/iron/dark/textured,
+/area/space)
+"mV" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/textured_corner{
+	dir = 4
+	},
+/area/space)
+"nS" = (
+/obj/effect/turf_decal/trimline/neutral/warning,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/dark/textured_corner{
+	dir = 4
+	},
+/area/space)
+"oK" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark,
+/obj/effect/turf_decal/trimline/dark/warning{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/space)
+"ph" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark/corner{
+	dir = 4
+	},
+/obj/item/trash/boritos/purple{
+	pixel_y = -8
+	},
+/obj/effect/turf_decal/siding/thinplating_new,
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 4
+	},
+/turf/open/floor/stone,
+/area/space)
+"pB" = (
+/obj/effect/turf_decal/trimline/neutral/line,
+/obj/item/ammo_casing{
+	dir = 10;
+	pixel_y = -8
+	},
+/turf/open/floor/iron/dark/textured,
+/area/space)
+"pJ" = (
+/obj/effect/turf_decal/siding/thinplating_new/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner,
+/obj/effect/turf_decal/trimline/dark/warning{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/space)
+"qf" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/structure/fans/tiny,
+/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/wrapping,
+/turf/open/floor/catwalk_floor,
+/area/space)
+"qG" = (
+/obj/effect/turf_decal/siding/thinplating_new,
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 8
+	},
+/turf/open/floor/stone,
+/area/space)
+"qM" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/thinplating_new,
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/space)
+"qT" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/thinplating_new/corner,
+/obj/effect/turf_decal/trimline/dark/warning,
+/turf/open/floor/stone,
+/area/space)
+"rb" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner,
+/obj/effect/turf_decal/trimline/dark/corner,
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/space)
+"rY" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/machinery/food_cart,
+/obj/structure/railing{
+	dir = 8
+	},
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/space)
+"sf" = (
+/obj/effect/turf_decal/siding/thinplating_new/corner{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/ash{
+	pixel_x = -10;
+	pixel_y = 15
+	},
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/dark/warning{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/space)
+"sk" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark/corner{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 8
+	},
+/turf/open/floor/stone,
+/area/space)
+"sn" = (
+/obj/item/newspaper{
+	pixel_x = 5;
+	pixel_y = 11
+	},
+/obj/effect/turf_decal/siding/thinplating_new/dark,
+/obj/effect/decal/cleanable/robot_debris{
+	pixel_x = 3;
+	pixel_y = 20
+	},
+/obj/effect/turf_decal/trimline/dark/warning{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/space)
+"ta" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/structure/closet/crate/trashcart,
+/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/greenglow,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/space)
+"ts" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/thinplating_new,
+/obj/effect/turf_decal/trimline/dark/corner,
+/obj/structure/chair{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/space)
+"tH" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 1
+	},
+/obj/item/ammo_casing{
+	dir = 8;
+	pixel_x = -6;
+	pixel_y = -6
+	},
+/turf/open/floor/iron/dark/textured_corner,
+/area/space)
+"uv" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/structure/fans/tiny,
+/obj/structure/railing{
+	dir = 8
+	},
+/turf/open/floor/catwalk_floor,
+/area/space)
+"vx" = (
+/obj/effect/decal/cleanable/glass,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/item/clothing/head/cone{
+	pixel_x = 3;
+	pixel_y = -6
+	},
+/turf/open/floor/stone,
+/area/space)
+"vA" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 4
+	},
+/turf/open/floor/stone,
+/area/space)
+"vQ" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/catwalk_floor,
+/area/space)
+"wz" = (
+/obj/effect/decal/cleanable/blood/old{
+	icon_state = "floor7-old"
+	},
+/turf/open/floor/iron/dark/textured_edge{
+	dir = 1
+	},
+/area/space)
+"xB" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/dark/warning{
+	dir = 8
+	},
+/turf/open/floor/stone,
+/area/space)
+"xH" = (
+/turf/open/floor/iron/dark/textured_half,
+/area/space)
+"ym" = (
+/turf/open/floor/iron/dark/textured_corner{
+	dir = 1
+	},
+/area/space)
+"yv" = (
+/obj/structure/grille,
+/obj/structure/fence{
+	dir = 4
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"yE" = (
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/textured_corner{
+	dir = 8
+	},
+/area/space)
+"yI" = (
+/obj/effect/decal/cleanable/glass,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 4
+	},
+/turf/open/floor/stone,
+/area/space)
+"zp" = (
+/obj/effect/decal/cleanable/blood/old{
+	icon_state = "floor6-old"
+	},
+/turf/open/floor/iron/dark/textured_half{
+	dir = 1
+	},
+/area/space)
+"zK" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark{
+	dir = 10
+	},
+/obj/effect/turf_decal/trimline/dark/warning{
+	dir = 10
+	},
+/turf/open/floor/stone,
+/area/space)
+"Aj" = (
+/obj/effect/turf_decal/trimline/neutral/warning{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured_edge{
+	dir = 8
+	},
+/area/space)
+"AC" = (
+/obj/effect/turf_decal/trimline/neutral/line,
+/turf/open/floor/iron/dark/textured_large,
+/area/space)
+"Bj" = (
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 5
+	},
+/turf/open/floor/iron/dark/textured,
+/area/space)
+"Br" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark/corner,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/trimline/dark/corner,
+/turf/open/floor/stone,
+/area/space)
+"BQ" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/turf/open/floor/catwalk_floor,
+/area/space)
+"BW" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/thinplating_new,
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 8
+	},
+/turf/open/floor/stone,
+/area/space)
+"BY" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/structure/fans/tiny,
+/obj/effect/decal/cleanable/blood/old{
+	icon_state = "floor4-old"
+	},
+/turf/open/floor/catwalk_floor,
+/area/space)
+"Cy" = (
+/obj/effect/turf_decal/trimline/neutral/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/neutral/corner{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/dark/textured_large,
+/area/space)
+"CC" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/oil,
+/obj/effect/decal/cleanable/wrapping/pinata/syndie,
+/obj/structure/railing{
+	dir = 4
+	},
+/mob/living/basic/cockroach,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/space)
+"CP" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/structure/closet/crate/trashcart,
+/obj/effect/decal/cleanable/greenglow,
+/obj/structure/railing{
+	dir = 8
+	},
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/space)
+"Dq" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark/corner,
+/obj/effect/turf_decal/siding/thinplating_new{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/garbage{
+	pixel_y = 2
+	},
+/obj/effect/turf_decal/trimline/dark/corner,
+/turf/open/floor/stone,
+/area/space)
+"DG" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/space)
+"DH" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark/warning,
+/turf/open/floor/stone,
+/area/space)
+"DP" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/space)
+"Ec" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/trimline/dark/warning,
+/turf/open/floor/stone,
+/area/space)
+"EA" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/structure/displaycase_chassis,
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/space)
+"EM" = (
+/obj/effect/turf_decal/trimline/neutral/line,
+/turf/open/floor/iron/dark/textured_half{
+	dir = 1
+	},
+/area/space)
+"Ge" = (
+/obj/structure/fence{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/crayon{
+	icon_state = "ghost"
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"Ha" = (
+/obj/effect/turf_decal/siding/thinplating_new,
+/obj/effect/decal/cleanable/garbage{
+	pixel_y = 2
+	},
+/obj/effect/turf_decal/trimline/dark/corner,
+/turf/open/floor/stone,
+/area/space)
+"Hy" = (
+/obj/effect/turf_decal/siding/thinplating_new{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 1
+	},
+/obj/item/trash/cnds{
+	pixel_y = 8
+	},
+/turf/open/floor/stone,
+/area/space)
+"HM" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/catwalk_floor,
+/area/space)
+"HP" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/leaper_sludge,
+/obj/structure/railing{
+	dir = 4
+	},
+/obj/structure/table_frame,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/space)
+"HU" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark,
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 4
+	},
+/obj/item/clothing/head/cone{
+	pixel_x = 6;
+	pixel_y = 6
+	},
+/obj/effect/turf_decal/trimline/dark/warning,
+/turf/open/floor/stone,
+/area/space)
+"HZ" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 8
+	},
+/turf/open/floor/stone,
+/area/space)
+"Ij" = (
+/obj/structure/fence{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/crayon{
+	icon_state = "ghost"
+	},
+/obj/structure/barricade/wooden/crude,
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"In" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark{
+	dir = 5
+	},
+/obj/effect/turf_decal/trimline/dark/warning{
+	dir = 5
+	},
+/turf/open/floor/stone,
+/area/space)
+"Ix" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/structure/holosign/barrier,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/space)
+"IF" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/structure/dresser,
+/obj/effect/decal/cleanable/wrapping,
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/space)
+"IO" = (
+/obj/effect/turf_decal/trimline/neutral/warning{
+	dir = 1
+	},
+/obj/item/ammo_casing{
+	dir = 9;
+	pixel_x = 5
+	},
+/obj/item/ammo_casing{
+	pixel_x = -7;
+	pixel_y = 11
+	},
+/turf/open/floor/iron/dark/textured_half,
+/area/space)
+"Je" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/thinplating_new/dark,
+/obj/effect/turf_decal/trimline/dark/warning{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/space)
+"Jn" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark/warning,
+/turf/open/floor/stone,
+/area/space)
+"JS" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/dark/textured_edge{
+	dir = 8
+	},
+/area/space)
+"KA" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/trimline/neutral/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/textured,
+/area/space)
+"KL" = (
+/obj/effect/decal/cleanable/glass,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/turf/open/floor/stone,
+/area/space)
+"KS" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/thinplating_new/dark,
+/obj/effect/turf_decal/trimline/dark/warning,
+/turf/open/floor/stone,
+/area/space)
+"Lk" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark{
+	dir = 6
+	},
+/obj/effect/turf_decal/trimline/dark/warning{
+	dir = 6
+	},
+/turf/open/floor/stone,
+/area/space)
+"Ll" = (
+/obj/effect/decal/cleanable/crayon{
+	icon_state = "Psyke"
+	},
+/turf/open/floor/iron/dark/textured_edge{
+	dir = 8
+	},
+/area/space)
+"LD" = (
+/obj/effect/turf_decal/trimline/neutral/warning,
+/turf/open/floor/iron/dark/textured_edge{
+	dir = 4
+	},
+/area/space)
+"LN" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark,
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark/warning,
+/turf/open/floor/stone,
+/area/space)
+"LP" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark/corner{
+	dir = 1
+	},
+/obj/item/trash/candle{
+	pixel_x = -2;
+	pixel_y = -8
+	},
+/obj/effect/turf_decal/siding/thinplating_new,
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/space)
+"Ma" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/space)
+"MT" = (
+/obj/effect/turf_decal/siding/thinplating_new{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 4
+	},
+/mob/living/basic/cockroach,
+/turf/open/floor/stone,
+/area/space)
+"MU" = (
+/obj/structure/flora/tree/dead{
+	pixel_x = -18;
+	pixel_y = 8
+	},
+/obj/effect/turf_decal/trimline/dark,
+/obj/effect/turf_decal/trimline/dark/mid_joiner,
+/obj/effect/turf_decal/trimline/dark/mid_joiner{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark/mid_joiner{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/dark/mid_joiner{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/blood/old{
+	icon_state = "floor5-old"
+	},
+/turf/open/misc/dirt,
+/area/space)
+"Nv" = (
+/turf/open/floor/iron/dark/textured,
+/area/space)
+"NY" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/structure/closet/cardboard,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/space)
+"Ob" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark{
+	dir = 9
+	},
+/obj/effect/turf_decal/trimline/dark/warning{
+	dir = 9
+	},
+/turf/open/floor/stone,
+/area/space)
+"Ou" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner,
+/obj/effect/turf_decal/trimline/dark/warning{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/space)
+"OA" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 10
+	},
+/turf/open/floor/iron/dark/textured,
+/area/space)
+"OC" = (
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/textured_edge{
+	dir = 8
+	},
+/area/space)
+"OH" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark,
+/obj/effect/turf_decal/siding/thinplating_new{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 8
+	},
+/obj/item/chair/plastic{
+	pixel_y = 18
+	},
+/turf/open/floor/stone,
+/area/space)
+"Pm" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/trimline/dark/warning{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/space)
+"Po" = (
+/obj/effect/decal/cleanable/blood/old{
+	icon_state = "floor5-old"
+	},
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/space)
+"Px" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/structure/fans,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/space)
+"PA" = (
+/obj/effect/turf_decal/trimline/neutral/line{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/space)
+"Qv" = (
+/obj/effect/turf_decal/siding/thinplating_new/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 4
+	},
+/obj/item/clothing/head/cone{
+	pixel_x = 19;
+	pixel_y = -1
+	},
+/obj/effect/turf_decal/trimline/dark/warning,
+/turf/open/floor/stone,
+/area/space)
+"QE" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/dark/warning{
+	dir = 4
+	},
+/turf/open/floor/stone,
+/area/space)
+"Rc" = (
+/turf/open/floor/iron/dark/textured_edge{
+	dir = 1
+	},
+/area/space)
+"Rq" = (
+/obj/item/trash/ready_donk{
+	pixel_y = 8
+	},
+/obj/effect/turf_decal/siding/thinplating_new/dark,
+/obj/effect/turf_decal/trimline/dark/warning{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/space)
+"RS" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/machinery/icecream_vat,
+/obj/effect/decal/cleanable/oil,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/space)
+"RT" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/trimline/neutral/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/textured_corner{
+	dir = 8
+	},
+/area/space)
+"Sc" = (
+/obj/effect/turf_decal/trimline/neutral/warning{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured_corner{
+	dir = 1
+	},
+/area/space)
+"SX" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/vomit,
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/catwalk_floor,
+/area/space)
+"TU" = (
+/obj/item/toy/basketball{
+	pixel_x = -8;
+	pixel_y = -6
+	},
+/obj/effect/turf_decal/trimline/neutral/corner,
+/obj/effect/turf_decal/trimline/neutral/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/space)
+"Uz" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/turf_decal/trimline/neutral/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured,
+/area/space)
+"UA" = (
+/obj/structure/hoop{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/neutral/end{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/space)
+"UU" = (
+/obj/effect/decal/cleanable/crayon{
+	icon_state = "Newton"
+	},
+/turf/open/floor/iron/dark/textured_edge,
+/area/space)
+"Wr" = (
+/obj/structure/hedge,
+/obj/structure/fence/cut/medium{
+	dir = 4
+	},
+/turf/open/space/basic,
+/area/space)
+"Wt" = (
+/obj/effect/turf_decal/trimline/neutral/warning{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured_edge{
+	dir = 4
+	},
+/area/space)
+"WE" = (
+/obj/effect/turf_decal/trimline/neutral/warning,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark/textured,
+/area/space)
+"WV" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark,
+/obj/effect/turf_decal/siding/thinplating_new{
+	dir = 1
+	},
+/obj/item/clothing/head/fedora{
+	pixel_y = 8
+	},
+/obj/effect/turf_decal/trimline/dark/corner,
+/turf/open/floor/stone,
+/area/space)
+"Xf" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark,
+/obj/effect/turf_decal/siding/thinplating_new{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 4
+	},
+/turf/open/floor/stone,
+/area/space)
+"Xy" = (
+/obj/structure/lattice/catwalk,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/structure/fans/tiny,
+/obj/structure/frame/machine{
+	anchored = 1
+	},
+/obj/item/usb_cable,
+/turf/open/floor/catwalk_floor,
+/area/space)
+"XK" = (
+/turf/open/floor/iron/dark/textured_half{
+	dir = 1
+	},
+/area/space)
+"XL" = (
+/obj/effect/turf_decal/trimline/neutral/warning,
+/turf/open/floor/iron/dark/textured_edge{
+	dir = 1
+	},
+/area/space)
+"XP" = (
+/obj/structure/fence{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/crayon{
+	icon_state = "ghost";
+	pixel_y = -5
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/space)
+"YY" = (
+/obj/effect/turf_decal/trimline/neutral/corner,
+/turf/open/floor/iron/dark/textured,
+/area/space)
+"Zu" = (
+/obj/effect/turf_decal/trimline/dark,
+/obj/effect/turf_decal/trimline/dark/mid_joiner,
+/obj/effect/turf_decal/trimline/dark/mid_joiner{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark/mid_joiner{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/dark/mid_joiner{
+	dir = 8
+	},
+/obj/structure/flora/tree/dead/style_3{
+	pixel_y = 9
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/misc/dirt,
+/area/space)
+"ZJ" = (
+/obj/effect/turf_decal/siding/wideplating_new/dark,
+/obj/effect/turf_decal/siding/thinplating_new{
+	dir = 1
+	},
+/obj/effect/turf_decal/trimline/dark/corner{
+	dir = 1
+	},
+/obj/structure/chair{
+	pixel_y = 16
+	},
+/turf/open/floor/stone,
+/area/space)
+
+(1,1,1) = {"
+ta
+sn
+HM
+DH
+hp
+vQ
+Je
+DP
+Jn
+Xy
+"}
+(2,1,1) = {"
+Ix
+Rq
+dt
+DH
+Ma
+DG
+Je
+Zu
+Jn
+hP
+"}
+(3,1,1) = {"
+IF
+sf
+vx
+LN
+BQ
+DG
+Pm
+KL
+fW
+CC
+"}
+(4,1,1) = {"
+Wr
+Hy
+Br
+vA
+xB
+xB
+cz
+ca
+qG
+XP
+"}
+(5,1,1) = {"
+yv
+Dq
+Lk
+xH
+pB
+tH
+Nv
+In
+ph
+ks
+"}
+(6,1,1) = {"
+XP
+OH
+Uz
+ym
+gI
+IO
+UU
+KA
+qM
+XP
+"}
+(7,1,1) = {"
+ks
+Xf
+Rc
+zp
+WE
+Aj
+wz
+xH
+ts
+Ge
+"}
+(8,1,1) = {"
+uv
+bL
+OC
+OA
+AC
+PA
+kD
+mV
+cV
+CP
+"}
+(9,1,1) = {"
+Px
+eG
+eu
+XL
+TU
+Cy
+Wt
+UA
+Ec
+qf
+"}
+(10,1,1) = {"
+EA
+bk
+yE
+hS
+AC
+Po
+Bj
+jb
+qT
+HP
+"}
+(11,1,1) = {"
+Ge
+ZJ
+Nv
+mR
+LD
+Sc
+JS
+XK
+BW
+ks
+"}
+(12,1,1) = {"
+ks
+WV
+RT
+Ll
+nS
+ms
+xH
+YY
+jx
+yv
+"}
+(13,1,1) = {"
+Ij
+ke
+zK
+Rc
+EM
+kr
+Nv
+Ob
+LP
+Wr
+"}
+(14,1,1) = {"
+XP
+MT
+sk
+rb
+QE
+QE
+HZ
+ji
+Ha
+XP
+"}
+(15,1,1) = {"
+rY
+pJ
+yI
+HU
+DP
+BQ
+Ou
+yI
+Qv
+SX
+"}
+(16,1,1) = {"
+BY
+oK
+iY
+KS
+DG
+hp
+Je
+MU
+Jn
+Ix
+"}
+(17,1,1) = {"
+RS
+oK
+DP
+KS
+BQ
+Ma
+Je
+BQ
+Jn
+NY
+"}
