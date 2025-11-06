@@ -645,7 +645,9 @@
 "bY" = (
 /obj/effect/turf_decal/siding/wood,
 /turf/open/floor/carpet/blue,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "bZ" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
@@ -792,7 +794,9 @@
 "cx" = (
 /obj/effect/landmark/tournament_spawn_valid_location,
 /turf/open/floor/carpet/blue,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "cz" = (
 /obj/effect/turf_decal/trimline/green/filled/line{
 	dir = 4
@@ -1809,7 +1813,9 @@
 "gm" = (
 /obj/effect/turf_decal/siding/wood,
 /turf/open/floor/stone,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "gn" = (
 /obj/structure/fake_stairs/stone{
 	dir = 1
@@ -1950,7 +1956,9 @@
 	arena_id = "a2"
 	},
 /turf/open/floor/wood/large,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "gM" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/iron/herringbone,
@@ -2594,7 +2602,9 @@
 /area/event)
 "jm" = (
 /turf/closed/indestructible/riveted,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "jn" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 8
@@ -2611,7 +2621,9 @@
 	team_id = "green"
 	},
 /turf/open/floor/wood/large,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "jr" = (
 /obj/structure/chair/sofa/bench/left{
 	dir = 4
@@ -2702,7 +2714,9 @@
 	team_id = "green"
 	},
 /turf/open/floor/wood/large,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "jD" = (
 /obj/structure/sign/poster/contraband/fake_bombable/directional/east,
 /turf/open/floor/wood,
@@ -2718,19 +2732,25 @@
 "jG" = (
 /obj/structure/rack,
 /turf/open/floor/wood/large,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "jH" = (
 /obj/effect/landmark/arena/end{
 	arena_id = "a4"
 	},
 /turf/open/floor/plating,
-/area/centcom/tdome/arena)
+/area/centcom/tdome/arena{
+	base_lighting_alpha = 255
+	})
 "jJ" = (
 /obj/effect/landmark/arena/start{
 	arena_id = "a3"
 	},
 /turf/open/floor/plating,
-/area/centcom/tdome/arena)
+/area/centcom/tdome/arena{
+	base_lighting_alpha = 255
+	})
 "jN" = (
 /obj/effect/turf_decal/siding/wideplating_new{
 	dir = 4
@@ -2924,7 +2944,9 @@
 	arena_id = "a2"
 	},
 /turf/open/floor/plating,
-/area/centcom/tdome/arena)
+/area/centcom/tdome/arena{
+	base_lighting_alpha = 255
+	})
 "kv" = (
 /obj/effect/turf_decal/siding/wideplating_new/corner,
 /obj/effect/turf_decal/siding/wideplating_new/corner{
@@ -3248,7 +3270,9 @@
 	arena_id = "a3"
 	},
 /turf/open/floor/plating,
-/area/centcom/tdome/arena)
+/area/centcom/tdome/arena{
+	base_lighting_alpha = 255
+	})
 "lE" = (
 /obj/structure/table/wood/fancy/red,
 /obj/item/reagent_containers/cup/glass/shaker{
@@ -3394,7 +3418,9 @@
 	id_tag = "a3"
 	},
 /turf/open/floor/iron/dark,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "mc" = (
 /obj/structure/minecart_rail,
 /turf/open/floor/wood,
@@ -3459,7 +3485,9 @@
 	arena_id = "a1"
 	},
 /turf/open/floor/plating,
-/area/centcom/tdome/arena)
+/area/centcom/tdome/arena{
+	base_lighting_alpha = 255
+	})
 "mp" = (
 /obj/structure/railing/unbreakable{
 	dir = 9
@@ -4007,7 +4035,9 @@
 "ou" = (
 /obj/effect/turf_decal/siding/wood,
 /turf/open/misc/asteroid,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "ov" = (
 /turf/open/floor/iron/herringbone,
 /area/event)
@@ -4094,14 +4124,18 @@
 /obj/effect/turf_decal/tile/green/opposingcorners,
 /obj/effect/landmark/tournament_spawn_valid_location,
 /turf/open/floor/iron,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "oR" = (
 /obj/structure/ore_box,
 /turf/open/misc/asteroid,
 /area/event)
 "oS" = (
 /turf/open/floor/stone,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "oU" = (
 /obj/effect/turf_decal/trimline/green/filled/line{
 	dir = 4
@@ -4286,7 +4320,9 @@
 	dir = 1
 	},
 /turf/open/floor/carpet/blue,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "py" = (
 /obj/effect/turf_decal/siding/dark/inner_corner,
 /obj/effect/decal/cleanable/dirt/dust,
@@ -5052,7 +5088,9 @@
 	arena_id = "a3"
 	},
 /turf/open/floor/plating,
-/area/centcom/tdome/arena)
+/area/centcom/tdome/arena{
+	base_lighting_alpha = 255
+	})
 "sj" = (
 /obj/effect/turf_decal/siding/wideplating_new{
 	dir = 1
@@ -5507,7 +5545,9 @@
 /area/event)
 "to" = (
 /turf/open/floor/carpet/blue,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "tq" = (
 /obj/machinery/computer/tournament_controller{
 	arena_id = "a2"
@@ -5614,11 +5654,15 @@
 	id_tag = "a2"
 	},
 /turf/open/floor/iron/dark,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "tJ" = (
 /obj/effect/landmark/tournament_spawn_valid_location,
 /turf/open/floor/stone,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "tM" = (
 /obj/structure/table/wood,
 /obj/item/fishing_lure/lucky_coin,
@@ -5785,7 +5829,9 @@
 	arena_id = "a2"
 	},
 /turf/open/floor/plating,
-/area/centcom/tdome/arena)
+/area/centcom/tdome/arena{
+	base_lighting_alpha = 255
+	})
 "ux" = (
 /obj/structure/noticeboard/directional/north,
 /obj/structure/fermenting_barrel{
@@ -5856,7 +5902,9 @@
 	id_tag = "a2"
 	},
 /turf/open/floor/iron/dark,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "uL" = (
 /obj/structure/railing/corner{
 	dir = 8
@@ -6377,7 +6425,9 @@
 	dir = 1
 	},
 /turf/open/floor/stone,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "wq" = (
 /obj/structure/fake_stairs/wood/directional/south,
 /obj/structure/railing{
@@ -6457,7 +6507,9 @@
 	id_tag = "a1"
 	},
 /turf/open/floor/iron/dark,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "wD" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 4
@@ -6753,7 +6805,9 @@
 	id_tag = "a4"
 	},
 /turf/open/floor/iron/dark,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "xE" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark/corner{
 	dir = 8
@@ -6889,7 +6943,9 @@
 /area/event)
 "yc" = (
 /turf/open/misc/asteroid,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "yd" = (
 /obj/structure/flora/bush/ferny,
 /turf/open/floor/grass,
@@ -7182,7 +7238,9 @@
 	arena_id = "a2"
 	},
 /turf/open/floor/stone,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "zq" = (
 /obj/structure/table/reinforced,
 /obj/item/tcgcard_deck,
@@ -7450,13 +7508,17 @@
 "Aq" = (
 /obj/effect/landmark/tournament_spawn_valid_location,
 /turf/open/misc/asteroid,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "Ar" = (
 /obj/effect/landmark/arena/start{
 	arena_id = "a4"
 	},
 /turf/open/floor/plating,
-/area/centcom/tdome/arena)
+/area/centcom/tdome/arena{
+	base_lighting_alpha = 255
+	})
 "As" = (
 /obj/effect/turf_decal/siding/wideplating_new/corner{
 	dir = 1
@@ -7497,7 +7559,9 @@
 	team_id = "green"
 	},
 /turf/open/floor/wood/large,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "Ay" = (
 /obj/effect/turf_decal/weather/dirt{
 	dir = 9
@@ -7522,7 +7586,9 @@
 	arena_id = "a1"
 	},
 /turf/open/floor/plating,
-/area/centcom/tdome/arena)
+/area/centcom/tdome/arena{
+	base_lighting_alpha = 255
+	})
 "AB" = (
 /obj/structure/flora/rock/style_4,
 /turf/open/misc/ashplanet/wateryrock,
@@ -7588,7 +7654,9 @@
 /obj/effect/turf_decal/tile/green/opposingcorners,
 /obj/effect/turf_decal/siding/wood,
 /turf/open/floor/iron,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "AL" = (
 /obj/structure/hedge,
 /turf/open/floor/grass,
@@ -8139,7 +8207,9 @@
 	dir = 1
 	},
 /turf/open/misc/asteroid,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "CL" = (
 /obj/effect/turf_decal/sand,
 /turf/open/floor/iron/edge{
@@ -8193,7 +8263,9 @@
 /area/event)
 "CS" = (
 /turf/open/floor/plating,
-/area/centcom/tdome/arena)
+/area/centcom/tdome/arena{
+	base_lighting_alpha = 255
+	})
 "CT" = (
 /obj/machinery/smartfridge/food,
 /turf/open/floor/iron/terracotta/herringbone,
@@ -8420,7 +8492,9 @@
 	arena_id = "a2"
 	},
 /turf/open/floor/stone,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "DH" = (
 /obj/effect/turf_decal/sand,
 /turf/open/floor/iron/edge,
@@ -8784,7 +8858,9 @@
 	team_id = "green"
 	},
 /turf/open/floor/wood/large,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "Fk" = (
 /obj/structure/table/wood/fancy/red,
 /obj/item/toy/cards/deck/tarot{
@@ -8964,7 +9040,9 @@
 	id_tag = "a3"
 	},
 /turf/open/floor/iron/dark,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "FP" = (
 /obj/effect/turf_decal/siding/dark/inner_corner{
 	dir = 8
@@ -9008,9 +9086,9 @@
 /turf/open/floor/stone,
 /area/event)
 "FU" = (
-/obj/structure/signpost{
-	name = "Sheriff";
-	pixel_y = 10
+/obj/structure/no_effect_signpost{
+	pixel_y = 10;
+	name = "Sheriff"
 	},
 /turf/open/floor/wood,
 /area/event)
@@ -9259,7 +9337,9 @@
 	arena_id = "a4"
 	},
 /turf/open/floor/iron,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "GK" = (
 /obj/structure/sign/poster/contraband/robust_softdrinks/directional/west,
 /obj/structure/closet/secure_closet{
@@ -9315,7 +9395,9 @@
 	arena_id = "a3"
 	},
 /turf/open/floor/wood/large,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "GR" = (
 /obj/effect/turf_decal/sand,
 /turf/open/floor/carpet/blue,
@@ -9570,7 +9652,9 @@
 	dir = 1
 	},
 /turf/open/floor/iron,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "HK" = (
 /obj/structure/table/wood/fancy/black,
 /obj/effect/decal/cleanable/dirt/dust,
@@ -9759,7 +9843,9 @@
 	arena_id = "a1"
 	},
 /turf/open/floor/plating,
-/area/centcom/tdome/arena)
+/area/centcom/tdome/arena{
+	base_lighting_alpha = 255
+	})
 "IG" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 9
@@ -10103,7 +10189,9 @@
 	arena_id = "a3"
 	},
 /turf/open/misc/asteroid,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "JA" = (
 /obj/item/trash/flare,
 /turf/open/misc/asteroid/dug,
@@ -10475,7 +10563,9 @@
 	id_tag = "a4"
 	},
 /turf/open/floor/iron/dark,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "KU" = (
 /obj/structure/flora/tree/palm/style_random{
 	pixel_y = 10
@@ -10499,7 +10589,9 @@
 	arena_id = "a4"
 	},
 /turf/open/floor/wood/large,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "KY" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 9
@@ -11267,7 +11359,9 @@
 	arena_id = "a2"
 	},
 /turf/open/floor/plating,
-/area/centcom/tdome/arena)
+/area/centcom/tdome/arena{
+	base_lighting_alpha = 255
+	})
 "NE" = (
 /obj/item/restraints/handcuffs/cable/zipties/used,
 /turf/open/misc/asteroid,
@@ -11285,9 +11379,9 @@
 /turf/open/floor/iron/terracotta/small,
 /area/event)
 "NG" = (
-/obj/structure/signpost{
-	name = "DANGER - WATER COOLER AHEAD.";
-	pixel_y = 16
+/obj/structure/no_effect_signpost{
+	pixel_y = 16;
+	name = "DANGER - WATER COOLER AHEAD."
 	},
 /turf/open/floor/wood,
 /area/event)
@@ -11472,7 +11566,9 @@
 	arena_id = "a1"
 	},
 /turf/open/floor/wood/large,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "Ot" = (
 /obj/effect/decal/cleanable/food/salt,
 /turf/open/floor/wood,
@@ -11508,7 +11604,9 @@
 	arena_id = "a3"
 	},
 /turf/open/misc/asteroid,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "OC" = (
 /obj/structure/table/wood,
 /obj/item/food/bread/plain{
@@ -12175,7 +12273,9 @@
 	arena_id = "a4"
 	},
 /turf/open/floor/plating,
-/area/centcom/tdome/arena)
+/area/centcom/tdome/arena{
+	base_lighting_alpha = 255
+	})
 "QX" = (
 /obj/item/clothing/head/cone{
 	pixel_y = 12;
@@ -12363,7 +12463,9 @@
 	id_tag = "a1"
 	},
 /turf/open/floor/iron/dark,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "RH" = (
 /obj/structure/outfit_wardrobe,
 /turf/open/floor/wood,
@@ -12453,7 +12555,9 @@
 "RU" = (
 /obj/effect/turf_decal/tile/green/opposingcorners,
 /turf/open/floor/iron,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "RV" = (
 /obj/effect/turf_decal/weather/dirt{
 	dir = 6
@@ -13039,7 +13143,9 @@
 	arena_id = "a4"
 	},
 /turf/open/floor/iron,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "Ud" = (
 /obj/structure/sink/kitchen/directional/west,
 /turf/open/misc/asteroid/dug{
@@ -14245,7 +14351,9 @@
 	arena_id = "a1"
 	},
 /turf/open/floor/carpet/blue,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "XZ" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/turf_decal/siding/thinplating_new/dark/corner{
@@ -14352,7 +14460,9 @@
 	},
 /obj/effect/landmark/tournament_spawn_valid_location,
 /turf/open/floor/carpet/blue,
-/area/centcom/tdome/arena/team_prep)
+/area/centcom/tdome/arena/team_prep{
+	base_lighting_alpha = 255
+	})
 "Yo" = (
 /obj/item/instrument/saxophone,
 /obj/item/instrument/saxophone{

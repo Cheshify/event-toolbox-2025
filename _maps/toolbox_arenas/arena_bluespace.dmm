@@ -4,30 +4,30 @@
 	dir = 4
 	},
 /turf/open/floor/holofloor/space,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "bI" = (
 /turf/open/floor/iron/dark/smooth_half{
 	dir = 8
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "fw" = (
 /turf/open/floor/catwalk_floor/iron_dark,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "fR" = (
 /obj/effect/turf_decal/stripes/red/line{
 	dir = 9
 	},
 /turf/open/floor/engine/air,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "je" = (
 /obj/effect/turf_decal/stripes/red/line{
 	dir = 5
 	},
 /turf/open/floor/engine/air,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "jV" = (
 /turf/open/floor/iron/dark/smooth_half,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "kV" = (
 /obj/item/statuebust{
 	icon = 'icons/obj/structures.dmi';
@@ -40,85 +40,85 @@
 	dir = 1
 	},
 /turf/open/floor/engine/air,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "oj" = (
 /obj/effect/turf_decal/stripes/red/line{
 	dir = 6
 	},
 /turf/open/floor/engine/air,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "qv" = (
 /obj/effect/turf_decal/siding/wideplating_new/dark/corner{
 	dir = 8
 	},
 /turf/open/floor/holofloor/space,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "uq" = (
 /obj/effect/turf_decal/siding/wideplating_new/dark{
 	dir = 8
 	},
 /turf/open/floor/holofloor/space,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "vE" = (
 /obj/effect/turf_decal/siding/wideplating_new/dark,
 /turf/open/floor/holofloor/space,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "yb" = (
 /obj/effect/turf_decal/siding/wideplating_new/dark/corner{
 	dir = 1
 	},
 /turf/open/floor/holofloor/space,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Bq" = (
 /obj/effect/turf_decal/siding/wideplating_new/dark/corner,
 /turf/open/floor/holofloor/space,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "El" = (
 /obj/effect/turf_decal/stripes/red/line,
 /turf/open/floor/engine/air,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Gr" = (
 /turf/open/floor/bluespace,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Lr" = (
 /obj/effect/turf_decal/siding/wideplating_new/dark{
 	dir = 1
 	},
 /turf/open/floor/holofloor/space,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "NU" = (
 /turf/open/floor/iron/dark/smooth_corner{
 	dir = 1
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "TR" = (
 /obj/effect/turf_decal/siding/wideplating_new/dark{
 	dir = 4
 	},
 /turf/open/floor/holofloor/space,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "UC" = (
 /turf/open/floor/iron/dark/smooth_corner{
 	dir = 8
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Vh" = (
 /turf/open/floor/iron/dark/smooth_corner{
 	dir = 4
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "WN" = (
 /turf/open/floor/iron/dark/smooth_corner,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "YE" = (
 /turf/open/floor/iron/dark/smooth_large,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "ZE" = (
 /obj/effect/turf_decal/stripes/red/line{
 	dir = 10
 	},
 /turf/open/floor/engine/air,
-/area/centcom/tdome/arena)
+/area/template_noop)
 
 (1,1,1) = {"
 Bq

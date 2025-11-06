@@ -8,20 +8,20 @@
 	pixel_x = -4
 	},
 /turf/open/floor/iron/checker,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "bo" = (
 /obj/structure/railing/corner/end{
 	pixel_y = 17
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "bt" = (
 /obj/structure/window/reinforced/spawner/directional/east,
 /obj/structure/window/reinforced/spawner/directional/west,
 /obj/structure/flora/bush/fullgrass/style_random,
 /obj/structure/flora/bush/grassy/style_random,
 /turf/open/floor/grass,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "cs" = (
 /obj/structure/table/wood/fancy,
 /obj/item/kitchen/fork{
@@ -39,13 +39,13 @@
 	layer = 4
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "cU" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 8
 	},
 /turf/open/floor/iron/kitchen,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "dq" = (
 /obj/structure/table/wood/fancy/blue,
 /obj/item/plate{
@@ -61,22 +61,22 @@
 	pixel_y = 2
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "eX" = (
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "fs" = (
 /obj/structure/table/reinforced,
 /obj/item/reagent_containers/cup/bowl,
 /obj/item/reagent_containers/cup/bowl,
 /obj/item/reagent_containers/cup/bowl,
 /turf/open/floor/iron/checker,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "fA" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/deepfryer,
 /turf/open/floor/iron/checker,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "gd" = (
 /obj/structure/chair/wood/wings{
 	dir = 8
@@ -85,7 +85,7 @@
 	dir = 6
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "gi" = (
 /obj/structure/chair/wood/wings{
 	dir = 8
@@ -94,7 +94,7 @@
 	dir = 4
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "gH" = (
 /obj/structure/chair/wood/wings{
 	dir = 8
@@ -103,32 +103,32 @@
 	dir = 4
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "gI" = (
 /obj/structure/hedge,
 /turf/open/floor/wood/large,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "hB" = (
 /obj/effect/turf_decal/siding/wood,
 /turf/open/floor/iron/kitchen,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "hT" = (
 /obj/structure/chair/wood/wings{
 	dir = 1
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "iB" = (
 /obj/structure/table/reinforced,
 /obj/item/food/fried_chicken,
 /turf/open/floor/iron/checker,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "iO" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 8
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "jo" = (
 /obj/structure/window/reinforced/spawner/directional/east,
 /obj/structure/window/reinforced/spawner/directional/south,
@@ -136,7 +136,7 @@
 /obj/structure/flora/bush/fullgrass/style_random,
 /obj/structure/flora/bush/grassy/style_random,
 /turf/open/floor/grass,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "jE" = (
 /obj/structure/railing/corner/end/flip{
 	dir = 8
@@ -145,13 +145,13 @@
 	dir = 4
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "kq" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 4
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "kK" = (
 /obj/structure/table/wood/fancy/purple,
 /obj/item/plate/small{
@@ -170,20 +170,20 @@
 	pixel_y = 4
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "lt" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 4
 	},
 /turf/open/floor/iron/kitchen,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "lz" = (
 /obj/structure/railing/corner/end{
 	pixel_y = 17;
 	dir = 1
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "mP" = (
 /obj/structure/railing/corner/end{
 	dir = 4
@@ -192,13 +192,13 @@
 	dir = 1
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "nF" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 5
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "os" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 5
@@ -207,7 +207,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/item/food/dough,
 /turf/open/floor/iron/checker,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "oE" = (
 /obj/structure/table/wood/fancy/orange,
 /obj/item/plate/small{
@@ -229,26 +229,26 @@
 	pixel_x = -4
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "pg" = (
 /obj/structure/railing{
 	dir = 9
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "pC" = (
 /obj/structure/chair/wood/wings{
 	dir = 1
 	},
 /obj/effect/turf_decal/siding/wood,
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "pR" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
 	},
 /turf/open/floor/iron/kitchen,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "pW" = (
 /obj/structure/table/wood/fancy/orange,
 /obj/item/reagent_containers/cup/glass/bottle/wine/unlabeled{
@@ -256,7 +256,7 @@
 	layer = 3.5
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "qC" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 10
@@ -265,7 +265,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/item/food/dough,
 /turf/open/floor/iron/checker,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "rh" = (
 /obj/structure/table/wood/fancy/black,
 /obj/item/plate/large{
@@ -278,19 +278,19 @@
 	pixel_x = -7
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "rj" = (
 /obj/effect/turf_decal/siding/dark{
 	dir = 8
 	},
 /turf/open/floor/stone,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "rs" = (
 /obj/structure/railing{
 	dir = 6
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "sg" = (
 /obj/structure/railing/corner/end/flip{
 	dir = 4
@@ -299,13 +299,13 @@
 	dir = 8
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "tW" = (
 /obj/effect/turf_decal/siding/wood/corner{
 	dir = 1
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "ud" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 6
@@ -324,7 +324,7 @@
 	pixel_y = 2
 	},
 /turf/open/floor/iron/checker,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "uD" = (
 /obj/structure/table/reinforced,
 /obj/item/food/nachos{
@@ -339,38 +339,38 @@
 	pixel_y = 9
 	},
 /turf/open/floor/iron/checker,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "vi" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 10
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "vt" = (
 /obj/structure/table/reinforced,
 /obj/structure/reagent_dispensers/servingdish,
 /turf/open/floor/iron/checker,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "wb" = (
 /obj/structure/railing/corner,
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "yb" = (
 /obj/structure/railing{
 	dir = 5
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "yz" = (
 /obj/structure/window/reinforced/spawner/directional/east,
 /obj/structure/window/reinforced/spawner/directional/south,
 /obj/structure/window/reinforced/spawner/directional/west,
 /obj/structure/flora/bush/fullgrass/style_random,
 /turf/open/floor/grass,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "zF" = (
 /obj/structure/railing{
 	dir = 8;
@@ -381,21 +381,21 @@
 	pixel_y = -15
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "zG" = (
 /obj/structure/railing,
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "BH" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 10
 	},
 /obj/machinery/light/floor,
 /turf/open/floor/iron/kitchen,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "BV" = (
 /obj/structure/chair/wood/wings{
 	dir = 4
@@ -404,27 +404,27 @@
 	dir = 8
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Ch" = (
 /obj/structure/fake_stairs/wood/directional/east,
 /turf/open/floor/iron/terracotta/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Ex" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 9
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Fj" = (
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Fu" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 5
 	},
 /obj/machinery/light/floor,
 /turf/open/floor/iron/kitchen,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "FB" = (
 /obj/structure/chair/wood/wings{
 	dir = 4
@@ -433,7 +433,7 @@
 	dir = 8
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "FZ" = (
 /obj/structure/table/wood/fancy,
 /obj/item/plate/large{
@@ -441,13 +441,13 @@
 	},
 /obj/item/cigarette/cigar,
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "GI" = (
 /obj/structure/railing{
 	dir = 10
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Ij" = (
 /obj/structure/table/wood/fancy/green,
 /obj/item/reagent_containers/condiment/peppermill{
@@ -459,11 +459,11 @@
 	pixel_x = 3
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "IS" = (
 /obj/machinery/light/floor,
 /turf/open/floor/iron/checker,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "IU" = (
 /obj/structure/chair/wood/wings{
 	dir = 4
@@ -472,28 +472,28 @@
 	dir = 10
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "IX" = (
 /obj/structure/railing/corner{
 	dir = 1
 	},
 /obj/effect/turf_decal/siding/wood,
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Jk" = (
 /obj/structure/window/reinforced/spawner/directional/east,
 /obj/structure/window/reinforced/spawner/directional/west,
 /obj/structure/flora/rock/pile/style_random,
 /obj/structure/flora/bush/sparsegrass/style_random,
 /turf/open/floor/grass,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "JE" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 4
 	},
 /obj/effect/decal/cleanable/food/egg_smudge,
 /turf/open/floor/iron/kitchen,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "JR" = (
 /obj/structure/window/reinforced/spawner/directional/east,
 /obj/structure/window/reinforced/spawner/directional/north,
@@ -501,14 +501,14 @@
 /obj/structure/flora/bush/fullgrass/style_random,
 /obj/structure/flora/bush/grassy/style_random,
 /turf/open/floor/grass,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "JU" = (
 /obj/structure/railing{
 	dir = 1
 	},
 /obj/effect/turf_decal/siding/wood,
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Ki" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 9
@@ -527,7 +527,7 @@
 	pixel_y = 2
 	},
 /turf/open/floor/iron/checker,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Mt" = (
 /obj/structure/table/wood/fancy/black,
 /obj/item/cigarette/cigar{
@@ -537,7 +537,7 @@
 	pixel_y = -14
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Ni" = (
 /obj/structure/table/reinforced,
 /obj/item/food/nachos,
@@ -546,14 +546,14 @@
 	pixel_y = 6
 	},
 /turf/open/floor/iron/checker,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "NI" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 9
 	},
 /obj/machinery/light/floor,
 /turf/open/floor/iron/kitchen,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "NM" = (
 /obj/structure/chair/wood/wings{
 	dir = 4
@@ -562,50 +562,50 @@
 	dir = 9
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "NO" = (
 /obj/structure/railing/corner/end{
 	dir = 8
 	},
 /obj/effect/turf_decal/siding/wood/corner,
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Oi" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 8
 	},
 /obj/effect/decal/cleanable/food/flour,
 /turf/open/floor/iron/kitchen,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "OJ" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 6
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Qk" = (
 /turf/open/floor/iron/checker,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "RZ" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 6
 	},
 /obj/machinery/light/floor,
 /turf/open/floor/iron/kitchen,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Sn" = (
 /obj/structure/chair/wood/wings{
 	dir = 4
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Ss" = (
 /obj/structure/railing/corner{
 	dir = 4
 	},
 /obj/effect/turf_decal/siding/wood,
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "SL" = (
 /obj/structure/table/wood/fancy/orange,
 /obj/item/plate/small{
@@ -625,13 +625,13 @@
 	pixel_y = 11
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "SS" = (
 /obj/structure/window/reinforced/spawner/directional/east,
 /obj/structure/window/reinforced/spawner/directional/west,
 /obj/structure/flora/bush/fullgrass/style_random,
 /turf/open/floor/grass,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Tq" = (
 /obj/structure/railing/corner{
 	dir = 8
@@ -640,7 +640,7 @@
 	dir = 1
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Tw" = (
 /obj/structure/table/reinforced,
 /obj/item/rag{
@@ -648,7 +648,7 @@
 	pixel_y = 13
 	},
 /turf/open/floor/iron/checker,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "TD" = (
 /obj/structure/table/wood/fancy/purple,
 /obj/item/reagent_containers/cup/glass/bottle/wine/unlabeled{
@@ -656,7 +656,7 @@
 	layer = 3.5
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Up" = (
 /obj/structure/table/wood/fancy/blue,
 /obj/item/reagent_containers/condiment/saltshaker{
@@ -668,13 +668,13 @@
 	pixel_x = -4
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Ut" = (
 /obj/effect/turf_decal/siding/dark{
 	dir = 4
 	},
 /turf/open/floor/stone,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "UH" = (
 /obj/structure/chair/wood/wings{
 	dir = 8
@@ -683,7 +683,7 @@
 	dir = 5
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Vh" = (
 /obj/structure/railing{
 	dir = 4;
@@ -693,15 +693,15 @@
 	pixel_y = 16
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Xf" = (
 /obj/effect/turf_decal/siding/wood/corner,
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Xt" = (
 /obj/structure/chair/wood/wings,
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "XE" = (
 /obj/structure/table/wood/fancy/green,
 /obj/item/plate{
@@ -719,7 +719,7 @@
 	pixel_y = 6
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Yr" = (
 /obj/structure/table/wood/fancy/purple,
 /obj/item/plate/small{
@@ -744,17 +744,17 @@
 	pixel_y = 4
 	},
 /turf/open/floor/wood/tile,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Yv" = (
 /obj/structure/fake_stairs/wood/directional/west,
 /turf/open/floor/iron/terracotta/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Yw" = (
 /obj/structure/chair/wood/wings{
 	dir = 8
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "YD" = (
 /obj/structure/window/reinforced/spawner/directional/east,
 /obj/structure/window/reinforced/spawner/directional/north,
@@ -762,14 +762,14 @@
 /obj/structure/flora/rock/pile/style_random,
 /obj/structure/flora/bush/sparsegrass/style_random,
 /turf/open/floor/grass,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "ZO" = (
 /obj/structure/chair/wood/wings,
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
 	},
 /turf/open/floor/wood/parquet,
-/area/centcom/tdome/arena)
+/area/template_noop)
 
 (1,1,1) = {"
 Ut

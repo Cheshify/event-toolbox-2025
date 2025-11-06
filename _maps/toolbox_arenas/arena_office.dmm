@@ -9,13 +9,13 @@
 	pixel_y = 4
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "bd" = (
 /obj/structure/stairs/wood{
 	dir = 4
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "bo" = (
 /obj/effect/turf_decal/siding/wood,
 /obj/machinery/smartfridge/food{
@@ -26,7 +26,7 @@
 	},
 /obj/structure/sign/clock/directional/south,
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "bQ" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/decal/cleanable/glass{
@@ -39,7 +39,7 @@
 	pixel_y = 7
 	},
 /turf/open/floor/iron/dark/small,
-/area/space)
+/area/template_noop)
 "cQ" = (
 /obj/structure/railing{
 	dir = 8
@@ -48,7 +48,7 @@
 	dir = 8
 	},
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "cZ" = (
 /obj/effect/turf_decal/siding/wood,
 /obj/effect/decal/cleanable/dirt,
@@ -66,7 +66,7 @@
 	pixel_x = -8
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "ej" = (
 /obj/effect/turf_decal/siding/wood/corner{
 	dir = 8
@@ -75,7 +75,7 @@
 	dir = 5
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "ek" = (
 /obj/structure/table_frame/wood,
 /obj/effect/decal/cleanable/dirt/dust,
@@ -83,10 +83,10 @@
 	pixel_x = 5
 	},
 /turf/open/floor/plating,
-/area/space)
+/area/template_noop)
 "ew" = (
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "ey" = (
 /obj/structure/railing/corner{
 	dir = 8
@@ -95,7 +95,7 @@
 	dir = 8
 	},
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "fr" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark{
 	dir = 8
@@ -109,13 +109,13 @@
 /turf/open/floor/iron/dark/smooth_edge{
 	dir = 8
 	},
-/area/space)
+/area/template_noop)
 "fy" = (
 /obj/effect/turf_decal/weather/dirt{
 	dir = 9
 	},
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "fJ" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/weather/dirt{
@@ -135,7 +135,7 @@
 	pixel_y = 11
 	},
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "gA" = (
 /obj/structure/hedge,
 /obj/effect/turf_decal/siding/wood{
@@ -145,7 +145,7 @@
 	pixel_y = 5
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "gG" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark{
 	dir = 4
@@ -160,7 +160,7 @@
 /turf/open/floor/iron/dark/smooth_edge{
 	dir = 4
 	},
-/area/space)
+/area/template_noop)
 "gK" = (
 /obj/structure/table/wood,
 /obj/item/newspaper{
@@ -179,7 +179,7 @@
 	dir = 5
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "hs" = (
 /obj/item/chair/wood{
 	dir = 4;
@@ -188,7 +188,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "iv" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark{
 	dir = 4
@@ -203,7 +203,7 @@
 /turf/open/floor/iron/dark/smooth_edge{
 	dir = 4
 	},
-/area/space)
+/area/template_noop)
 "iK" = (
 /obj/structure/chair/sofa/corp/right{
 	dir = 1;
@@ -213,7 +213,7 @@
 	dir = 5
 	},
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "jh" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 4
@@ -227,7 +227,7 @@
 	dir = 8
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "jo" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 4
@@ -236,7 +236,7 @@
 	dir = 8
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "kq" = (
 /obj/item/photo/old{
 	pixel_x = -7
@@ -245,12 +245,12 @@
 	pixel_y = -3
 	},
 /turf/closed/wall/mineral/wood,
-/area/space)
+/area/template_noop)
 "kI" = (
 /obj/effect/spawner/structure/window/reinforced,
 /obj/structure/barricade/wooden/crude,
 /turf/open/floor/plating,
-/area/space)
+/area/template_noop)
 "kN" = (
 /obj/effect/turf_decal/siding/wood,
 /obj/effect/turf_decal/siding/wood{
@@ -260,7 +260,7 @@
 	pixel_x = 8
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "kS" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 8
@@ -274,7 +274,7 @@
 	pixel_y = 19
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "ln" = (
 /obj/structure/fluff/paper/stack{
 	dir = 1;
@@ -285,14 +285,14 @@
 	dir = 6
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "lM" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "md" = (
 /obj/item/chair/stool/bar{
 	pixel_y = -6
@@ -304,7 +304,7 @@
 	dir = 4
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "mq" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 8
@@ -314,14 +314,14 @@
 	pixel_y = -5
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "mA" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/weather/dirt{
 	dir = 9
 	},
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "na" = (
 /obj/structure/chair/sofa/corp{
 	dir = 1;
@@ -329,14 +329,14 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "nF" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 10
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "od" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 8
@@ -344,25 +344,25 @@
 /obj/effect/turf_decal/siding/wood/corner,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "oj" = (
 /obj/effect/turf_decal/siding/wideplating_new/dark{
 	dir = 8
 	},
 /obj/structure/railing/corner/end,
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "ow" = (
 /obj/item/wallframe/telescreen/entertainment,
 /turf/closed/wall/mineral/wood,
-/area/space)
+/area/template_noop)
 "oy" = (
 /obj/structure/chair/sofa/corp/left{
 	dir = 1;
 	pixel_y = 7
 	},
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "oA" = (
 /obj/effect/turf_decal/siding/wood,
 /obj/item/ammo_casing{
@@ -380,7 +380,7 @@
 	},
 /obj/structure/sign/poster/contraband/blood_geometer/directional/south,
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "oG" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark/corner{
 	dir = 1
@@ -401,7 +401,7 @@
 /turf/open/floor/iron/dark/smooth_edge{
 	dir = 8
 	},
-/area/space)
+/area/template_noop)
 "pD" = (
 /obj/structure/railing/corner{
 	dir = 1
@@ -410,7 +410,7 @@
 	dir = 1
 	},
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "pL" = (
 /obj/effect/decal/cleanable/glass{
 	icon_state = "ants_2_light";
@@ -418,7 +418,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/misc/dirt,
-/area/space)
+/area/template_noop)
 "pS" = (
 /obj/effect/turf_decal/siding/wood/corner{
 	dir = 8
@@ -428,7 +428,7 @@
 	pixel_y = 15
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "pZ" = (
 /obj/effect/turf_decal/siding/wood,
 /obj/structure/bed/double,
@@ -439,7 +439,7 @@
 	pixel_y = -27
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "qf" = (
 /obj/effect/turf_decal/siding/wood/end{
 	dir = 4
@@ -449,7 +449,7 @@
 	pixel_y = 5
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "qi" = (
 /obj/structure/railing{
 	dir = 1
@@ -458,7 +458,7 @@
 	dir = 1
 	},
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "qC" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark{
 	dir = 4
@@ -474,11 +474,11 @@
 /turf/open/floor/iron/dark/smooth_edge{
 	dir = 4
 	},
-/area/space)
+/area/template_noop)
 "rf" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/misc/dirt,
-/area/space)
+/area/template_noop)
 "rp" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 4
@@ -487,7 +487,7 @@
 	dir = 1
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "rv" = (
 /obj/structure/fluff/paper/corner{
 	dir = 1
@@ -500,7 +500,7 @@
 	pixel_y = 5
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "rT" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark{
 	dir = 4
@@ -516,14 +516,14 @@
 /turf/open/floor/iron/dark/smooth_edge{
 	dir = 4
 	},
-/area/space)
+/area/template_noop)
 "sO" = (
 /obj/item/clothing/head/fedora{
 	pixel_x = 1;
 	pixel_y = -1
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "to" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
@@ -538,7 +538,7 @@
 	pixel_y = 8
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "tJ" = (
 /obj/item/ammo_casing{
 	dir = 10;
@@ -548,7 +548,7 @@
 	dir = 4
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "ua" = (
 /obj/item/plate_shard{
 	pixel_x = 3;
@@ -570,7 +570,7 @@
 	pixel_y = 3
 	},
 /turf/open/floor/plating,
-/area/space)
+/area/template_noop)
 "uk" = (
 /obj/structure/hedge,
 /obj/effect/turf_decal/siding/wood{
@@ -580,7 +580,7 @@
 	pixel_y = 5
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "uL" = (
 /obj/effect/turf_decal/weather/dirt{
 	dir = 9
@@ -589,7 +589,7 @@
 	dir = 6
 	},
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "vc" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark{
 	dir = 5
@@ -607,7 +607,7 @@
 /turf/open/floor/iron/dark/smooth_corner{
 	dir = 8
 	},
-/area/space)
+/area/template_noop)
 "wK" = (
 /obj/structure/fluff/paper/stack{
 	dir = 6;
@@ -620,14 +620,14 @@
 	pixel_x = -19
 	},
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "xg" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/weather/dirt{
 	dir = 6
 	},
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "xy" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/fluff/paper/stack{
@@ -639,12 +639,12 @@
 	pixel_y = -12
 	},
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "xP" = (
 /obj/effect/turf_decal/trimline/dark,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/dark/small,
-/area/space)
+/area/template_noop)
 "yo" = (
 /obj/structure/bookcase,
 /obj/effect/turf_decal/siding/wood{
@@ -659,7 +659,7 @@
 	pixel_y = 18
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "ys" = (
 /obj/effect/decal/cleanable/glass,
 /obj/structure/grille/broken,
@@ -678,13 +678,13 @@
 	pixel_y = 6
 	},
 /turf/open/floor/plating,
-/area/space)
+/area/template_noop)
 "yH" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 8
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "yM" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark{
 	dir = 8
@@ -699,7 +699,7 @@
 /turf/open/floor/iron/dark/smooth_edge{
 	dir = 8
 	},
-/area/space)
+/area/template_noop)
 "yV" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark{
 	dir = 6
@@ -718,7 +718,7 @@
 /turf/open/floor/iron/dark/smooth_corner{
 	dir = 1
 	},
-/area/space)
+/area/template_noop)
 "zH" = (
 /obj/item/chair/wood{
 	pixel_x = 6;
@@ -726,13 +726,13 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "BN" = (
 /obj/effect/turf_decal/siding/wood,
 /obj/structure/closet/crate/bin,
 /obj/structure/sign/poster/contraband/kss13/directional/south,
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "BU" = (
 /obj/effect/decal/cleanable/glass,
 /obj/effect/decal/cleanable/glass{
@@ -743,7 +743,7 @@
 	pixel_x = -4
 	},
 /turf/open/floor/plating,
-/area/space)
+/area/template_noop)
 "Cp" = (
 /obj/structure/hedge,
 /obj/effect/turf_decal/siding/wood{
@@ -754,7 +754,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "CW" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 10
@@ -764,7 +764,7 @@
 	pixel_y = 8
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "CY" = (
 /obj/structure/fluff/paper/corner{
 	dir = 4
@@ -778,7 +778,7 @@
 	pixel_y = 5
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Dn" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
@@ -789,7 +789,7 @@
 	pixel_y = -1
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "DC" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark,
 /obj/effect/turf_decal/siding/thinplating_new/dark{
@@ -798,7 +798,7 @@
 /obj/effect/turf_decal/trimline/dark/warning,
 /obj/item/kirbyplants/organic/plant22,
 /turf/open/floor/iron/dark/smooth_edge,
-/area/space)
+/area/template_noop)
 "DW" = (
 /obj/effect/spawner/structure/window/reinforced,
 /obj/structure/barricade/wooden/crude,
@@ -806,7 +806,7 @@
 	color = "#993333"
 	},
 /turf/open/floor/plating,
-/area/space)
+/area/template_noop)
 "DZ" = (
 /obj/structure/fireplace{
 	pixel_y = 1
@@ -830,7 +830,7 @@
 	pixel_y = -1
 	},
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "ED" = (
 /obj/effect/decal/cleanable/glass{
 	icon_state = "ants_4_light";
@@ -841,7 +841,7 @@
 	dir = 9
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Ft" = (
 /obj/effect/turf_decal/siding/wood,
 /obj/effect/decal/cleanable/dirt,
@@ -850,11 +850,11 @@
 	pixel_y = 7
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Fw" = (
 /obj/effect/turf_decal/trimline/dark,
 /turf/open/floor/iron/dark/small,
-/area/space)
+/area/template_noop)
 "FH" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark{
 	dir = 10
@@ -872,7 +872,7 @@
 /turf/open/floor/iron/dark/smooth_corner{
 	dir = 4
 	},
-/area/space)
+/area/template_noop)
 "FR" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 8
@@ -881,7 +881,7 @@
 	dir = 4
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Gs" = (
 /obj/item/photo/old{
 	pixel_x = 16;
@@ -893,7 +893,7 @@
 	},
 /obj/item/photo/old,
 /turf/closed/wall/mineral/wood,
-/area/space)
+/area/template_noop)
 "HU" = (
 /obj/item/cigbutt{
 	pixel_x = 4;
@@ -903,7 +903,7 @@
 	pixel_y = 10
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "JF" = (
 /obj/structure/lattice/catwalk,
 /obj/effect/turf_decal/siding/thinplating_new/dark{
@@ -912,7 +912,7 @@
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/structure/table_frame,
 /turf/open/floor/catwalk_floor/iron_dark,
-/area/space)
+/area/template_noop)
 "LG" = (
 /obj/structure/hedge,
 /obj/effect/turf_decal/siding/wood{
@@ -922,7 +922,7 @@
 	pixel_y = 5
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "LH" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
@@ -944,7 +944,7 @@
 	pixel_y = 2
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Mc" = (
 /obj/effect/turf_decal/siding/wood/corner{
 	dir = 1
@@ -953,7 +953,7 @@
 	dir = 6
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Mo" = (
 /obj/effect/turf_decal/siding/wood/corner{
 	dir = 1
@@ -964,12 +964,12 @@
 	pixel_y = 3
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Mz" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/blood/oil,
 /turf/open/misc/dirt,
-/area/space)
+/area/template_noop)
 "MQ" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 5
@@ -980,7 +980,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "MX" = (
 /obj/effect/spawner/structure/window/reinforced,
 /obj/structure/curtain/cloth{
@@ -988,7 +988,7 @@
 	icon_state = "bathroom-closed"
 	},
 /turf/open/floor/plating,
-/area/space)
+/area/template_noop)
 "Nf" = (
 /obj/effect/turf_decal/siding/wood,
 /obj/structure/dresser,
@@ -997,17 +997,17 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Ob" = (
 /obj/effect/turf_decal/siding/wood,
 /obj/effect/turf_decal/siding/wood/corner{
 	dir = 1
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Ok" = (
 /turf/closed/wall/mineral/wood,
-/area/space)
+/area/template_noop)
 "OE" = (
 /obj/structure/noticeboard/directional/north{
 	pixel_x = 4;
@@ -1030,7 +1030,7 @@
 	pixel_y = 2
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "OW" = (
 /obj/structure/chair/office{
 	dir = 1;
@@ -1040,7 +1040,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/generic,
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Pg" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark{
 	dir = 1
@@ -1053,7 +1053,7 @@
 /turf/open/floor/iron/dark/smooth_edge{
 	dir = 1
 	},
-/area/space)
+/area/template_noop)
 "Qd" = (
 /obj/structure/noticeboard/directional/north{
 	pixel_x = -4;
@@ -1076,15 +1076,15 @@
 	pixel_y = 10
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Qn" = (
 /obj/effect/turf_decal/siding/wood,
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Qt" = (
 /obj/item/cigbutt,
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "Qy" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/item/cigbutt,
@@ -1092,7 +1092,7 @@
 	dir = 10
 	},
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "QQ" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark/corner{
 	dir = 1
@@ -1113,14 +1113,14 @@
 /turf/open/floor/iron/dark/smooth_edge{
 	dir = 8
 	},
-/area/space)
+/area/template_noop)
 "QZ" = (
 /obj/item/clothing/neck/tie/detective{
 	pixel_x = -6;
 	pixel_y = -4
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Rr" = (
 /obj/effect/decal/cleanable/glass{
 	pixel_y = 14
@@ -1133,7 +1133,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Sh" = (
 /obj/effect/decal/cleanable/glass{
 	icon_state = "ants_4_light";
@@ -1149,13 +1149,13 @@
 	dir = 4
 	},
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "Sk" = (
 /obj/structure/sign/plaques/kiddie{
 	icon_state = "map-CS"
 	},
 /turf/closed/wall/mineral/wood,
-/area/space)
+/area/template_noop)
 "SK" = (
 /obj/effect/turf_decal/siding/wideplating_new/dark{
 	dir = 8
@@ -1164,13 +1164,13 @@
 	dir = 1
 	},
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "Tn" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Tz" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
@@ -1180,7 +1180,7 @@
 	pixel_y = -10
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Ue" = (
 /obj/item/stack/sheet/mineral/wood,
 /obj/structure/chair/stool/bar/directional/west{
@@ -1194,16 +1194,16 @@
 	dir = 4
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Um" = (
 /obj/structure/railing,
 /obj/effect/turf_decal/siding/wideplating_new/dark,
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "UY" = (
 /obj/structure/sign/plaques/kiddie,
 /turf/closed/wall/mineral/wood,
-/area/space)
+/area/template_noop)
 "Vj" = (
 /obj/structure/table/wood,
 /obj/structure/showcase/machinery/tv,
@@ -1211,13 +1211,13 @@
 	dir = 9
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Vl" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 4
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Vq" = (
 /obj/structure/fluff/paper/stack{
 	dir = 4
@@ -1231,29 +1231,29 @@
 	},
 /obj/effect/turf_decal/siding/wood/corner,
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Vw" = (
 /obj/effect/turf_decal/siding/wood,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "VR" = (
 /obj/item/ammo_casing{
 	dir = 10;
 	pixel_y = -4
 	},
 /turf/open/misc/dirt,
-/area/space)
+/area/template_noop)
 "Wa" = (
 /obj/effect/decal/cleanable/plastic,
 /turf/open/floor/iron/dark/small,
-/area/space)
+/area/template_noop)
 "Wd" = (
 /obj/effect/turf_decal/siding/wideplating_new/dark{
 	dir = 8
 	},
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "Ww" = (
 /obj/structure/fluff/paper/stack{
 	dir = 5;
@@ -1264,7 +1264,7 @@
 	pixel_y = -16
 	},
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "WL" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark{
 	dir = 9
@@ -1279,7 +1279,7 @@
 	pixel_y = 5
 	},
 /turf/open/floor/iron/dark/smooth_corner,
-/area/space)
+/area/template_noop)
 "Xa" = (
 /obj/effect/decal/cleanable/glass{
 	icon_state = "ants_2_light";
@@ -1290,14 +1290,14 @@
 	dir = 5
 	},
 /turf/open/floor/carpet/red,
-/area/space)
+/area/template_noop)
 "Xo" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 8
 	},
 /obj/structure/filingcabinet,
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "Xs" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark{
 	dir = 4
@@ -1314,7 +1314,7 @@
 /turf/open/floor/iron/dark/smooth_edge{
 	dir = 4
 	},
-/area/space)
+/area/template_noop)
 "XR" = (
 /obj/structure/hedge,
 /obj/effect/turf_decal/siding/wood{
@@ -1324,11 +1324,11 @@
 	pixel_y = 5
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "YB" = (
 /obj/machinery/door/airlock/wood/glass,
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "YE" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 4
@@ -1338,7 +1338,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 "ZN" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 9
@@ -1348,7 +1348,7 @@
 	pixel_y = 8
 	},
 /turf/open/floor/wood/large,
-/area/space)
+/area/template_noop)
 
 (1,1,1) = {"
 UY

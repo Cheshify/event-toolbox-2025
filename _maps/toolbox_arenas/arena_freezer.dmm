@@ -16,13 +16,13 @@
 	pixel_y = 4
 	},
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "bp" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/misc/snow{
 	temperature = 180
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "bu" = (
 /obj/effect/decal/cleanable/blood/hitsplatter{
 	dir = 8
@@ -31,20 +31,20 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "bB" = (
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
 /obj/effect/turf_decal/tile/dark/diagonal_centre,
 /obj/effect/decal/cleanable/food/flour,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "cM" = (
 /obj/structure/kitchenspike,
 /obj/effect/decal/cleanable/blood/old,
 /turf/open/misc/snow{
 	temperature = 180
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "dD" = (
 /obj/item/food/dough,
 /obj/item/kitchen/rollingpin,
@@ -54,7 +54,7 @@
 /obj/structure/table,
 /obj/effect/decal/cleanable/food/flour,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "dO" = (
 /obj/structure/kitchenspike,
 /obj/item/stack/sheet/animalhide/monkey,
@@ -74,7 +74,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "ew" = (
 /obj/structure/fans/tiny/invisible,
 /obj/effect/turf_decal/stripes/red/full,
@@ -85,7 +85,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "fq" = (
 /obj/structure/kitchenspike,
 /obj/item/stack/sheet/animalhide/monkey,
@@ -98,7 +98,7 @@
 /turf/open/misc/snow{
 	temperature = 180
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "gf" = (
 /obj/structure/kitchenspike,
 /obj/effect/mob_spawn/corpse/human/monkey,
@@ -106,7 +106,7 @@
 /turf/open/misc/snow{
 	temperature = 180
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "iQ" = (
 /obj/effect/turf_decal/stripes/red/corner{
 	dir = 8
@@ -116,13 +116,13 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "jr" = (
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
 /obj/effect/turf_decal/tile/dark/diagonal_centre,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "kb" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/weather/snow/corner{
@@ -132,7 +132,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "kc" = (
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 8
@@ -141,14 +141,14 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "lb" = (
 /obj/machinery/vending/wardrobe/chef_wardrobe,
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
 /obj/effect/turf_decal/tile/dark/diagonal_centre,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "lX" = (
 /obj/effect/turf_decal/stripes/red/corner{
 	dir = 1
@@ -163,7 +163,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "lZ" = (
 /obj/effect/turf_decal/stripes/red/corner,
 /obj/effect/decal/cleanable/blood/footprints{
@@ -174,13 +174,13 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "op" = (
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
 /obj/effect/turf_decal/tile/dark/diagonal_centre,
 /obj/structure/sink/kitchen/directional/north,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "oL" = (
 /obj/structure/kitchenspike,
 /obj/effect/decal/cleanable/blood/gibs/old,
@@ -188,7 +188,7 @@
 /turf/open/misc/snow{
 	temperature = 180
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "pA" = (
 /obj/structure/fans/tiny/invisible,
 /obj/effect/turf_decal/stripes/red/full,
@@ -197,12 +197,12 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "pZ" = (
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
 /obj/effect/turf_decal/tile/dark/diagonal_centre,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "qf" = (
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 9
@@ -211,7 +211,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "rh" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/weather/snow/corner{
@@ -227,7 +227,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "rO" = (
 /obj/structure/kitchenspike,
 /obj/effect/turf_decal/stripes/red/line{
@@ -236,7 +236,7 @@
 /turf/open/misc/snow{
 	temperature = 180
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "sK" = (
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
 /obj/effect/turf_decal/tile/dark/diagonal_centre,
@@ -245,7 +245,7 @@
 	pixel_x = -7
 	},
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "tb" = (
 /obj/item/clothing/suit/apron/chef,
 /obj/item/clothing/suit/apron/chef,
@@ -258,7 +258,7 @@
 /obj/structure/extinguisher_cabinet/directional/east,
 /obj/structure/table,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "th" = (
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 6
@@ -267,14 +267,14 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "ti" = (
 /obj/machinery/vending/dinnerware,
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
 /obj/effect/turf_decal/tile/dark/diagonal_centre,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "tH" = (
 /obj/machinery/processor,
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
@@ -282,7 +282,7 @@
 /obj/effect/decal/cleanable/blood/old,
 /obj/item/food/meat/slab/monkey,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "uF" = (
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 1
@@ -291,7 +291,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "vj" = (
 /obj/effect/turf_decal/stripes/red/corner{
 	dir = 1
@@ -300,11 +300,11 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "vk" = (
 /obj/effect/spawner/structure/window/ice,
 /turf/open/floor/plating,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "vq" = (
 /obj/structure/kitchenspike,
 /obj/item/stack/sheet/animalhide/monkey,
@@ -325,7 +325,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "vK" = (
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 5
@@ -334,7 +334,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "wl" = (
 /obj/effect/turf_decal/stripes/red/corner{
 	dir = 8
@@ -343,7 +343,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "yQ" = (
 /obj/structure/fans/tiny/invisible,
 /obj/effect/turf_decal/stripes/red/full,
@@ -351,28 +351,28 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "zS" = (
 /obj/effect/decal/cleanable/blood/footprints,
 /turf/open/floor/iron/freezer{
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Bh" = (
 /obj/effect/turf_decal/stripes/red/corner,
 /turf/open/floor/iron/freezer{
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Bq" = (
 /obj/effect/turf_decal/weather/snow/corner,
 /turf/open/floor/iron/freezer{
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Bs" = (
 /obj/structure/kitchenspike,
 /obj/item/stack/sheet/animalhide/monkey,
@@ -387,7 +387,7 @@
 /turf/open/misc/snow{
 	temperature = 180
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "BU" = (
 /obj/structure/kitchenspike,
 /obj/effect/decal/cleanable/dirt,
@@ -401,13 +401,13 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Cf" = (
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
 /obj/effect/turf_decal/tile/dark/diagonal_centre,
 /obj/structure/sink/kitchen/directional/south,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Cq" = (
 /obj/structure/kitchenspike,
 /obj/effect/decal/cleanable/blood/gibs/old,
@@ -422,7 +422,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Dg" = (
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 4
@@ -431,7 +431,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Dx" = (
 /obj/structure/kitchenspike,
 /obj/effect/decal/cleanable/dirt,
@@ -446,7 +446,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "DW" = (
 /obj/effect/turf_decal/stripes/red/corner{
 	dir = 1
@@ -461,7 +461,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Ey" = (
 /obj/structure/kitchenspike,
 /obj/effect/turf_decal/stripes/red/line{
@@ -478,7 +478,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "EB" = (
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 8
@@ -493,7 +493,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "EQ" = (
 /obj/effect/decal/cleanable/blood/drip,
 /obj/effect/decal/cleanable/blood/drip{
@@ -507,14 +507,14 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "FO" = (
 /obj/structure/kitchenspike,
 /obj/effect/decal/cleanable/blood/gibs/old,
 /turf/open/misc/snow{
 	temperature = 180
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Gu" = (
 /obj/structure/kitchenspike,
 /obj/item/stack/sheet/animalhide/monkey,
@@ -532,7 +532,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Gz" = (
 /obj/structure/kitchenspike,
 /obj/effect/decal/cleanable/dirt,
@@ -542,12 +542,12 @@
 /turf/open/misc/snow{
 	temperature = 180
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Ib" = (
 /turf/open/misc/snow{
 	temperature = 180
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Ix" = (
 /obj/effect/decal/cleanable/blood/hitsplatter{
 	dir = 4
@@ -556,7 +556,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "IT" = (
 /obj/machinery/griddle,
 /obj/item/food/raw_patty{
@@ -578,7 +578,7 @@
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
 /obj/effect/turf_decal/tile/dark/diagonal_centre,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "IX" = (
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 1
@@ -589,7 +589,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "JG" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/weather/snow/corner{
@@ -599,7 +599,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Kn" = (
 /obj/machinery/reagentgrinder{
 	pixel_y = 12;
@@ -615,7 +615,7 @@
 	},
 /obj/structure/table,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "KV" = (
 /obj/effect/turf_decal/stripes/red/corner,
 /obj/effect/turf_decal/weather/snow/corner,
@@ -623,10 +623,10 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "LS" = (
 /turf/closed/wall/ice,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "LU" = (
 /obj/structure/kitchenspike,
 /obj/effect/decal/cleanable/blood/gibs/old,
@@ -636,20 +636,20 @@
 /turf/open/misc/snow{
 	temperature = 180
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Nx" = (
 /obj/effect/decal/cleanable/blood/splatter,
 /turf/open/misc/snow{
 	temperature = 180
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "NT" = (
 /obj/structure/kitchenspike,
 /obj/effect/decal/cleanable/blood/splatter,
 /turf/open/misc/snow{
 	temperature = 180
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "OF" = (
 /obj/structure/fans/tiny/invisible,
 /obj/effect/turf_decal/stripes/red/full,
@@ -660,13 +660,13 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "OM" = (
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
 /obj/effect/turf_decal/tile/dark/diagonal_centre,
 /obj/effect/mapping_helpers/burnt_floor,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Pl" = (
 /obj/item/storage/bag/tray,
 /obj/item/storage/bag/tray{
@@ -680,7 +680,7 @@
 /obj/structure/extinguisher_cabinet/directional/west,
 /obj/structure/table,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Ps" = (
 /obj/structure/kitchenspike,
 /obj/machinery/light/cold/directional/east,
@@ -688,7 +688,7 @@
 /turf/open/misc/snow{
 	temperature = 180
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Qu" = (
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 1
@@ -697,7 +697,7 @@
 /turf/open/misc/snow{
 	temperature = 180
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "QB" = (
 /obj/effect/decal/cleanable/blood/footprints{
 	dir = 8
@@ -706,7 +706,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "QK" = (
 /obj/machinery/chem_master/condimaster{
 	name = "CondiMaster Neo"
@@ -714,13 +714,13 @@
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
 /obj/effect/turf_decal/tile/dark/diagonal_centre,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "QL" = (
 /turf/open/floor/iron/freezer{
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "QS" = (
 /obj/structure/kitchenspike,
 /obj/effect/decal/cleanable/dirt,
@@ -730,7 +730,7 @@
 /turf/open/misc/snow{
 	temperature = 180
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "RO" = (
 /obj/machinery/oven/range,
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
@@ -738,7 +738,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/item/storage/bag/tray,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "RP" = (
 /obj/effect/turf_decal/stripes/red/corner{
 	dir = 4
@@ -750,7 +750,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Se" = (
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
 /obj/effect/turf_decal/tile/dark/diagonal_centre,
@@ -760,7 +760,7 @@
 	pixel_x = 13
 	},
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Sx" = (
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
 /obj/effect/turf_decal/tile/dark/diagonal_centre,
@@ -769,7 +769,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "SL" = (
 /obj/structure/kitchenspike,
 /obj/effect/turf_decal/stripes/red/line{
@@ -785,7 +785,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Vb" = (
 /obj/structure/fans/tiny/invisible,
 /obj/effect/turf_decal/stripes/red/full,
@@ -796,12 +796,12 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Wz" = (
 /obj/effect/spawner/structure/window/ice,
 /obj/effect/decal/cleanable/blood/splatter/over_window,
 /turf/open/floor/plating,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "WX" = (
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 9
@@ -813,7 +813,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Xc" = (
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 10
@@ -822,7 +822,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Yo" = (
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 1
@@ -834,13 +834,13 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Yr" = (
 /obj/structure/kitchenspike,
 /turf/open/misc/snow{
 	temperature = 180
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 "Zx" = (
 /obj/machinery/oven/range,
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
@@ -848,7 +848,7 @@
 /obj/machinery/light/directional/east,
 /obj/effect/mapping_helpers/burnt_floor,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/centcom/tdome/arena)
+/area/template_noop)
 "ZS" = (
 /obj/structure/kitchenspike,
 /obj/effect/turf_decal/stripes/red/line{
@@ -865,7 +865,7 @@
 	temperature = 180;
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
-/area/centcom/tdome/arena)
+/area/template_noop)
 
 (1,1,1) = {"
 LS

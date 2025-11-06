@@ -4,18 +4,18 @@
 	dir = 8
 	},
 /turf/open/floor/iron/smooth_corner,
-/area/space)
+/area/template_noop)
 "fK" = (
 /obj/structure/railing,
 /obj/item/cigbutt{
 	pixel_x = -13
 	},
 /turf/open/floor/iron/smooth_half,
-/area/space)
+/area/template_noop)
 "hf" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "hB" = (
 /obj/structure/railing,
 /obj/effect/decal/cleanable/dirt,
@@ -24,30 +24,30 @@
 	pixel_y = 2
 	},
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "hN" = (
 /turf/open/floor/iron/smooth_half{
 	dir = 1
 	},
-/area/space)
+/area/template_noop)
 "hW" = (
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "if" = (
 /obj/structure/railing/corner/end{
 	dir = 4
 	},
 /turf/open/floor/iron/smooth_corner,
-/area/space)
+/area/template_noop)
 "ii" = (
 /obj/structure/lattice/catwalk,
 /mob/living/basic/mouse/brown,
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "iG" = (
 /obj/effect/decal/cleanable/vomit,
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "md" = (
 /obj/structure/lattice/catwalk,
 /obj/effect/decal/cleanable/dirt,
@@ -61,7 +61,7 @@
 	pixel_y = -4
 	},
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "nl" = (
 /obj/structure/lattice/catwalk,
 /obj/item/ammo_casing/spent{
@@ -69,7 +69,7 @@
 	pixel_y = -4
 	},
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "oK" = (
 /obj/structure/lattice/catwalk,
 /obj/effect/decal/cleanable/dirt,
@@ -78,56 +78,56 @@
 	pixel_y = 16
 	},
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "oR" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/item/trash/flare,
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "pj" = (
 /mob/living/basic/cockroach,
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "pG" = (
 /obj/effect/decal/cleanable/dirt,
 /mob/living/basic/mouse,
 /turf/open/floor/iron/smooth_corner,
-/area/space)
+/area/template_noop)
 "pI" = (
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "qw" = (
 /obj/effect/decal/cleanable/dirt,
 /mob/living/basic/cockroach,
 /turf/open/floor/iron/smooth_half,
-/area/space)
+/area/template_noop)
 "qH" = (
 /obj/effect/decal/cleanable/dirt,
 /mob/living/basic/mouse,
 /turf/open/floor/iron/smooth_half,
-/area/space)
+/area/template_noop)
 "rc" = (
 /obj/effect/decal/cleanable/dirt,
 /mob/living/basic/mouse/white,
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "ru" = (
 /obj/structure/lattice/catwalk,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "rE" = (
 /obj/item/cigbutt{
 	pixel_x = -13
 	},
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "sv" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/smooth_corner{
 	dir = 4
 	},
-/area/space)
+/area/template_noop)
 "sw" = (
 /obj/structure/railing/corner/end{
 	dir = 4
@@ -136,7 +136,7 @@
 /turf/open/floor/iron/smooth_corner{
 	dir = 8
 	},
-/area/space)
+/area/template_noop)
 "ti" = (
 /mob/living/basic/cockroach,
 /obj/item/ammo_casing/spent{
@@ -144,7 +144,7 @@
 	pixel_y = -9
 	},
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "us" = (
 /obj/item/wirecutters{
 	pixel_y = 6
@@ -152,29 +152,29 @@
 /turf/open/floor/iron/smooth_half{
 	dir = 1
 	},
-/area/space)
+/area/template_noop)
 "uu" = (
 /obj/effect/decal/cleanable/dirt,
 /mob/living/basic/cockroach,
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "uz" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/smooth_half{
 	dir = 1
 	},
-/area/space)
+/area/template_noop)
 "uP" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/item/trash/tray,
 /turf/open/floor/iron/smooth_corner{
 	dir = 8
 	},
-/area/space)
+/area/template_noop)
 "vd" = (
 /obj/effect/decal/cleanable/blood/old,
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "vq" = (
 /obj/structure/lattice/catwalk,
 /mob/living/basic/cockroach,
@@ -183,7 +183,7 @@
 	pixel_y = -5
 	},
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "wW" = (
 /obj/item/cigbutt{
 	pixel_x = -13;
@@ -192,27 +192,27 @@
 /turf/open/floor/iron/smooth_corner{
 	dir = 1
 	},
-/area/space)
+/area/template_noop)
 "xe" = (
 /obj/structure/railing,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/smooth_half,
-/area/space)
+/area/template_noop)
 "xH" = (
 /turf/open/floor/iron/smooth_half,
-/area/space)
+/area/template_noop)
 "yy" = (
 /obj/effect/decal/cleanable/dirt,
 /mob/living/basic/mouse/brown,
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "yC" = (
 /obj/item/ammo_casing/spent{
 	pixel_x = 3;
 	pixel_y = -9
 	},
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "yM" = (
 /obj/structure/lattice/catwalk,
 /obj/item/cigbutt{
@@ -220,7 +220,7 @@
 	pixel_y = -5
 	},
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "zc" = (
 /obj/structure/lattice/catwalk,
 /obj/effect/decal/cleanable/dirt,
@@ -229,31 +229,31 @@
 	pixel_y = 3
 	},
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "zk" = (
 /obj/item/cigbutt{
 	pixel_x = -13;
 	pixel_y = 16
 	},
 /turf/open/floor/iron/smooth_half,
-/area/space)
+/area/template_noop)
 "zs" = (
 /obj/structure/railing,
 /obj/effect/decal/cleanable/dirt,
 /mob/living/basic/cockroach,
 /turf/open/floor/iron/smooth_half,
-/area/space)
+/area/template_noop)
 "zO" = (
 /obj/item/cigbutt{
 	pixel_x = -13
 	},
 /turf/open/floor/iron/smooth_half,
-/area/space)
+/area/template_noop)
 "zS" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/vomit,
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "Bm" = (
 /obj/item/cigbutt{
 	pixel_x = -11;
@@ -262,7 +262,7 @@
 /turf/open/floor/iron/smooth_half{
 	dir = 1
 	},
-/area/space)
+/area/template_noop)
 "Cp" = (
 /obj/structure/lattice/catwalk,
 /obj/item/ammo_casing/spent{
@@ -270,16 +270,16 @@
 	pixel_y = -4
 	},
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "EC" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/smooth_half,
-/area/space)
+/area/template_noop)
 "EJ" = (
 /turf/open/floor/iron/smooth_corner{
 	dir = 4
 	},
-/area/space)
+/area/template_noop)
 "EX" = (
 /obj/structure/lattice/catwalk,
 /obj/item/ammo_casing/spent{
@@ -287,24 +287,24 @@
 	pixel_y = 9
 	},
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "Gg" = (
 /obj/structure/lattice/catwalk,
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "Gr" = (
 /turf/open/floor/iron/smooth_large,
-/area/space)
+/area/template_noop)
 "Hc" = (
 /obj/structure/lattice/catwalk,
 /obj/effect/decal/cleanable/blood/old,
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "Ih" = (
 /obj/structure/railing,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "Jf" = (
 /obj/item/ammo_casing/spent{
 	pixel_x = 3;
@@ -313,7 +313,7 @@
 /turf/open/floor/iron/smooth_half{
 	dir = 1
 	},
-/area/space)
+/area/template_noop)
 "Jj" = (
 /obj/structure/railing/corner/end/flip{
 	dir = 8
@@ -322,30 +322,30 @@
 /turf/open/floor/iron/smooth_corner{
 	dir = 8
 	},
-/area/space)
+/area/template_noop)
 "JU" = (
 /obj/effect/decal/cleanable/dirt,
 /mob/living/basic/cockroach,
 /turf/open/floor/iron/smooth_large,
-/area/space)
+/area/template_noop)
 "KZ" = (
 /obj/structure/lattice/catwalk,
 /mob/living/basic/cockroach,
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "NH" = (
 /obj/structure/railing,
 /turf/open/floor/iron/smooth_half,
-/area/space)
+/area/template_noop)
 "PJ" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/blood/old,
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "QP" = (
 /obj/structure/railing,
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "Rp" = (
 /obj/structure/lattice/catwalk,
 /obj/item/cigbutt{
@@ -353,11 +353,11 @@
 	pixel_y = 16
 	},
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "RX" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "SG" = (
 /obj/structure/lattice/catwalk,
 /obj/item/ammo_casing/spent{
@@ -365,24 +365,24 @@
 	pixel_y = 9
 	},
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "TB" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/item/trash/chips,
 /turf/open/floor/iron/smooth_corner{
 	dir = 1
 	},
-/area/space)
+/area/template_noop)
 "UZ" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/smooth_large,
-/area/space)
+/area/template_noop)
 "Vc" = (
 /obj/effect/decal/cleanable/blood/old,
 /turf/open/floor/iron/smooth_corner{
 	dir = 1
 	},
-/area/space)
+/area/template_noop)
 "YL" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/item/trash/cnds{
@@ -390,7 +390,7 @@
 	pixel_y = 5
 	},
 /turf/open/floor/stone,
-/area/space)
+/area/template_noop)
 "Zn" = (
 /obj/structure/lattice/catwalk,
 /obj/item/trash/sosjerky{
@@ -398,7 +398,7 @@
 	pixel_y = -4
 	},
 /turf/open/water,
-/area/space)
+/area/template_noop)
 "Zp" = (
 /obj/structure/lattice/catwalk,
 /obj/effect/decal/cleanable/dirt,
@@ -406,7 +406,7 @@
 	pixel_x = -13
 	},
 /turf/open/water,
-/area/space)
+/area/template_noop)
 
 (1,1,1) = {"
 YL
