@@ -29,7 +29,7 @@ SUBSYSTEM_DEF(auto_equip)
 	for (var/vip in world.file2list(vip_file))
 		vips += ckey(vip)
 
-/mob/living/carbon/human/dress_up_as_job(datum/job/equipping, visual_only)
+/mob/living/carbon/human/dress_up_as_job(datum/job/equipping, visual_only = FALSE, client/player_client, consistent = FALSE)
 	dna.species.pre_equip_species_outfit(equipping, src, visual_only)
 
 	if (!istype(equipping, SSjob.overflow_role))
@@ -128,6 +128,19 @@ SUBSYSTEM_DEF(auto_equip)
 
 /datum/outfit/job/assistant
 	box = /obj/item/storage/box/survival/tournament
+
+/datum/outfit/toolbox
+	name = "Toolbox (Grey)"
+	uniform = /obj/item/clothing/under/color/grey
+	shoes = /obj/item/clothing/shoes/sneakers/black
+
+/datum/outfit/toolbox/green
+	name = "Toolbox (Green)"
+	uniform = /obj/item/clothing/under/color/green
+
+/datum/outfit/toolbox/red
+	name = "Toolbox (Red)"
+	uniform = /obj/item/clothing/under/color/red
 
 // Override cham kit to omit gun
 /obj/item/storage/box/syndie_kit/chameleon/PopulateContents()

@@ -262,6 +262,10 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 				contestant_mob.set_species(/datum/species/human)
 			contestant_mob.forceMove(pick(valid_team_spawns[team_spawn_id]))
 			contestant_mob.equip_inert_outfit(team.outfit)
+			if (team_spawn_id == EVENT_ARENA_GREEN_TEAM)
+				contestant_mob.equipOutfit(/datum/outfit/toolbox/green)
+			else if (team_spawn_id == EVENT_ARENA_RED_TEAM)
+				contestant_mob.equipOutfit(/datum/outfit/toolbox/red)
 			var/obj/item/card/id/advanced/centcom/ert/id_card = new(contestant_mob.loc)
 			id_card.desc = "A Toolbox Tournament Competitor ID Card"
 			id_card.registered_name = contestant_mob.real_name
