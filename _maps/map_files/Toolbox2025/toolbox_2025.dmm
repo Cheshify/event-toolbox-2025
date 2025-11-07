@@ -15055,6 +15055,10 @@
 	},
 /turf/open/floor/stone,
 /area/event)
+"ZQ" = (
+/obj/structure/fluff/totem_pole,
+/turf/open/misc/sandy_dirt,
+/area/event)
 "ZR" = (
 /obj/effect/turf_decal/sand/plating,
 /obj/structure/chair/sofa/bench,
@@ -100321,7 +100325,7 @@ LU
 ko
 Ho
 tW
-tW
+ZQ
 tW
 Ho
 Rk
@@ -101863,7 +101867,7 @@ Ho
 ko
 Ho
 tW
-tW
+ZQ
 tW
 tW
 Ho
