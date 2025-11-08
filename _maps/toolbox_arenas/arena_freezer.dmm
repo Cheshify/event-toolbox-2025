@@ -23,15 +23,6 @@
 	temperature = 180
 	},
 /area/template_noop)
-"bu" = (
-/obj/effect/decal/cleanable/blood/hitsplatter{
-	dir = 8
-	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
-/area/template_noop)
 "bB" = (
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
 /obj/effect/turf_decal/tile/dark/diagonal_centre,
@@ -70,10 +61,7 @@
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 10
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "ew" = (
 /obj/structure/fans/tiny/invisible,
@@ -81,10 +69,7 @@
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 1
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "fq" = (
 /obj/structure/kitchenspike,
@@ -112,10 +97,7 @@
 	dir = 8
 	},
 /obj/effect/turf_decal/weather/snow/corner,
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "jr" = (
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
@@ -128,19 +110,13 @@
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 8
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "kc" = (
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 8
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "lb" = (
 /obj/machinery/vending/wardrobe/chef_wardrobe,
@@ -159,10 +135,7 @@
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 1
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "lZ" = (
 /obj/effect/turf_decal/stripes/red/corner,
@@ -170,10 +143,7 @@
 	dir = 4
 	},
 /obj/effect/turf_decal/weather/snow/corner,
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "op" = (
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
@@ -193,10 +163,7 @@
 /obj/structure/fans/tiny/invisible,
 /obj/effect/turf_decal/stripes/red/full,
 /obj/effect/turf_decal/weather/snow/corner,
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "pZ" = (
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
@@ -207,10 +174,7 @@
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 9
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "rh" = (
 /obj/effect/decal/cleanable/dirt,
@@ -223,10 +187,7 @@
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 9
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "rO" = (
 /obj/structure/kitchenspike,
@@ -263,10 +224,7 @@
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 6
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "ti" = (
 /obj/machinery/vending/dinnerware,
@@ -287,19 +245,13 @@
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 1
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "vj" = (
 /obj/effect/turf_decal/stripes/red/corner{
 	dir = 1
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "vk" = (
 /obj/effect/spawner/structure/window/ice,
@@ -321,57 +273,36 @@
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 9
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "vK" = (
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 5
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "wl" = (
 /obj/effect/turf_decal/stripes/red/corner{
 	dir = 8
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "yQ" = (
 /obj/structure/fans/tiny/invisible,
 /obj/effect/turf_decal/stripes/red/full,
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "zS" = (
 /obj/effect/decal/cleanable/blood/footprints,
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "Bh" = (
 /obj/effect/turf_decal/stripes/red/corner,
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "Bq" = (
 /obj/effect/turf_decal/weather/snow/corner,
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "Bs" = (
 /obj/structure/kitchenspike,
@@ -397,10 +328,7 @@
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 6
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "Cf" = (
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
@@ -418,19 +346,13 @@
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 6
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "Dg" = (
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 4
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "Dx" = (
 /obj/structure/kitchenspike,
@@ -442,10 +364,7 @@
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 9
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "DW" = (
 /obj/effect/turf_decal/stripes/red/corner{
@@ -457,10 +376,7 @@
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 4
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "Ey" = (
 /obj/structure/kitchenspike,
@@ -474,10 +390,7 @@
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 5
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "EB" = (
 /obj/effect/turf_decal/weather/snow/corner{
@@ -489,10 +402,7 @@
 /obj/effect/decal/cleanable/blood/drip{
 	pixel_y = 10
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "EQ" = (
 /obj/effect/decal/cleanable/blood/drip,
@@ -503,10 +413,7 @@
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 4
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "FO" = (
 /obj/structure/kitchenspike,
@@ -528,10 +435,7 @@
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 4
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "Gz" = (
 /obj/structure/kitchenspike,
@@ -549,13 +453,7 @@
 	},
 /area/template_noop)
 "Ix" = (
-/obj/effect/decal/cleanable/blood/hitsplatter{
-	dir = 4
-	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "IT" = (
 /obj/machinery/griddle,
@@ -585,20 +483,14 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/weather/snow/corner,
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "JG" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 10
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "Kn" = (
 /obj/machinery/reagentgrinder{
@@ -619,10 +511,7 @@
 "KV" = (
 /obj/effect/turf_decal/stripes/red/corner,
 /obj/effect/turf_decal/weather/snow/corner,
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "LS" = (
 /turf/closed/wall/ice,
@@ -656,10 +545,7 @@
 /obj/machinery/door/airlock/multi_tile/public/glass{
 	dir = 8
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "OM" = (
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
@@ -702,10 +588,7 @@
 /obj/effect/decal/cleanable/blood/footprints{
 	dir = 8
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "QK" = (
 /obj/machinery/chem_master/condimaster{
@@ -714,12 +597,6 @@
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
 /obj/effect/turf_decal/tile/dark/diagonal_centre,
 /turf/open/floor/iron/kitchen/diagonal,
-/area/template_noop)
-"QL" = (
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
 /area/template_noop)
 "QS" = (
 /obj/structure/kitchenspike,
@@ -746,10 +623,7 @@
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 1
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "Se" = (
 /obj/effect/turf_decal/tile/bar/diagonal_centre,
@@ -759,15 +633,6 @@
 	pixel_y = 7;
 	pixel_x = 13
 	},
-/turf/open/floor/iron/kitchen/diagonal,
-/area/template_noop)
-"Sx" = (
-/obj/effect/turf_decal/tile/bar/diagonal_centre,
-/obj/effect/turf_decal/tile/dark/diagonal_centre,
-/obj/effect/decal/cleanable/blood/hitsplatter{
-	dir = 4
-	},
-/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/kitchen/diagonal,
 /area/template_noop)
 "SL" = (
@@ -781,10 +646,7 @@
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 6
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "Vb" = (
 /obj/structure/fans/tiny/invisible,
@@ -792,10 +654,7 @@
 /obj/machinery/door/airlock/multi_tile/public/glass{
 	dir = 4
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "Wz" = (
 /obj/effect/spawner/structure/window/ice,
@@ -809,19 +668,13 @@
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 5
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "Xc" = (
 /obj/effect/turf_decal/weather/snow/corner{
 	dir = 10
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "Yo" = (
 /obj/effect/turf_decal/weather/snow/corner{
@@ -830,10 +683,7 @@
 /obj/effect/decal/cleanable/blood/drip{
 	pixel_y = 6
 	},
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 "Yr" = (
 /obj/structure/kitchenspike,
@@ -861,10 +711,7 @@
 	dir = 6
 	},
 /obj/effect/decal/cleanable/blood/old,
-/turf/open/floor/iron/freezer{
-	temperature = 180;
-	initial_gas_mix = "o2=22;n2=82;TEMP=180"
-	},
+/turf/open/floor/iron/freezer,
 /area/template_noop)
 
 (1,1,1) = {"
@@ -894,25 +741,25 @@ gf
 (3,1,1) = {"
 bp
 uF
-QL
+Ix
 kb
 Ix
 EB
 zS
-QL
+Ix
 Bq
 Ib
 "}
 (4,1,1) = {"
 WX
-QL
+Ix
 qf
 EQ
 IX
 Qu
 vK
-QL
-QL
+Ix
+Ix
 JG
 "}
 (5,1,1) = {"
@@ -956,7 +803,7 @@ jr
 pZ
 pZ
 Se
-Sx
+jr
 sK
 jr
 pZ
@@ -1026,7 +873,7 @@ ZS
 (14,1,1) = {"
 Ib
 Yo
-QL
+Ix
 Xc
 Nx
 uF
@@ -1038,8 +885,8 @@ bp
 (15,1,1) = {"
 rh
 th
-QL
-bu
+Ix
+Ix
 kc
 Dg
 Dg

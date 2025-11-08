@@ -24,6 +24,12 @@
 	},
 /turf/open/misc/asteroid,
 /area/template_noop)
+"i" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/misc/asteroid,
+/area/template_noop)
 "j" = (
 /obj/item/stack/sheet/mineral/wood,
 /turf/open/misc/asteroid/dug,
@@ -70,6 +76,12 @@
 /obj/structure/railing/wooden_fence{
 	dir = 8
 	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/misc/asteroid,
+/area/template_noop)
+"Q" = (
 /obj/effect/turf_decal/siding/wood{
 	dir = 8
 	},
@@ -171,10 +183,10 @@ L
 a
 "}
 (8,1,1) = {"
+i
 h
 h
-h
-h
+i
 h
 h
 h
@@ -201,10 +213,10 @@ P
 P
 P
 P
+Q
 P
 P
-P
-P
+Q
 "}
 (11,1,1) = {"
 a

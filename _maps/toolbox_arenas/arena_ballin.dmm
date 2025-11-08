@@ -199,7 +199,7 @@
 /obj/structure/fence/cut/large{
 	dir = 4
 	},
-/turf/open/space/basic,
+/turf/open/misc/dirt,
 /area/template_noop)
 "kD" = (
 /obj/effect/turf_decal/trimline/neutral/line{
@@ -484,7 +484,7 @@
 /obj/structure/fence{
 	dir = 4
 	},
-/turf/open/floor/mineral/plastitanium,
+/turf/open/misc/dirt,
 /area/template_noop)
 "yE" = (
 /obj/effect/turf_decal/trimline/neutral/line{
@@ -671,7 +671,7 @@
 /obj/effect/decal/cleanable/crayon{
 	icon_state = "ghost"
 	},
-/turf/open/floor/mineral/plastitanium,
+/turf/open/misc/dirt,
 /area/template_noop)
 "Ha" = (
 /obj/effect/turf_decal/siding/thinplating_new,
@@ -748,7 +748,7 @@
 	icon_state = "ghost"
 	},
 /obj/structure/barricade/wooden/crude,
-/turf/open/floor/mineral/plastitanium,
+/turf/open/misc/dirt,
 /area/template_noop)
 "In" = (
 /obj/effect/turf_decal/siding/wideplating_new/dark{
@@ -1133,7 +1133,7 @@
 /obj/structure/fence/cut/medium{
 	dir = 4
 	},
-/turf/open/space/basic,
+/turf/open/misc/dirt,
 /area/template_noop)
 "Wt" = (
 /obj/effect/turf_decal/trimline/neutral/warning{
@@ -1200,7 +1200,7 @@
 	icon_state = "ghost";
 	pixel_y = -5
 	},
-/turf/open/floor/mineral/plastitanium,
+/turf/open/misc/dirt,
 /area/template_noop)
 "YY" = (
 /obj/effect/turf_decal/trimline/neutral/corner,
