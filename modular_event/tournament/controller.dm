@@ -310,13 +310,13 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 		var/obj/spawn_landmark = pick_n_take(spawns)
 
 		var/obj/item/storage/toolbox/toolbox = new
-		var/obj/item/toolbox_soul/soul = new
+		//var/obj/item/toolbox_soul/soul = new
 		toolbox.color = toolbox_color
 		toolbox.forceMove(get_turf(spawn_landmark))
-		soul.forceMove(get_turf(spawn_landmark))
+		//soul.forceMove(get_turf(spawn_landmark))
 
 		toolboxes += toolbox
-		toolboxes += soul
+		//toolboxes += soul
 
 /obj/machinery/computer/tournament_controller/proc/disband_teams(mob/user)
 	for (var/client/client as anything in old_mobs)
@@ -337,6 +337,19 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 
 	message_admins("[key_name_admin(user)] disbanded [arena_id] arena teams.")
 	log_admin("[key_name_admin(user)] disbanded [arena_id] arena teams.")
+
+/obj/effect/landmark/arena
+	name = "arena landmark"
+	var/landmark_tag
+	var/arena_id = EVENT_ARENA_DEFAULT_ID
+
+/obj/effect/landmark/arena/start
+	name = "arena corner A"
+	landmark_tag = EVENT_ARENA_CORNER_A
+
+/obj/effect/landmark/arena/end
+	name = "arena corner B"
+	landmark_tag = EVENT_ARENA_CORNER_B
 
 /datum/mood_event/toolbox_arena
 	description = "I am taking part in the Toolbox Tournament!"

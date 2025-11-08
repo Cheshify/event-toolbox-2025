@@ -6,7 +6,7 @@
 	QDEL_NULL(save_outfit)
 	return ..()
 
-/mob/living/Login()
+/*/mob/living/Login()
 	. = ..()
 	for(var/team_name in GLOB.tournament_teams)
 		var/datum/tournament_team/team = GLOB.tournament_teams[team_name]
@@ -14,7 +14,7 @@
 			save_outfit.team_datum = team
 			save_outfit.Grant(src)
 			break
-
+*/
 /mob/living/Logout()
 	. = ..()
 	if(save_outfit)

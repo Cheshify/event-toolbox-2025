@@ -162,21 +162,6 @@
 		var/time_left = max(0, (H.finish_time - world.time) / 10)
 		return round(time_left)
 
-// EVENT EDIT: why? TODO put this somewhere else
-/obj/effect/countdown/arena
-	invisibility = INVISIBILITY_NONE
-	name = "arena countdown"
-
-/obj/effect/countdown/arena/get_value()
-	var/obj/machinery/arena_spawn/A = attached_to
-	if(!istype(A))
-		return
-	else
-		var/obj/machinery/computer/arena/C = A.get_controller()
-		var/time_left = max(0, (C.start_time - world.time) / 10)
-		return round(time_left)
-// END EVENT EDIT
-
 /obj/effect/countdown/flower_bud
 	name = "flower bud countdown"
 
