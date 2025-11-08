@@ -1,0 +1,795 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"aE" = (
+/obj/structure/sign/flag/ssc/directional/south,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 1
+	},
+/obj/structure/fluff/paper/corner{
+	dir = 8
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"bb" = (
+/obj/effect/turf_decal/weather/sand{
+	color = "#662e2b";
+	dir = 5
+	},
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"bd" = (
+/obj/structure/mannequin/plastic,
+/obj/effect/turf_decal/siding/thinplating_new/dark,
+/obj/item/toy/plush/lizard_plushie/space/green{
+	name = "Dies-To-Premonitions"
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"cd" = (
+/obj/structure/flora/grass/green,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 6
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"db" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 4
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"dj" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner,
+/obj/machinery/newscaster/directional/north,
+/turf/open/floor/stone,
+/area/template_noop)
+"fR" = (
+/obj/structure/flora/grass/both/style_2,
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 8
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"hc" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner,
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"hE" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 1
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"iv" = (
+/obj/structure/sign/flag/tizira/directional/north,
+/obj/effect/turf_decal/siding/thinplating_new/dark,
+/obj/structure/fluff/paper{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"jC" = (
+/obj/structure/flora/grass/jungle/a/style_random,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 6
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"lf" = (
+/obj/structure/fluff/paper/corner,
+/turf/open/floor/stone,
+/area/template_noop)
+"lp" = (
+/obj/effect/turf_decal/weather/sand{
+	color = "#662e2b"
+	},
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"lO" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 4
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"lV" = (
+/obj/structure/fireplace,
+/obj/effect/turf_decal/siding/thinplating_new/dark,
+/turf/open/floor/stone,
+/area/template_noop)
+"lZ" = (
+/obj/structure/fluff/paper{
+	dir = 8
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"mD" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark,
+/turf/open/floor/stone,
+/area/template_noop)
+"nb" = (
+/obj/structure/flora/grass/both,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 5
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"nM" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 6
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"oK" = (
+/obj/effect/turf_decal/weather/sand{
+	color = "#662e2b";
+	dir = 8
+	},
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"pc" = (
+/obj/effect/turf_decal/weather/sand{
+	color = "#662e2b";
+	dir = 1
+	},
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"pd" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 10
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"pe" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 10
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"pA" = (
+/obj/structure/flora/grass/green/style_2,
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"pP" = (
+/obj/structure/fluff/paper{
+	dir = 8
+	},
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"qy" = (
+/obj/structure/sign/poster/contraband/the_griffin/directional/south,
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 4
+	},
+/obj/structure/fluff/paper/corner,
+/turf/open/floor/stone,
+/area/template_noop)
+"qY" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark,
+/obj/structure/fluff/paper{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"rD" = (
+/obj/structure/fluff/paper/corner{
+	dir = 1
+	},
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"rN" = (
+/obj/structure/fluff/paper/corner{
+	dir = 8
+	},
+/turf/closed/indestructible/paper,
+/area/template_noop)
+"sQ" = (
+/turf/open/misc/sandy_dirt{
+	color = "#ad4b45"
+	},
+/area/template_noop)
+"sX" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 9
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"tH" = (
+/obj/structure/fluff/paper{
+	dir = 1
+	},
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"tP" = (
+/obj/effect/turf_decal/weather/sand{
+	color = "#662e2b";
+	dir = 4
+	},
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"vy" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/obj/structure/fluff/paper/corner{
+	dir = 8
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"vZ" = (
+/obj/structure/sign/poster/contraband/smoke/directional/north,
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 8
+	},
+/obj/structure/fluff/paper/corner{
+	dir = 4
+	},
+/obj/item/paper/crumpled,
+/turf/open/floor/stone,
+/area/template_noop)
+"wC" = (
+/obj/structure/flora/grass/both,
+/obj/structure/statue/sandstone/venus,
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"wF" = (
+/obj/structure/fluff/paper/corner{
+	dir = 4
+	},
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"wS" = (
+/obj/structure/statue/sandstone/venus,
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"xc" = (
+/obj/item/paper/crumpled,
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"xx" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 6
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"xC" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 5
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"xX" = (
+/obj/structure/flora/bush/sparsegrass/style_random,
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"yQ" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 1
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"yW" = (
+/obj/structure/sign/clock/directional/south,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 1
+	},
+/obj/structure/chair/comfy/carp{
+	dir = 1
+	},
+/obj/structure/fluff/paper,
+/turf/open/floor/stone,
+/area/template_noop)
+"zs" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 6
+	},
+/obj/item/light/tube/broken,
+/turf/open/floor/stone,
+/area/template_noop)
+"zG" = (
+/obj/structure/fluff/paper{
+	dir = 4
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"Ai" = (
+/turf/closed/indestructible/paper,
+/area/template_noop)
+"Au" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 1
+	},
+/obj/structure/fluff/paper,
+/turf/open/floor/stone,
+/area/template_noop)
+"Bk" = (
+/obj/structure/flora/bush/fullgrass/style_3,
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"Bm" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark,
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"Cu" = (
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"Dk" = (
+/obj/structure/fluff/paper/corner{
+	dir = 4
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"Et" = (
+/obj/structure/mannequin/plastic,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 1
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"GH" = (
+/obj/structure/sign/flag/ssc/directional/south,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 1
+	},
+/obj/structure/fluff/paper,
+/turf/open/floor/stone,
+/area/template_noop)
+"IJ" = (
+/obj/structure/fluff/paper{
+	dir = 4
+	},
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"IS" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 9
+	},
+/obj/item/light/bulb/broken,
+/turf/open/floor/stone,
+/area/template_noop)
+"Ja" = (
+/obj/structure/flora/grass/jungle/b/style_random,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 9
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"JI" = (
+/obj/item/flashlight/lamp/bananalamp{
+	pixel_x = -4;
+	pixel_y = 15
+	},
+/obj/item/paper{
+	pixel_x = 2;
+	pixel_y = 4
+	},
+/obj/structure/table/wood,
+/turf/open/misc/sandy_dirt{
+	color = "#ad4b45"
+	},
+/area/template_noop)
+"Kn" = (
+/obj/structure/flora/bush/fullgrass/style_random,
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"Ko" = (
+/obj/structure/mannequin/plastic,
+/obj/effect/turf_decal/siding/thinplating_new/dark,
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"LB" = (
+/obj/structure/flora/bush/fullgrass,
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"Ng" = (
+/obj/structure/flora/bush/lavendergrass/style_2,
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"Nu" = (
+/obj/structure/flora/grass/both/style_random,
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 8
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"NN" = (
+/obj/structure/sign/flag/tizira/directional/north,
+/obj/effect/turf_decal/siding/thinplating_new/dark,
+/obj/structure/fluff/paper/corner{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"NU" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 5
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"OO" = (
+/obj/item/paper/crumpled/bloody,
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"OU" = (
+/obj/structure/displaycase/trophy,
+/obj/item/reagent_containers/cup/glass/trophy/gold_cup,
+/turf/open/misc/sandy_dirt{
+	color = "#ad4b45"
+	},
+/area/template_noop)
+"Pu" = (
+/obj/structure/fluff/paper{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 8
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"Pw" = (
+/obj/effect/turf_decal/weather/sand{
+	color = "#662e2b";
+	dir = 6
+	},
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"Qz" = (
+/obj/structure/flora/grass/green/style_3,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 9
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"QQ" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"Rj" = (
+/obj/structure/fluff/paper/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 4
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"Rz" = (
+/obj/structure/flora/grass/jungle/b/style_random,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 5
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"RJ" = (
+/obj/structure/flora/grass/jungle/b,
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"Tk" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 1
+	},
+/obj/machinery/firealarm/directional/south,
+/turf/open/floor/stone,
+/area/template_noop)
+"TA" = (
+/obj/structure/fluff/paper,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 4
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"TD" = (
+/obj/structure/flora/grass/jungle/a/style_3,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 10
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"Uu" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner{
+	dir = 8
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"UW" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark/corner,
+/turf/open/floor/stone,
+/area/template_noop)
+"Vg" = (
+/obj/structure/fluff/paper/corner,
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"VP" = (
+/obj/structure/flora/grass/both,
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 9
+	},
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"WM" = (
+/obj/effect/turf_decal/siding/thinplating_new/dark{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"Xe" = (
+/obj/effect/turf_decal/weather/sand{
+	color = "#662e2b";
+	dir = 9
+	},
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"XK" = (
+/obj/structure/flora/bush/lavendergrass/style_random,
+/obj/structure/fluff/paper/corner{
+	dir = 8
+	},
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"Yi" = (
+/turf/open/misc/ashplanet/wateryrock,
+/area/template_noop)
+"Zj" = (
+/obj/structure/fluff/paper,
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+"Zp" = (
+/obj/effect/turf_decal/weather/sand{
+	color = "#662e2b";
+	dir = 10
+	},
+/turf/open/misc/dirt{
+	color = "#9e6b59"
+	},
+/area/template_noop)
+
+(1,1,1) = {"
+wS
+hc
+cd
+lf
+zG
+Rj
+lO
+Rz
+db
+wS
+"}
+(2,1,1) = {"
+pA
+Bm
+UW
+TA
+Ai
+tH
+xC
+lO
+yQ
+RJ
+"}
+(3,1,1) = {"
+hc
+jC
+mD
+XK
+pP
+wF
+Cu
+WM
+nb
+db
+"}
+(4,1,1) = {"
+bd
+UW
+xx
+OO
+Cu
+Cu
+Cu
+xC
+lO
+Et
+"}
+(5,1,1) = {"
+nM
+mD
+Cu
+Cu
+tP
+tP
+Kn
+Cu
+WM
+NU
+"}
+(6,1,1) = {"
+dj
+zs
+Cu
+lp
+sQ
+sQ
+pc
+Cu
+xC
+qy
+"}
+(7,1,1) = {"
+mD
+LB
+Cu
+Pw
+sQ
+sQ
+bb
+Cu
+xc
+Au
+"}
+(8,1,1) = {"
+NN
+Cu
+lp
+sQ
+sQ
+sQ
+sQ
+pc
+Cu
+GH
+"}
+(9,1,1) = {"
+lV
+Cu
+lp
+sQ
+JI
+OU
+sQ
+pc
+Cu
+yW
+"}
+(10,1,1) = {"
+iv
+Cu
+lp
+sQ
+sQ
+sQ
+sQ
+pc
+Cu
+aE
+"}
+(11,1,1) = {"
+qY
+Cu
+Cu
+Zp
+sQ
+sQ
+Xe
+Cu
+Cu
+WM
+"}
+(12,1,1) = {"
+vZ
+pd
+Cu
+lp
+sQ
+sQ
+pc
+Cu
+sX
+Tk
+"}
+(13,1,1) = {"
+TD
+mD
+Bk
+Cu
+oK
+oK
+Cu
+xX
+WM
+Qz
+"}
+(14,1,1) = {"
+Ko
+Uu
+pd
+Cu
+Cu
+Ng
+OO
+IS
+QQ
+Et
+"}
+(15,1,1) = {"
+Nu
+pe
+mD
+Cu
+Vg
+IJ
+rD
+WM
+VP
+hE
+"}
+(16,1,1) = {"
+Yi
+Bm
+Uu
+pd
+Zj
+rN
+Pu
+QQ
+yQ
+Yi
+"}
+(17,1,1) = {"
+wS
+fR
+pe
+Uu
+vy
+lZ
+Dk
+Ja
+hE
+wC
+"}

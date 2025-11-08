@@ -1,0 +1,706 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"au" = (
+/obj/item/ammo_casing/spent{
+	pixel_x = -9;
+	pixel_y = -10
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"aP" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"aV" = (
+/obj/effect/turf_decal/syndicateemblem/top/left,
+/turf/open/floor/stone,
+/area/template_noop)
+"bQ" = (
+/obj/machinery/conveyor{
+	dir = 4;
+	id = "WarehouseEVENT"
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"bR" = (
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 4
+	},
+/obj/item/clothing/head/cone{
+	pixel_x = 7;
+	pixel_y = 3
+	},
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 8
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"cB" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 10
+	},
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 4
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"cQ" = (
+/obj/machinery/conveyor/inverted{
+	dir = 10;
+	id = "WarehouseEVENT"
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"ek" = (
+/obj/effect/turf_decal/siding/dark/corner,
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"fi" = (
+/obj/effect/turf_decal/syndicateemblem/top/right,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"gA" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 9
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"gB" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"gI" = (
+/obj/effect/turf_decal/syndicateemblem/bottom/right,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"gM" = (
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/dark{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"gO" = (
+/obj/effect/turf_decal/syndicateemblem/middle/left,
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"he" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/closet/crate,
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"ic" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"lz" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"nV" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 6
+	},
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"nW" = (
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/dark{
+	dir = 5
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"ot" = (
+/turf/open/floor/stone,
+/area/template_noop)
+"oB" = (
+/obj/machinery/conveyor{
+	id = "WarehouseEVENT"
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"ps" = (
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/dark/corner,
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/stone,
+/area/template_noop)
+"pL" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"qQ" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/item/ammo_casing/spent{
+	pixel_x = -8;
+	pixel_y = -4
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"si" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 4
+	},
+/obj/item/cigbutt{
+	pixel_x = -2
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"sK" = (
+/obj/effect/turf_decal/syndicateemblem/bottom/middle,
+/turf/open/floor/stone,
+/area/template_noop)
+"tr" = (
+/obj/item/clothing/head/cone{
+	pixel_x = 6;
+	pixel_y = -9
+	},
+/obj/item/cigbutt{
+	pixel_x = -11;
+	pixel_y = -4
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"tK" = (
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 4
+	},
+/obj/item/clothing/head/cone{
+	pixel_x = -6;
+	pixel_y = 10
+	},
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 8
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"wW" = (
+/obj/effect/turf_decal/siding/dark/corner,
+/obj/effect/turf_decal/siding/dark{
+	dir = 9
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"xx" = (
+/obj/structure/fluff/big_chain,
+/obj/structure/closet/crate,
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"xF" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 6
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"yb" = (
+/obj/effect/turf_decal/syndicateemblem/bottom/left,
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/stone,
+/area/template_noop)
+"zR" = (
+/obj/item/ammo_casing/spent{
+	pixel_x = -5;
+	pixel_y = 3
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"AG" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 4
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"By" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/obj/item/ammo_casing/spent{
+	pixel_x = -8;
+	pixel_y = -4
+	},
+/obj/item/ammo_casing/spent{
+	pixel_x = -1;
+	pixel_y = 5
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"Df" = (
+/obj/structure/fluff/big_chain,
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"Dl" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 4
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"Do" = (
+/obj/machinery/conveyor{
+	dir = 8;
+	id = "WarehouseEVENT"
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"DS" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/clothing/suit/caution{
+	pixel_x = 5;
+	pixel_y = 12
+	},
+/obj/item/clothing/suit/caution{
+	pixel_x = 10;
+	pixel_y = 5
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"DY" = (
+/obj/effect/turf_decal/siding/dark,
+/obj/item/cigbutt{
+	pixel_x = -11;
+	pixel_y = 15
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"EA" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/item/cigbutt{
+	pixel_x = -14;
+	pixel_y = 13
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"Fq" = (
+/obj/machinery/conveyor/inverted{
+	dir = 9;
+	id = "WarehouseEVENT"
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"GW" = (
+/obj/effect/turf_decal/siding/dark,
+/turf/open/floor/stone,
+/area/template_noop)
+"Hc" = (
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 8
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"Hh" = (
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 1
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"HD" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/stone,
+/area/template_noop)
+"HL" = (
+/obj/effect/turf_decal/syndicateemblem/middle/middle,
+/obj/machinery/conveyor_switch/oneway{
+	id = "WarehouseEVENT"
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"HR" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 10
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"Ii" = (
+/obj/item/cigbutt{
+	pixel_x = -11;
+	pixel_y = 15
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"IF" = (
+/obj/structure/closet/crate/preopen,
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"JP" = (
+/obj/machinery/conveyor/inverted{
+	dir = 5;
+	id = "WarehouseEVENT"
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"MS" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"NH" = (
+/obj/machinery/conveyor/inverted{
+	dir = 6;
+	id = "WarehouseEVENT"
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"NQ" = (
+/obj/effect/turf_decal/siding/dark,
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"NV" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/closet/crate,
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"Oz" = (
+/obj/machinery/conveyor{
+	dir = 8;
+	id = "WarehouseEVENT"
+	},
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/stone,
+/area/template_noop)
+"OF" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"Pt" = (
+/turf/closed/wall{
+	opacity = 0
+	},
+/area/template_noop)
+"QI" = (
+/obj/effect/turf_decal/siding/dark/corner,
+/obj/effect/turf_decal/siding/dark{
+	dir = 8
+	},
+/obj/item/cigbutt{
+	pixel_x = -11;
+	pixel_y = 15
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"QW" = (
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"Rc" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/stone,
+/area/template_noop)
+"Rt" = (
+/obj/structure/closet/crate,
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"Rw" = (
+/obj/effect/turf_decal/syndicateemblem/middle/right,
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/stone,
+/area/template_noop)
+"Rx" = (
+/obj/effect/turf_decal/siding/dark,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"Si" = (
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/dark/corner,
+/turf/open/floor/stone,
+/area/template_noop)
+"Te" = (
+/obj/effect/turf_decal/siding/dark,
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/stone,
+/area/template_noop)
+"TI" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 5
+	},
+/obj/effect/decal/cleanable/crayon{
+	icon_state = "body";
+	name = "body"
+	},
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/stone,
+/area/template_noop)
+"Ut" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/item/cigbutt{
+	pixel_x = -11;
+	pixel_y = 15
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"UL" = (
+/obj/effect/turf_decal/siding/dark{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"UT" = (
+/obj/effect/turf_decal/siding/dark/corner{
+	dir = 4
+	},
+/obj/item/clothing/head/cone{
+	pixel_x = -5;
+	pixel_y = 4
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/template_noop)
+"Xh" = (
+/obj/effect/turf_decal/syndicateemblem/top/middle,
+/turf/open/floor/stone,
+/area/template_noop)
+"XT" = (
+/obj/machinery/conveyor{
+	dir = 1;
+	id = "WarehouseEVENT"
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+
+(1,1,1) = {"
+JP
+oB
+oB
+oB
+oB
+oB
+oB
+oB
+oB
+Fq
+"}
+(2,1,1) = {"
+Do
+Pt
+Pt
+Pt
+Pt
+Pt
+Pt
+Pt
+Pt
+bQ
+"}
+(3,1,1) = {"
+Do
+NV
+IF
+EA
+ot
+HD
+GW
+QW
+Ut
+bQ
+"}
+(4,1,1) = {"
+Do
+xx
+QW
+UL
+ot
+aP
+GW
+Df
+ic
+bQ
+"}
+(5,1,1) = {"
+Do
+QW
+wW
+OF
+Dl
+Dl
+bR
+HR
+QW
+bQ
+"}
+(6,1,1) = {"
+Do
+QI
+nV
+QW
+QW
+tr
+TI
+tK
+lz
+bQ
+"}
+(7,1,1) = {"
+Do
+GW
+ek
+AG
+AG
+AG
+UT
+UL
+Ii
+bQ
+"}
+(8,1,1) = {"
+Do
+Rx
+NQ
+aV
+gO
+yb
+pL
+MS
+HD
+bQ
+"}
+(9,1,1) = {"
+Do
+Rx
+NQ
+Xh
+HL
+sK
+pL
+UL
+ot
+bQ
+"}
+(10,1,1) = {"
+Do
+GW
+NQ
+fi
+Rw
+gI
+pL
+UL
+ot
+bQ
+"}
+(11,1,1) = {"
+Do
+DY
+Hc
+gB
+gB
+gB
+Hh
+UL
+aP
+bQ
+"}
+(12,1,1) = {"
+Do
+gM
+cB
+au
+zR
+QW
+gA
+ps
+si
+bQ
+"}
+(13,1,1) = {"
+Oz
+ic
+nW
+qQ
+By
+lz
+Si
+xF
+QW
+bQ
+"}
+(14,1,1) = {"
+Do
+Df
+QW
+UL
+ot
+ot
+GW
+Df
+he
+bQ
+"}
+(15,1,1) = {"
+Do
+DS
+QW
+Rc
+aP
+ot
+Te
+Rt
+he
+bQ
+"}
+(16,1,1) = {"
+Do
+Pt
+Pt
+Pt
+Pt
+Pt
+Pt
+Pt
+Pt
+bQ
+"}
+(17,1,1) = {"
+NH
+XT
+XT
+XT
+XT
+XT
+XT
+XT
+XT
+cQ
+"}

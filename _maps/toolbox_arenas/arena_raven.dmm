@@ -1,0 +1,700 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"bN" = (
+/obj/structure/table/wood,
+/obj/item/cigbutt{
+	pixel_x = -10;
+	pixel_y = 3
+	},
+/obj/item/paper_bin{
+	pixel_x = 4;
+	pixel_y = 12
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"bU" = (
+/obj/item/cigbutt{
+	pixel_x = 2;
+	pixel_y = 13
+	},
+/obj/item/cigbutt{
+	pixel_x = -14;
+	pixel_y = 19
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"cg" = (
+/obj/effect/turf_decal/raven/six,
+/turf/open/floor/stone,
+/area/template_noop)
+"ch" = (
+/obj/machinery/oven/range,
+/turf/open/floor/stone,
+/area/template_noop)
+"cj" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/smooth,
+/area/template_noop)
+"dl" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/table/wood,
+/obj/item/book/manual/wiki/detective{
+	pixel_y = 1
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"dn" = (
+/obj/structure/fluff/paper,
+/obj/structure/fluff/paper/stack,
+/turf/open/floor/stone,
+/area/template_noop)
+"ds" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/cigbutt{
+	pixel_x = -12;
+	pixel_y = -7
+	},
+/turf/open/floor/iron/smooth,
+/area/template_noop)
+"dC" = (
+/obj/structure/fluff/paper{
+	dir = 10
+	},
+/obj/structure/fluff/paper/stack,
+/obj/item/cigbutt{
+	pixel_x = 4;
+	pixel_y = 20
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"fb" = (
+/obj/structure/fluff/paper/stack{
+	dir = 4
+	},
+/turf/open/floor/stone{
+	icon = 'icons/turf/walls.dmi';
+	icon_state = "paperwall"
+	},
+/area/template_noop)
+"fx" = (
+/obj/item/kirbyplants/fern{
+	pixel_x = -6;
+	pixel_y = 1
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"fQ" = (
+/obj/effect/turf_decal/raven/three,
+/obj/structure/fluff/paper/stack{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"fU" = (
+/obj/structure/fluff/paper/stack{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"gZ" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"hv" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/cigbutt{
+	pixel_x = -12;
+	pixel_y = -7
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"hT" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/cigbutt{
+	pixel_x = -8;
+	pixel_y = 15
+	},
+/obj/item/cigbutt{
+	pixel_x = 3;
+	pixel_y = 3
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"id" = (
+/obj/structure/fluff/paper/corner{
+	dir = 1
+	},
+/obj/item/cigbutt{
+	pixel_x = -12;
+	pixel_y = -7
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"iM" = (
+/turf/open/floor/iron/smooth,
+/area/template_noop)
+"lH" = (
+/obj/structure/bed/maint,
+/turf/open/floor/stone,
+/area/template_noop)
+"lL" = (
+/obj/effect/turf_decal/raven/two,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"lT" = (
+/obj/item/cigbutt{
+	pixel_x = 2;
+	pixel_y = 13
+	},
+/turf/open/floor/iron/smooth,
+/area/template_noop)
+"lY" = (
+/obj/item/cigbutt{
+	pixel_x = -12;
+	pixel_y = -7
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"mW" = (
+/obj/structure/fluff/paper{
+	dir = 4
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"nh" = (
+/turf/closed/wall{
+	opacity = 0
+	},
+/area/template_noop)
+"nm" = (
+/obj/structure/fluff/paper,
+/obj/structure/fluff/paper/stack{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"nK" = (
+/obj/structure/fluff/paper{
+	dir = 1
+	},
+/obj/structure/fluff/paper,
+/turf/open/floor/stone,
+/area/template_noop)
+"oV" = (
+/obj/structure/fluff/paper{
+	dir = 8
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"pd" = (
+/obj/structure/fluff/paper/corner{
+	dir = 1
+	},
+/obj/structure/fluff/paper,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"pj" = (
+/obj/structure/table/wood,
+/turf/open/floor/stone,
+/area/template_noop)
+"pL" = (
+/obj/effect/turf_decal/raven/seven,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"qe" = (
+/obj/structure/table/wood,
+/obj/item/book/manual/wiki/tgc{
+	pixel_x = 3
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"qx" = (
+/obj/structure/fluff/paper/stack{
+	dir = 5
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"rr" = (
+/obj/structure/fluff/paper/stack,
+/turf/open/floor/stone,
+/area/template_noop)
+"rH" = (
+/obj/structure/fluff/paper/corner{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/smooth,
+/area/template_noop)
+"rR" = (
+/obj/structure/fluff/paper{
+	dir = 5
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"sx" = (
+/obj/structure/table/wood,
+/obj/item/book/manual/wiki/tcomms{
+	pixel_x = 15;
+	pixel_y = -1
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"sG" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/kirbyplants/fern{
+	pixel_x = 6;
+	pixel_y = 1
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"va" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/table/wood,
+/obj/item/book/manual/wiki/ordnance{
+	pixel_x = -5;
+	pixel_y = 7
+	},
+/obj/item/book/manual/wiki/atmospherics{
+	pixel_x = 1;
+	pixel_y = 3
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"vx" = (
+/obj/effect/turf_decal/raven/four,
+/turf/open/floor/stone,
+/area/template_noop)
+"vy" = (
+/obj/structure/fluff/paper/corner{
+	dir = 4
+	},
+/obj/structure/fluff/paper,
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/fluff/paper/stack{
+	dir = 1
+	},
+/obj/structure/fluff/paper/stack,
+/turf/open/floor/stone,
+/area/template_noop)
+"wm" = (
+/obj/effect/turf_decal/raven/one,
+/obj/structure/fluff/paper/stack{
+	dir = 5
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"wD" = (
+/obj/structure/fluff/paper{
+	dir = 8
+	},
+/obj/item/cigbutt{
+	pixel_x = 4;
+	pixel_y = -3
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"xc" = (
+/obj/structure/table/wood,
+/obj/item/flashlight/lamp/green{
+	pixel_x = -3;
+	pixel_y = 14
+	},
+/obj/item/folder/syndicate{
+	pixel_x = 8;
+	pixel_y = 2
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"xR" = (
+/obj/structure/table/wood,
+/obj/item/paper_bin{
+	pixel_x = 6;
+	pixel_y = 4
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"ye" = (
+/obj/structure/fluff/paper/corner,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"ys" = (
+/obj/item/flashlight/lamp/green{
+	pixel_x = -3;
+	pixel_y = 14
+	},
+/obj/structure/table/wood,
+/obj/structure/fluff/paper/corner{
+	dir = 8
+	},
+/obj/item/storage/fancy/cigarettes/cigpack_shadyjims{
+	pixel_x = -6;
+	pixel_y = 6
+	},
+/obj/item/pen{
+	pixel_x = 9;
+	pixel_y = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"yD" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/table/wood,
+/obj/item/storage/bag/tray{
+	pixel_y = 4
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"yE" = (
+/obj/structure/fluff/paper/stack,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"zh" = (
+/obj/structure/table/wood,
+/obj/machinery/microwave,
+/turf/open/floor/stone,
+/area/template_noop)
+"Bg" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/fluff/paper/stack,
+/turf/open/floor/iron/smooth,
+/area/template_noop)
+"FE" = (
+/obj/structure/fluff/paper/stack{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"FS" = (
+/obj/structure/fluff/paper/corner{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/item/cigbutt{
+	pixel_x = -4;
+	pixel_y = 7
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"IA" = (
+/obj/effect/turf_decal/raven/eight,
+/turf/open/floor/stone,
+/area/template_noop)
+"JF" = (
+/turf/open/floor/carpet,
+/area/template_noop)
+"JH" = (
+/obj/structure/fluff/paper/stack{
+	dir = 10
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"JN" = (
+/obj/structure/table/wood,
+/obj/item/pen{
+	pixel_x = -8;
+	pixel_y = 1
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"Lz" = (
+/obj/structure/filingcabinet/chestdrawer,
+/turf/open/floor/stone,
+/area/template_noop)
+"Np" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/filingcabinet/chestdrawer,
+/turf/open/floor/stone,
+/area/template_noop)
+"NF" = (
+/obj/structure/chair/office{
+	dir = 1
+	},
+/obj/structure/fluff/paper/corner{
+	dir = 8
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"PY" = (
+/obj/effect/turf_decal/raven/five,
+/turf/open/floor/stone,
+/area/template_noop)
+"Qi" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/table/wood,
+/obj/item/pen{
+	pixel_x = 9;
+	pixel_y = 1
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"QO" = (
+/obj/effect/turf_decal/raven/nine,
+/obj/structure/fluff/paper/stack,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/template_noop)
+"TN" = (
+/turf/open/floor/stone,
+/area/template_noop)
+"TQ" = (
+/obj/item/cigbutt{
+	pixel_x = 10;
+	pixel_y = -6
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"TV" = (
+/obj/structure/fluff/paper{
+	dir = 10
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"Vp" = (
+/obj/item/cigbutt{
+	pixel_x = 2;
+	pixel_y = 13
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"Vw" = (
+/obj/structure/table/wood,
+/obj/item/folder/syndicate{
+	pixel_x = -3;
+	pixel_y = 2
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"VR" = (
+/obj/structure/fluff/paper/stack{
+	dir = 5
+	},
+/turf/open/floor/stone{
+	icon = 'icons/turf/walls.dmi';
+	icon_state = "paperwall"
+	},
+/area/template_noop)
+"YK" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/cigbutt{
+	pixel_x = 2;
+	pixel_y = 13
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"ZI" = (
+/turf/open/floor/stone{
+	icon = 'icons/turf/walls.dmi';
+	icon_state = "paperwall"
+	},
+/area/template_noop)
+
+(1,1,1) = {"
+cj
+cj
+lT
+iM
+cj
+iM
+cj
+iM
+cj
+lT
+"}
+(2,1,1) = {"
+Vp
+TN
+gZ
+TN
+TN
+TN
+TN
+TN
+TN
+sG
+"}
+(3,1,1) = {"
+Lz
+TN
+xc
+TN
+lH
+nh
+zh
+hT
+Vp
+Vw
+"}
+(4,1,1) = {"
+Lz
+TN
+Qi
+gZ
+qe
+nh
+ch
+bU
+TN
+xR
+"}
+(5,1,1) = {"
+Np
+TN
+TN
+TN
+gZ
+TN
+gZ
+TN
+TQ
+yD
+"}
+(6,1,1) = {"
+nh
+cj
+nh
+nh
+nh
+nh
+nh
+nh
+rH
+nh
+"}
+(7,1,1) = {"
+fU
+TN
+rr
+gZ
+dn
+ZI
+ZI
+fb
+rR
+pd
+"}
+(8,1,1) = {"
+gZ
+pL
+vx
+wm
+ys
+dC
+VR
+ZI
+ZI
+nK
+"}
+(9,1,1) = {"
+JF
+IA
+PY
+lL
+pj
+NF
+TV
+ZI
+VR
+nK
+"}
+(10,1,1) = {"
+TN
+QO
+cg
+fQ
+bN
+qx
+FS
+oV
+wD
+vy
+"}
+(11,1,1) = {"
+JH
+FE
+ye
+mW
+mW
+mW
+id
+yE
+TN
+nm
+"}
+(12,1,1) = {"
+nh
+cj
+nh
+nh
+nh
+nh
+nh
+nh
+Bg
+nh
+"}
+(13,1,1) = {"
+Np
+TN
+lY
+gZ
+Vp
+TN
+hv
+TN
+TN
+va
+"}
+(14,1,1) = {"
+Lz
+gZ
+Np
+TN
+JN
+nh
+Lz
+TN
+TN
+sx
+"}
+(15,1,1) = {"
+Lz
+TN
+Lz
+gZ
+fx
+nh
+Lz
+YK
+TN
+dl
+"}
+(16,1,1) = {"
+TN
+lY
+gZ
+TN
+Vp
+TN
+TN
+TN
+hv
+TN
+"}
+(17,1,1) = {"
+ds
+iM
+iM
+iM
+cj
+iM
+cj
+iM
+iM
+lT
+"}

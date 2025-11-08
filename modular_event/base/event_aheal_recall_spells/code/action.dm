@@ -23,7 +23,7 @@
 	if (ishuman(user))
 		var/mob/living/carbon/human/human_target = user
 		human_target.electrocution_animation(LIGHTNING_BOLT_ELECTROCUTION_ANIMATION_LENGTH)
-	user.revive(TRUE, TRUE)
+	user.revive(~HEAL_RESTRAINTS, TRUE)
 
 	StartCooldown()
 
