@@ -253,7 +253,7 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 			if (!(contestant_mob.dna?.species?.type in list(/datum/species/human, /datum/species/moth, /datum/species/lizard, /datum/species/human/felinid)))
 				contestant_mob.set_species(/datum/species/human)
 			contestant_mob.forceMove(pick(valid_team_spawns[team_spawn_id]))
-			contestant_mob.equip_inert_outfit(team.outfit)
+			//contestant_mob.equip_inert_outfit(team.outfit)
 			if (team_spawn_id == EVENT_ARENA_GREEN_TEAM)
 				contestant_mob.equipOutfit(/datum/outfit/toolbox/green)
 				add_green_team_hud(contestant_mob)
@@ -302,13 +302,13 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 		var/obj/spawn_landmark = pick_n_take(spawns)
 
 		var/obj/item/storage/toolbox/toolbox = new
-		//var/obj/item/toolbox_soul/soul = new
+		var/obj/item/toolbox_soul/soul = new
 		toolbox.color = toolbox_color
 		toolbox.forceMove(get_turf(spawn_landmark))
-		//soul.forceMove(get_turf(spawn_landmark))
+		soul.forceMove(get_turf(spawn_landmark))
 
 		toolboxes += toolbox
-		//toolboxes += soul
+		toolboxes += soul
 
 /obj/machinery/computer/tournament_controller/proc/disband_teams(mob/user)
 	for (var/client/client as anything in old_mobs)

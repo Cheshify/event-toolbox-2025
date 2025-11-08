@@ -6,7 +6,10 @@
       "theduffelbag",
       "mrmelbert"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "darkblue",
+      "style": "jumpsuit"
+    },
     "team_id": "127459515930116096"
   },
   {
@@ -16,7 +19,10 @@
       "dragomagol",
       "plapatin"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "grey",
+      "style": "jumpsuit"
+    },
     "team_id": "640027959675322385"
   },
   {
@@ -26,7 +32,10 @@
       "saint1453",
       "itzfatdog"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "black",
+      "style": "jumpsuit"
+    },
     "team_id": "797037674292707340"
   },
   {
@@ -36,7 +45,10 @@
       "ghom",
       "0steven"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "grey",
+      "style": "jumpsuit"
+    },
     "team_id": "303673094772359169"
   },
   {
@@ -46,7 +58,10 @@
       "cyberdie",
       "chazsadboys"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "black",
+      "style": "jumpsuit"
+    },
     "team_id": "103809078320455680"
   },
   {
@@ -56,7 +71,10 @@
       "alien3301",
       "supergrog"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "pink",
+      "style": "jumpsuit"
+    },
     "team_id": "270687161219678220"
   },
   {
@@ -66,7 +84,10 @@
       "riry733",
       "pohtato"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "black",
+      "style": "jumpsuit"
+    },
     "team_id": "1000994648422096906"
   },
   {
@@ -76,7 +97,10 @@
       "medianocheuwu",
       "generubi"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "red",
+      "style": "jumpsuit"
+    },
     "team_id": "263211822990098432"
   },
   {
@@ -86,7 +110,10 @@
       "doggothecrusader",
       "theduffyboi1916"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "lightpurple",
+      "style": "jumpsuit"
+    },
     "team_id": "929992200786423839"
   },
   {
@@ -96,7 +123,10 @@
       "winters1",
       "radugadew1"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "grey",
+      "style": "jumpsuit"
+    },
     "team_id": "311276839853228032"
   },
   {
@@ -106,7 +136,10 @@
       "wackalope",
       "dionsu"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "brown",
+      "style": "jumpskirt"
+    },
     "team_id": "425417292998770688"
   },
   {
@@ -116,7 +149,10 @@
       "insertgoodnamehere",
       "bloodychristmasmiracle"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "grey",
+      "style": "jumpsuit"
+    },
     "team_id": "236453168429400065"
   },
   {
@@ -126,7 +162,10 @@
       "togopal",
       "ballastmonstergnargnar"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "grey",
+      "style": "jumpsuit"
+    },
     "team_id": "564274231064395791"
   },
   {
@@ -136,7 +175,10 @@
       "chappygart",
       "admins spawn a monkey (not a sentient player)"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "brown",
+      "style": "jumpsuit"
+    },
     "team_id": "1329210427573403698"
   },
   {
@@ -146,7 +188,10 @@
       "sapphoqueer",
       "inthedark4557"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "lightbrown",
+      "style": "jumpsuit"
+    },
     "team_id": "432228651556274186"
   },
   {
@@ -156,7 +201,10 @@
       "improvedname",
       "iansdoor"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "lightbrown",
+      "style": "jumpsuit"
+    },
     "team_id": "341931709257744385"
   },
   {
@@ -166,7 +214,10 @@
       "bobdabuilder9001",
       "grammi"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "grey",
+      "style": "jumpsuit"
+    },
     "team_id": "704783839846727701"
   },
   {
@@ -176,7 +227,10 @@
       "crawl",
       "fronsis"
     ],
-    "outfit": {},
+    "outfit": {
+      "color": "red",
+      "style": "jumpsuit"
+    },
     "team_id": "729951864178868307"
   }
 ]
