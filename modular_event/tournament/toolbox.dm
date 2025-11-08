@@ -44,8 +44,8 @@
 	w_class = WEIGHT_CLASS_TINY
 	slot_flags = ITEM_SLOT_BELT
 
-/obj/item/toolbox_soul/pre_attack(atom/A, mob/living/user, params)
-	var/obj/item/storage/toolbox/target_toolbox = A
+/obj/item/toolbox_soul/interact_with_atom(atom/interacting_with, mob/living/user, list/modifiers)
+	var/obj/item/storage/toolbox/target_toolbox = interacting_with
 	if(!istype(target_toolbox) || target_toolbox.icon_state == "toolbox_blue_old")
 		return ..()
 
@@ -53,7 +53,6 @@
 		span_notice("You hold [src] above your head briefly, then force it into [target_toolbox], transferring the soul stored within!"))
 
 	target_toolbox.name = "soulful toolbox"
-	target_toolbox.icon = 'icons/obj/storage/storage.dmi'
 	target_toolbox.icon_state = "toolbox_blue_old"
 	target_toolbox.has_latches = FALSE
 	playsound(user, 'sound/effects/magic/magic_block_holy.ogg', 50, TRUE)
@@ -61,3 +60,4 @@
 	user.add_overlay(effect)
 	addtimer(CALLBACK(user, /atom/proc/cut_overlay, effect), 2 SECONDS)
 	qdel(src)
+	return ITEM_INTERACT_BLOCKING
