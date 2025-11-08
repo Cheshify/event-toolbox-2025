@@ -32,9 +32,6 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 
 	var/static/list/arena_templates
 
-	/// HUD indexes indexed by team ID
-	var/static/list/team_hud_ids
-
 	/// Internal radio for death announcements
 	var/obj/item/radio/radio
 
@@ -58,9 +55,6 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 	if (isnull(arena_templates))
 		arena_templates = list()
 		INVOKE_ASYNC(src, .proc/load_arena_templates)
-
-	if (isnull(team_hud_ids))
-		team_hud_ids = setup_team_huds()
 
 /obj/machinery/computer/tournament_controller/ui_interact(mob/user, datum/tgui/ui)
 	. = ..()
@@ -264,8 +258,10 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 			contestant_mob.equip_inert_outfit(team.outfit)
 			if (team_spawn_id == EVENT_ARENA_GREEN_TEAM)
 				contestant_mob.equipOutfit(/datum/outfit/toolbox/green)
+				add_green_team_hud(contestant_mob)
 			else if (team_spawn_id == EVENT_ARENA_RED_TEAM)
 				contestant_mob.equipOutfit(/datum/outfit/toolbox/red)
+				add_red_team_hud(contestant_mob)
 			var/obj/item/card/id/advanced/centcom/ert/id_card = new(contestant_mob.loc)
 			id_card.desc = "A Toolbox Tournament Competitor ID Card"
 			id_card.registered_name = contestant_mob.real_name
@@ -282,8 +278,6 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 			RegisterSignal(contestant_mob, COMSIG_LIVING_DEATH, .proc/contestant_died)
 
 			new_contestants += contestant_mob
-
-			//assign_team_hud(contestant_mob, team_spawn_id)
 
 		spawn_toolboxes(team.toolbox_color, team_spawn_id, clients.len)
 
