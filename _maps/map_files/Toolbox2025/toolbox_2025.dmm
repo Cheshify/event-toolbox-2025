@@ -12196,6 +12196,10 @@
 	},
 /turf/open/floor/stone,
 /area/event)
+"QC" = (
+/obj/machinery/telecomms/allinone/indestructible,
+/turf/open/water/jungle,
+/area/event)
 "QE" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/structure/fermenting_barrel{
@@ -41436,7 +41440,7 @@ Lp
 fi
 we
 YQ
-YQ
+QC
 we
 fi
 fi
