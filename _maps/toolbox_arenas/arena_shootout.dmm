@@ -1,0 +1,666 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"bl" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"bA" = (
+/obj/structure/table/wood,
+/obj/item/reagent_containers/cup/glass/bottle/yuyake{
+	pixel_x = -6;
+	pixel_y = 19
+	},
+/obj/item/reagent_containers/cup/glass/bottle/navy_rum{
+	pixel_x = -10;
+	pixel_y = 5
+	},
+/obj/item/reagent_containers/cup/glass/bottle/hooch{
+	pixel_x = 8;
+	pixel_y = 16
+	},
+/obj/item/reagent_containers/cup/glass/bottle/gin{
+	pixel_x = 5;
+	pixel_y = 5
+	},
+/turf/open/floor/wood/tile,
+/area/template_noop)
+"cc" = (
+/obj/effect/turf_decal/siding/wideplating_new/terracotta{
+	dir = 8
+	},
+/obj/structure/table/wood,
+/turf/open/floor/iron/terracotta/herringbone,
+/area/template_noop)
+"cr" = (
+/obj/structure/table/wood,
+/obj/item/gun/ballistic/shotgun/doublebarrel,
+/turf/open/floor/wood/tile,
+/area/template_noop)
+"dk" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 6
+	},
+/turf/open/floor/wood/tile,
+/area/template_noop)
+"dP" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/turf/open/floor/wood/large,
+/area/template_noop)
+"eH" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/turf/open/floor/wood/large,
+/area/template_noop)
+"fw" = (
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/wood/tile,
+/area/template_noop)
+"gl" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/structure/chair/wood{
+	dir = 1
+	},
+/turf/open/floor/wood/large,
+/area/template_noop)
+"gu" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"hh" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"ho" = (
+/obj/structure/chair/wood{
+	dir = 8
+	},
+/turf/open/floor/carpet,
+/area/template_noop)
+"iV" = (
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"jF" = (
+/obj/effect/turf_decal/siding/wideplating_new/terracotta,
+/obj/structure/table/wood,
+/turf/open/floor/iron/terracotta/herringbone,
+/area/template_noop)
+"kK" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/wood/large,
+/area/template_noop)
+"kO" = (
+/obj/structure/table/wood,
+/obj/item/reagent_containers/cup/glass/bottle/vermouth{
+	pixel_x = -8;
+	pixel_y = 14
+	},
+/obj/item/reagent_containers/cup/glass/bottle/molotov{
+	pixel_x = 4;
+	pixel_y = 16
+	},
+/obj/item/reagent_containers/cup/glass/bottle/lizardwine{
+	pixel_x = 8;
+	pixel_y = 4
+	},
+/obj/item/reagent_containers/cup/glass/bottle/grappa{
+	pixel_x = -7;
+	pixel_y = 5
+	},
+/turf/open/floor/wood/tile,
+/area/template_noop)
+"lh" = (
+/turf/open/floor/wood/tile,
+/area/template_noop)
+"lN" = (
+/turf/open/floor/wood/large,
+/area/template_noop)
+"ph" = (
+/obj/effect/turf_decal/siding/wideplating_new/terracotta{
+	dir = 4
+	},
+/obj/structure/table/wood,
+/obj/item/food/grown/banana/bombanana,
+/turf/open/floor/iron/terracotta/herringbone,
+/area/template_noop)
+"po" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/wood/tile,
+/area/template_noop)
+"qe" = (
+/obj/structure/table/wood,
+/obj/item/storage/toolbox,
+/turf/open/floor/carpet,
+/area/template_noop)
+"qr" = (
+/obj/structure/table/wood,
+/obj/item/reagent_containers/cup/glass/bottle/trappist{
+	pixel_x = 1;
+	pixel_y = 12
+	},
+/obj/item/reagent_containers/cup/glass/bottle/vodka/badminka{
+	pixel_x = 0;
+	pixel_y = 7
+	},
+/obj/item/reagent_containers/cup/glass/bottle/maltliquor{
+	pixel_x = 11;
+	pixel_y = 12
+	},
+/obj/item/reagent_containers/cup/glass/bottle/hakka_mate{
+	pixel_x = -11;
+	pixel_y = 10
+	},
+/turf/open/floor/wood/tile,
+/area/template_noop)
+"qB" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/structure/chair/wood{
+	dir = 8
+	},
+/turf/open/floor/wood/large,
+/area/template_noop)
+"ra" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/turf/open/floor/wood/large,
+/area/template_noop)
+"rB" = (
+/obj/effect/turf_decal/siding/wideplating_new/terracotta{
+	dir = 6
+	},
+/obj/structure/table/wood,
+/obj/item/food/pie/cream,
+/turf/open/floor/iron/terracotta/herringbone,
+/area/template_noop)
+"sj" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/wood/tile,
+/area/template_noop)
+"tA" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"tD" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/wood/corner,
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"uK" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"xN" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/wood/large,
+/area/template_noop)
+"xZ" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 10
+	},
+/turf/open/floor/wood/tile,
+/area/template_noop)
+"yd" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/wood/tile,
+/area/template_noop)
+"zL" = (
+/obj/effect/turf_decal/siding/wood,
+/turf/open/floor/wood/tile,
+/area/template_noop)
+"BN" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"Cv" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/structure/chair/wood{
+	dir = 4
+	},
+/turf/open/floor/wood/large,
+/area/template_noop)
+"Dd" = (
+/obj/effect/turf_decal/siding/wideplating_new/terracotta{
+	dir = 4
+	},
+/obj/structure/table/wood,
+/obj/item/shield/riot,
+/turf/open/floor/iron/terracotta/herringbone,
+/area/template_noop)
+"EX" = (
+/obj/effect/turf_decal/siding/wideplating_new/terracotta{
+	dir = 8
+	},
+/obj/structure/table/wood,
+/obj/item/food/grown/banana/bombanana,
+/turf/open/floor/iron/terracotta/herringbone,
+/area/template_noop)
+"Go" = (
+/obj/effect/turf_decal/siding/wood/corner,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"HG" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/wood/corner,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"HZ" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/structure/chair/wood{
+	dir = 1
+	},
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"Io" = (
+/obj/effect/turf_decal/siding/wideplating_new/terracotta{
+	dir = 10
+	},
+/obj/structure/table/wood,
+/obj/item/food/pie/cream,
+/turf/open/floor/iron/terracotta/herringbone,
+/area/template_noop)
+"IB" = (
+/obj/effect/turf_decal/siding/wideplating_new/terracotta,
+/obj/structure/table/wood,
+/obj/item/food/grown/banana/bombanana,
+/turf/open/floor/iron/terracotta/herringbone,
+/area/template_noop)
+"IV" = (
+/obj/structure/table/wood,
+/obj/item/ammo_casing/shotgun/rubbershot,
+/obj/item/ammo_casing/shotgun/rubbershot,
+/turf/open/floor/carpet,
+/area/template_noop)
+"KS" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"KZ" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/turf/open/floor/wood/large,
+/area/template_noop)
+"LE" = (
+/obj/effect/turf_decal/siding/wideplating_new/terracotta,
+/obj/structure/table/wood,
+/obj/item/food/pie/cream,
+/turf/open/floor/iron/terracotta/herringbone,
+/area/template_noop)
+"LJ" = (
+/obj/structure/chair/wood{
+	dir = 4
+	},
+/turf/open/floor/carpet,
+/area/template_noop)
+"Mg" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/turf/open/floor/wood/large,
+/area/template_noop)
+"Mv" = (
+/obj/effect/turf_decal/siding/wideplating_new/terracotta{
+	dir = 8
+	},
+/obj/structure/table/wood,
+/obj/item/shield/riot,
+/turf/open/floor/iron/terracotta/herringbone,
+/area/template_noop)
+"PY" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"QX" = (
+/obj/structure/table/wood,
+/obj/item/reagent_containers/cup/glass/bottle/wine{
+	pixel_x = 7;
+	pixel_y = 15
+	},
+/obj/item/reagent_containers/cup/glass/bottle/applejack{
+	pixel_x = -12;
+	pixel_y = 15
+	},
+/obj/item/reagent_containers/cup/glass/bottle/moonshine{
+	pixel_x = -6;
+	pixel_y = 2
+	},
+/obj/item/reagent_containers/cup/glass/bottle/goldschlager{
+	pixel_x = 7;
+	pixel_y = 10
+	},
+/turf/open/floor/wood/tile,
+/area/template_noop)
+"Th" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/wood/tile,
+/area/template_noop)
+"Vi" = (
+/obj/effect/turf_decal/siding/wideplating_new/terracotta{
+	dir = 4
+	},
+/obj/structure/table/wood,
+/turf/open/floor/iron/terracotta/herringbone,
+/area/template_noop)
+"XF" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"Yb" = (
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"Yn" = (
+/obj/structure/table/wood,
+/obj/item/reagent_containers/cup/glass/bottle/wine_voltaic{
+	pixel_x = 0;
+	pixel_y = 18
+	},
+/obj/item/reagent_containers/cup/glass/bottle/mushi_kombucha{
+	pixel_x = 13;
+	pixel_y = 16
+	},
+/obj/item/reagent_containers/cup/glass/bottle/kahlua{
+	pixel_x = -14;
+	pixel_y = 15
+	},
+/obj/item/reagent_containers/cup/glass/bottle/hcider{
+	pixel_x = 9;
+	pixel_y = 5
+	},
+/obj/item/reagent_containers/cup/glass/bottle/coconut_rum{
+	pixel_x = -8;
+	pixel_y = 2
+	},
+/turf/open/floor/wood/tile,
+/area/template_noop)
+"YA" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 8
+	},
+/obj/effect/turf_decal/siding/wood/corner,
+/turf/open/floor/wood/large,
+/area/template_noop)
+"YS" = (
+/obj/structure/table/wood,
+/obj/item/shield/riot,
+/turf/open/floor/carpet,
+/area/template_noop)
+"Zq" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood/tile,
+/area/template_noop)
+"ZN" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/wood/tile,
+/area/template_noop)
+"ZW" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood/large,
+/area/template_noop)
+
+(1,1,1) = {"
+lN
+lN
+lN
+lN
+tA
+lN
+Go
+xN
+xN
+gu
+"}
+(2,1,1) = {"
+lN
+bl
+tA
+lN
+Yb
+lN
+iV
+LJ
+LJ
+Mg
+"}
+(3,1,1) = {"
+lN
+lN
+Yb
+lN
+lN
+bl
+iV
+qe
+YS
+BN
+"}
+(4,1,1) = {"
+Cv
+Cv
+Cv
+Cv
+Cv
+dP
+iV
+ho
+ho
+Mg
+"}
+(5,1,1) = {"
+Mv
+cc
+EX
+cc
+Io
+gl
+HG
+KZ
+KZ
+KS
+"}
+(6,1,1) = {"
+Th
+Th
+Th
+xZ
+jF
+gl
+PY
+LJ
+LJ
+Mg
+"}
+(7,1,1) = {"
+qr
+fw
+lh
+po
+IB
+gl
+iV
+IV
+IV
+Mg
+"}
+(8,1,1) = {"
+kO
+lh
+lh
+zL
+jF
+gl
+iV
+ho
+ho
+uK
+"}
+(9,1,1) = {"
+QX
+yd
+cr
+zL
+LE
+gl
+tD
+KZ
+KZ
+ZW
+"}
+(10,1,1) = {"
+Yn
+lh
+ZN
+po
+jF
+gl
+iV
+LJ
+LJ
+hh
+"}
+(11,1,1) = {"
+bA
+Zq
+fw
+zL
+IB
+gl
+iV
+IV
+IV
+hh
+"}
+(12,1,1) = {"
+sj
+sj
+sj
+dk
+jF
+HZ
+iV
+ho
+ho
+Mg
+"}
+(13,1,1) = {"
+Dd
+Vi
+ph
+Vi
+rB
+gl
+YA
+KZ
+KZ
+ra
+"}
+(14,1,1) = {"
+qB
+qB
+qB
+qB
+qB
+eH
+iV
+LJ
+LJ
+BN
+"}
+(15,1,1) = {"
+lN
+bl
+lN
+lN
+lN
+tA
+iV
+qe
+YS
+Mg
+"}
+(16,1,1) = {"
+Yb
+bl
+Yb
+lN
+bl
+bl
+iV
+ho
+ho
+uK
+"}
+(17,1,1) = {"
+tA
+lN
+bl
+tA
+lN
+lN
+XF
+kK
+kK
+eH
+"}

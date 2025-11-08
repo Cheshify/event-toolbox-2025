@@ -1,0 +1,354 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/open/misc/asteroid{
+	icon_state = "asteroid3"
+	},
+/area/template_noop)
+"b" = (
+/obj/effect/turf_decal/siding/wideplating_new{
+	dir = 1
+	},
+/turf/open/misc/asteroid,
+/area/template_noop)
+"d" = (
+/obj/structure/fake_stairs/wood/directional/west,
+/turf/open/misc/asteroid,
+/area/template_noop)
+"f" = (
+/turf/open/misc/asteroid{
+	icon_state = "asteroid12"
+	},
+/area/template_noop)
+"g" = (
+/obj/effect/turf_decal/siding/wideplating_new/corner{
+	dir = 4
+	},
+/turf/open/misc/asteroid,
+/area/template_noop)
+"k" = (
+/obj/machinery/door/airlock/wood{
+	opacity = 0
+	},
+/turf/open/floor/wood/large,
+/area/template_noop)
+"l" = (
+/obj/structure/statue/sandstone/venus{
+	name = "Justice"
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"m" = (
+/obj/structure/sign/clock/directional/north,
+/obj/effect/turf_decal/siding/wideplating_new/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wideplating_new/corner{
+	dir = 4
+	},
+/turf/open/misc/asteroid,
+/area/template_noop)
+"n" = (
+/turf/open/misc/asteroid{
+	icon_state = "asteroid9"
+	},
+/area/template_noop)
+"p" = (
+/obj/structure/fermenting_barrel{
+	anchored = 1
+	},
+/turf/open/misc/asteroid,
+/area/template_noop)
+"q" = (
+/turf/open/misc/asteroid,
+/area/template_noop)
+"t" = (
+/obj/structure/statue/sandstone/venus{
+	dir = 1;
+	name = "Honor"
+	},
+/turf/open/floor/stone,
+/area/template_noop)
+"u" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/turf/open/misc/asteroid,
+/area/template_noop)
+"x" = (
+/obj/structure/railing/corner{
+	dir = 8
+	},
+/turf/open/misc/asteroid,
+/area/template_noop)
+"D" = (
+/obj/effect/turf_decal/siding/wideplating_new{
+	dir = 4
+	},
+/turf/open/misc/asteroid,
+/area/template_noop)
+"E" = (
+/obj/structure/platform/wood,
+/obj/item/storage/toolbox,
+/turf/open/misc/asteroid,
+/area/template_noop)
+"F" = (
+/obj/effect/turf_decal/siding/wideplating_new/corner{
+	dir = 1
+	},
+/turf/open/misc/asteroid,
+/area/template_noop)
+"G" = (
+/obj/structure/platform/wood,
+/turf/open/misc/asteroid,
+/area/template_noop)
+"K" = (
+/obj/structure/railing/corner,
+/turf/open/misc/asteroid{
+	icon_state = "asteroid3"
+	},
+/area/template_noop)
+"L" = (
+/turf/open/misc/asteroid{
+	icon_state = "asteroid8"
+	},
+/area/template_noop)
+"M" = (
+/obj/structure/railing,
+/turf/open/misc/asteroid,
+/area/template_noop)
+"N" = (
+/turf/open/misc/asteroid{
+	icon_state = "asteroid11"
+	},
+/area/template_noop)
+"P" = (
+/obj/structure/fake_stairs/wood/directional/east,
+/turf/open/misc/asteroid,
+/area/template_noop)
+"Q" = (
+/obj/structure/platform/wood,
+/obj/structure/guillotine,
+/turf/open/misc/asteroid,
+/area/template_noop)
+"T" = (
+/turf/closed/indestructible/wood{
+	opacity = 0
+	},
+/area/template_noop)
+"Y" = (
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/misc/asteroid,
+/area/template_noop)
+"Z" = (
+/obj/effect/turf_decal/siding/wideplating_new{
+	dir = 8
+	},
+/turf/open/misc/asteroid,
+/area/template_noop)
+
+(1,1,1) = {"
+T
+q
+q
+q
+q
+q
+q
+q
+q
+T
+"}
+(2,1,1) = {"
+T
+q
+f
+q
+q
+q
+q
+q
+N
+T
+"}
+(3,1,1) = {"
+k
+q
+q
+q
+q
+q
+p
+q
+q
+T
+"}
+(4,1,1) = {"
+T
+q
+q
+q
+n
+q
+p
+q
+q
+k
+"}
+(5,1,1) = {"
+T
+q
+p
+p
+q
+K
+Y
+Y
+q
+T
+"}
+(6,1,1) = {"
+T
+q
+q
+q
+q
+M
+E
+G
+P
+T
+"}
+(7,1,1) = {"
+T
+D
+g
+q
+q
+M
+G
+G
+G
+T
+"}
+(8,1,1) = {"
+T
+t
+b
+q
+q
+M
+G
+G
+G
+T
+"}
+(9,1,1) = {"
+T
+T
+m
+n
+q
+M
+G
+Q
+G
+T
+"}
+(10,1,1) = {"
+T
+l
+b
+q
+q
+M
+G
+G
+G
+T
+"}
+(11,1,1) = {"
+T
+Z
+F
+L
+q
+M
+G
+G
+G
+T
+"}
+(12,1,1) = {"
+T
+q
+q
+q
+q
+M
+E
+G
+d
+T
+"}
+(13,1,1) = {"
+T
+q
+p
+p
+q
+x
+u
+u
+q
+T
+"}
+(14,1,1) = {"
+T
+q
+N
+q
+q
+q
+p
+q
+q
+k
+"}
+(15,1,1) = {"
+k
+q
+q
+q
+q
+f
+p
+q
+q
+T
+"}
+(16,1,1) = {"
+T
+q
+q
+q
+q
+q
+q
+q
+q
+T
+"}
+(17,1,1) = {"
+T
+q
+q
+q
+q
+q
+q
+q
+a
+T
+"}
