@@ -6760,6 +6760,7 @@
 #include "modular_event\base\disable_musician.dm"
 #include "modular_event\base\disable_tutorials.dm"
 #include "modular_event\base\event_area.dm"
+#include "modular_event\base\event_structure.dm"
 #include "modular_event\base\force_lag_switch.dm"
 #include "modular_event\base\free_chameleon_kits.dm"
 #include "modular_event\base\limit_jobs.dm"
