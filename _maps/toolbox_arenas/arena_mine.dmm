@@ -1,0 +1,376 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/open/misc/asteroid,
+/area/template_noop)
+"b" = (
+/obj/effect/decal/cleanable/rubble,
+/turf/open/misc/ashplanet/rocky,
+/area/template_noop)
+"d" = (
+/obj/structure/minecart_rail{
+	dir = 9
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"f" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 10
+	},
+/obj/structure/rack,
+/obj/item/pickaxe/mini,
+/obj/item/pickaxe/mini{
+	pixel_y = -4
+	},
+/obj/item/clothing/head/utility/hardhat,
+/obj/item/clothing/head/utility/hardhat{
+	pixel_y = 3
+	},
+/turf/open/misc/ashplanet/rocky,
+/area/template_noop)
+"h" = (
+/obj/structure/minecart_rail{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/wood,
+/area/template_noop)
+"k" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/fluff/minepost,
+/turf/open/misc/ashplanet/rocky,
+/area/template_noop)
+"m" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/misc/ashplanet/rocky,
+/area/template_noop)
+"n" = (
+/obj/structure/fluff/minepost,
+/turf/open/misc/ashplanet/rocky,
+/area/template_noop)
+"o" = (
+/obj/structure/minecart_rail{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/wood,
+/area/template_noop)
+"v" = (
+/obj/structure/minecart_rail{
+	dir = 4
+	},
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/wood,
+/area/template_noop)
+"z" = (
+/obj/effect/decal/cleanable/ants,
+/turf/open/misc/ashplanet/rocky,
+/area/template_noop)
+"A" = (
+/obj/structure/fluff/minepost,
+/turf/open/misc/asteroid,
+/area/template_noop)
+"C" = (
+/obj/structure/minecart_rail{
+	dir = 5
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"F" = (
+/obj/structure/rack,
+/obj/item/pickaxe/mini{
+	pixel_y = -4
+	},
+/obj/item/hatchet/wooden,
+/turf/open/misc/ashplanet/rocky,
+/area/template_noop)
+"H" = (
+/obj/structure/minecart_rail{
+	dir = 6
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"J" = (
+/obj/structure/minecart_rail{
+	dir = 10
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"K" = (
+/obj/item/stack/sheet/mineral/wood{
+	pixel_x = -13
+	},
+/obj/item/stack/sheet/mineral/wood{
+	pixel_x = -5
+	},
+/obj/item/stack/sheet/mineral/wood{
+	pixel_x = 3
+	},
+/obj/item/stack/sheet/mineral/wood{
+	pixel_x = 11
+	},
+/obj/item/stack/sheet/mineral/wood{
+	pixel_x = -10;
+	pixel_y = 3
+	},
+/obj/item/stack/sheet/mineral/wood{
+	pixel_x = -2;
+	pixel_y = 3
+	},
+/obj/item/stack/sheet/mineral/wood{
+	pixel_x = 6;
+	pixel_y = 3
+	},
+/turf/open/misc/ashplanet/rocky,
+/area/template_noop)
+"L" = (
+/obj/structure/minecart_rail{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/closet/crate/miningcar,
+/turf/open/floor/wood,
+/area/template_noop)
+"M" = (
+/obj/structure/minecart_rail{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+"N" = (
+/turf/closed/indestructible/rock{
+	opacity = 0
+	},
+/area/template_noop)
+"O" = (
+/obj/structure/minecart_rail{
+	dir = 4
+	},
+/obj/structure/closet/crate/miningcar,
+/turf/open/floor/wood,
+/area/template_noop)
+"R" = (
+/turf/open/misc/ashplanet/rocky,
+/area/template_noop)
+"U" = (
+/obj/structure/ore_box,
+/turf/open/misc/ashplanet/rocky,
+/area/template_noop)
+"W" = (
+/obj/item/reagent_containers/cup/bucket/wooden{
+	pixel_y = 8;
+	pixel_x = -8
+	},
+/turf/open/misc/ashplanet/rocky,
+/area/template_noop)
+"X" = (
+/obj/structure/minecart_rail{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/template_noop)
+
+(1,1,1) = {"
+N
+N
+R
+a
+a
+a
+a
+a
+N
+N
+"}
+(2,1,1) = {"
+N
+N
+R
+m
+a
+a
+R
+R
+m
+N
+"}
+(3,1,1) = {"
+N
+n
+R
+C
+X
+X
+X
+H
+R
+n
+"}
+(4,1,1) = {"
+m
+R
+b
+o
+m
+R
+m
+L
+R
+a
+"}
+(5,1,1) = {"
+m
+R
+R
+o
+R
+R
+z
+o
+R
+a
+"}
+(6,1,1) = {"
+R
+m
+R
+v
+R
+n
+R
+v
+R
+m
+"}
+(7,1,1) = {"
+N
+U
+R
+M
+R
+R
+m
+M
+R
+N
+"}
+(8,1,1) = {"
+N
+R
+m
+v
+R
+R
+R
+v
+R
+N
+"}
+(9,1,1) = {"
+N
+F
+R
+h
+R
+f
+R
+h
+R
+N
+"}
+(10,1,1) = {"
+N
+R
+R
+h
+R
+R
+m
+h
+R
+N
+"}
+(11,1,1) = {"
+N
+K
+m
+h
+R
+R
+R
+h
+R
+N
+"}
+(12,1,1) = {"
+R
+W
+m
+o
+R
+k
+m
+o
+R
+m
+"}
+(13,1,1) = {"
+m
+R
+R
+v
+z
+R
+R
+v
+R
+a
+"}
+(14,1,1) = {"
+R
+R
+m
+O
+R
+R
+R
+M
+m
+a
+"}
+(15,1,1) = {"
+N
+n
+R
+d
+X
+X
+X
+J
+R
+A
+"}
+(16,1,1) = {"
+N
+N
+R
+R
+R
+a
+R
+R
+R
+N
+"}
+(17,1,1) = {"
+N
+N
+m
+a
+a
+a
+a
+m
+N
+N
+"}
