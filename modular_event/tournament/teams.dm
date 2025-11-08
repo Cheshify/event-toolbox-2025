@@ -5,7 +5,7 @@ GLOBAL_LIST_INIT_TYPED(tournament_teams, /datum/tournament_team, get_tournament_
 	var/name
 	var/toolbox_color
 	var/list/roster = list()
-	var/datum/outfit/outfit
+	var/jumpsuit_type
 	var/team_fishing_score = 0
 
 /datum/tournament_team/proc/get_clients()
@@ -51,21 +51,10 @@ GLOBAL_LIST_INIT_TYPED(tournament_teams, /datum/tournament_team, get_tournament_
 	if (!islist(outfit_data))
 		return "No outfit provided."
 
-	var/datum/outfit/outfit = new
-	outfit.name = name
-	outfit.belt = text2path(outfit_data["belt"])
-	outfit.back = text2path(outfit_data["back"])
-	outfit.ears = text2path(outfit_data["ears"])
-	outfit.glasses = text2path(outfit_data["glasses"])
-	outfit.gloves = text2path(outfit_data["gloves"])
-	outfit.head = text2path(outfit_data["head"])
-	outfit.mask = text2path(outfit_data["mask"])
-	outfit.neck = text2path(outfit_data["neck"])
-	outfit.shoes = text2path(outfit_data["shoes"])
-	outfit.suit = text2path(outfit_data["suit"])
-	outfit.uniform = text2path(outfit_data["uniform"])
+	var/jumpsuit_variant = outfit_data["style"] == "jumpskirt" ? "/jumpskirt" : ""
+	var/jumpsuit_color = outfit_data["color"]
 
-	tournament_team.outfit = outfit
+	tournament_team.jumpsuit_type = text2path("/obj/item/clothing/under/color[jumpsuit_variant]/[jumpsuit_color]")
 
 	return tournament_team
 
@@ -93,28 +82,13 @@ GLOBAL_LIST_INIT_TYPED(tournament_teams, /datum/tournament_team, get_tournament_
 		data["toolbox_color"] = team.toolbox_color
 		data["roster"] = team.roster
 		var/list/outfit_parts = list()
-		if (team.outfit.belt)
-			outfit_parts["belt"] = team.outfit.belt
-		if (team.outfit.back)
-			outfit_parts["back"] = team.outfit.back
-		if (team.outfit.ears)
-			outfit_parts["ears"] = team.outfit.ears
-		if (team.outfit.glasses)
-			outfit_parts["glasses"] = team.outfit.glasses
-		if (team.outfit.gloves)
-			outfit_parts["gloves"] = team.outfit.gloves
-		if (team.outfit.head)
-			outfit_parts["head"] = team.outfit.head
-		if (team.outfit.mask)
-			outfit_parts["mask"] = team.outfit.mask
-		if (team.outfit.neck)
-			outfit_parts["neck"] = team.outfit.neck
-		if (team.outfit.shoes)
-			outfit_parts["shoes"] = team.outfit.shoes
-		if (team.outfit.suit)
-			outfit_parts["suit"] = team.outfit.suit
-		if (team.outfit.uniform)
-			outfit_parts["uniform"] = team.outfit.uniform
+		if (team.jumpsuit_type)
+			var/jumpsuit_spliced = splittext("[team.jumpsuit_type]", "/")
+			var/jumpsuit_color = jumpsuit_spliced[length(jumpsuit_spliced)]
+			var/jumpsuit_variant = jumpsuit_spliced[length(jumpsuit_spliced) - 1] == "jumpskirt" ? "jumpskirt" : "jumpsuit"
+			outfit_parts["color"] = jumpsuit_color
+			outfit_parts["style"] = jumpsuit_variant
+
 		data["outfit"] = outfit_parts
 		tournament_teams.Add(list(data))
 	fdel("modular_event/tournament/teams/export.json")
