@@ -16,7 +16,7 @@ GLOBAL_VAR(bracket_url)
 	name = "Open Bracket"
 	button_icon_state = "round_end"
 
-/datum/action/open_bracket/Trigger()
+/datum/action/open_bracket/Trigger(mob/clicker, trigger_flags)
 	if (!GLOB.bracket_url)
 		return
 
@@ -25,7 +25,7 @@ GLOBAL_VAR(bracket_url)
 
 	usr << link(GLOB.bracket_url)
 
-/datum/action/open_bracket/IsAvailable()
+/datum/action/open_bracket/IsAvailable(feedback)
 	return TRUE
 
 /mob

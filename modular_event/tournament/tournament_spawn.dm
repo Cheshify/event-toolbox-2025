@@ -19,7 +19,7 @@
 	color = "green"
 	team = EVENT_ARENA_GREEN_TEAM
 
-/obj/machinery/tournament_spawn/LateInitialize()
+/obj/machinery/tournament_spawn/post_machine_initialize()
 	. = ..()
 
 	var/obj/machinery/computer/tournament_controller/tournament_controller = GLOB.tournament_controllers[arena_id]

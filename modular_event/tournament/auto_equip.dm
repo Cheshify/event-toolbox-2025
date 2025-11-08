@@ -6,7 +6,7 @@ SUBSYSTEM_DEF(auto_equip)
 	var/list/vips = list()
 
 /datum/controller/subsystem/auto_equip/Initialize(start_timeofday)
-	RegisterSignal(SSdcs, COMSIG_GLOB_JOB_AFTER_SPAWN, .proc/on_job_after_spawn)
+	RegisterSignal(SSdcs, COMSIG_GLOB_JOB_AFTER_SPAWN, PROC_REF(on_job_after_spawn))
 	return SS_INIT_SUCCESS
 
 /datum/controller/subsystem/auto_equip/proc/on_job_after_spawn(datum/source, mob/living/spawned, client/client)
@@ -95,7 +95,7 @@ SUBSYSTEM_DEF(auto_equip)
 				break
 		var/atom/target = change_action.target
 		// make the gear fully combat inert
-		target.armor = new
+		target.set_armor(/datum/armor/none)
 
 	//suit hoods
 	//make sure they are actually wearing the suit, not just holding it, and that they have a chameleon hat

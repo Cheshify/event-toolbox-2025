@@ -57,7 +57,7 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 
 	if (isnull(arena_templates))
 		arena_templates = list()
-		INVOKE_ASYNC(src, .proc/load_arena_templates)
+		INVOKE_ASYNC(src, PROC_REF(load_arena_templates))
 
 	if (isnull(team_hud_ids))
 		team_hud_ids = setup_team_huds()
@@ -279,7 +279,7 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 			contestant_mob.set_nutrition(NUTRITION_LEVEL_FED + 50)
 			contestant_mob.add_mood_event("event", /datum/mood_event/toolbox_arena)
 			ADD_TRAIT(contestant_mob, TRAIT_BYPASS_MEASURES, "arena")
-			RegisterSignal(contestant_mob, COMSIG_LIVING_DEATH, .proc/contestant_died)
+			RegisterSignal(contestant_mob, COMSIG_LIVING_DEATH, PROC_REF(contestant_died))
 
 			new_contestants += contestant_mob
 
