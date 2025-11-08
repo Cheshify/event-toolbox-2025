@@ -32,9 +32,7 @@
 /area/template_noop)
 "cr" = (
 /obj/structure/table/wood,
-/obj/item/gun/ballistic/shotgun/doublebarrel/slugs{
-	spawnwithmagazine = 0
-	},
+/obj/item/gun/ballistic/shotgun/doublebarrel,
 /turf/open/floor/wood/tile,
 /area/template_noop)
 "dk" = (
