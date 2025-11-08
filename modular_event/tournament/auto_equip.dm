@@ -133,6 +133,7 @@ SUBSYSTEM_DEF(auto_equip)
 	name = "Toolbox (Grey)"
 	uniform = /obj/item/clothing/under/color/grey
 	shoes = /obj/item/clothing/shoes/sneakers/black
+	ears = /obj/item/radio/headset
 
 /datum/outfit/toolbox/green
 	name = "Toolbox (Green)"

@@ -46,8 +46,6 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 	. = ..()
 
 	radio = new(src)
-	radio.special_channels |= RADIO_SPECIAL_CENTCOM
-	radio.set_frequency(FREQ_CENTCOM)
 
 	if (arena_id in GLOB.tournament_controllers)
 		stack_trace("Tournament controller had arena_id \"[arena_id]\", which is reused!")
