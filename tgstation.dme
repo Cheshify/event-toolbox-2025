@@ -6794,7 +6794,6 @@
 #include "modular_event\tournament\custom_clothing\old_cargo\old_cargo.dm"
 #include "modular_event\tournament\custom_clothing\xeno_rouny\rouny_suit.dm"
 #include "modular_event\tournament\team_outfit_saving\action.dm"
-#include "modular_event\tournament\team_outfit_saving\chameleon.dm"
 #include "modular_event\tournament\team_outfit_saving\living.dm"
 #include "modular_event\tournament_events\smites.dm"
 // END_INCLUDE
