@@ -43,8 +43,6 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 	. = ..()
 
 	radio = new(src)
-	radio.special_channels |= RADIO_SPECIAL_CENTCOM
-	radio.set_frequency(FREQ_CENTCOM)
 
 	if (arena_id in GLOB.tournament_controllers)
 		stack_trace("Tournament controller had arena_id \"[arena_id]\", which is reused!")
@@ -54,7 +52,7 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 
 	if (isnull(arena_templates))
 		arena_templates = list()
-		INVOKE_ASYNC(src, .proc/load_arena_templates)
+		INVOKE_ASYNC(src, PROC_REF(load_arena_templates))
 
 /obj/machinery/computer/tournament_controller/ui_interact(mob/user, datum/tgui/ui)
 	. = ..()
@@ -275,7 +273,7 @@ GLOBAL_LIST_EMPTY(tournament_controllers)
 			contestant_mob.set_nutrition(NUTRITION_LEVEL_FED + 50)
 			contestant_mob.add_mood_event("event", /datum/mood_event/toolbox_arena)
 			ADD_TRAIT(contestant_mob, TRAIT_BYPASS_MEASURES, "arena")
-			RegisterSignal(contestant_mob, COMSIG_LIVING_DEATH, .proc/contestant_died)
+			RegisterSignal(contestant_mob, COMSIG_LIVING_DEATH, PROC_REF(contestant_died))
 
 			new_contestants += contestant_mob
 
