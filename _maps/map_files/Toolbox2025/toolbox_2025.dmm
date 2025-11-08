@@ -91,6 +91,13 @@
 	},
 /turf/open/floor/iron,
 /area/event)
+"ao" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood,
+/area/event)
 "ar" = (
 /obj/structure/table/wood,
 /obj/item/food/dough{
@@ -814,6 +821,11 @@
 "cB" = (
 /turf/closed/indestructible/grille,
 /area/event)
+"cC" = (
+/obj/machinery/computer/slot_machine,
+/obj/structure/sign/poster/contraband/lusty_xenomorph/directional/east,
+/turf/open/floor/wood,
+/area/event)
 "cE" = (
 /obj/structure/railing/wooden_fence{
 	dir = 1
@@ -1002,6 +1014,11 @@
 	},
 /obj/machinery/computer/security/telescreen/entertainment/directional/north,
 /turf/open/floor/wood/large,
+/area/event)
+"dn" = (
+/obj/structure/chair/stool/bar/directional/west,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood,
 /area/event)
 "dp" = (
 /obj/effect/turf_decal/trimline/green/filled/line,
@@ -1439,6 +1456,11 @@
 /obj/structure/sign/warning/radiation/rad_area/directional/east,
 /turf/open/water,
 /area/event)
+"eQ" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/structure/fake_stairs/wood/directional/north,
+/turf/open/floor/wood,
+/area/event)
 "eR" = (
 /obj/item/kirbyplants/organic/plant22,
 /obj/structure/railing/unbreakable{
@@ -1505,6 +1527,11 @@
 "ff" = (
 /obj/effect/spawner/random/structure/closet_empty/crate,
 /turf/open/misc/asteroid,
+/area/event)
+"fg" = (
+/obj/structure/table/wood/poker,
+/obj/item/storage/wallet/money,
+/turf/open/floor/carpet/blue,
 /area/event)
 "fh" = (
 /obj/structure/fake_stairs/wood/directional/south,
@@ -1578,6 +1605,13 @@
 /obj/machinery/door/airlock/wood,
 /turf/open/floor/wood,
 /area/event)
+"fz" = (
+/obj/effect/turf_decal/siding/wideplating_new,
+/obj/effect/turf_decal/arrows/white{
+	dir = 1
+	},
+/turf/open/floor/stone,
+/area/event)
 "fA" = (
 /obj/structure/table/wood,
 /obj/item/razor{
@@ -1627,9 +1661,23 @@
 /obj/effect/spawner/random/food_or_drink/soup,
 /turf/open/floor/wood/large,
 /area/event)
+"fH" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/obj/effect/turf_decal/arrows/white{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/event)
 "fI" = (
 /obj/structure/flora/tree/palm/style_2,
 /turf/open/floor/grass,
+/area/event)
+"fJ" = (
+/obj/machinery/computer/slot_machine,
+/obj/structure/sign/poster/contraband/double_rainbow/directional/north,
+/turf/open/floor/wood,
 /area/event)
 "fK" = (
 /obj/effect/turf_decal/siding/dark{
@@ -1839,6 +1887,15 @@
 /obj/structure/flora/tree/stump,
 /turf/open/misc/asteroid,
 /area/event)
+"gq" = (
+/obj/effect/turf_decal/siding/wideplating_new{
+	dir = 4
+	},
+/obj/effect/turf_decal/arrows/white{
+	dir = 8
+	},
+/turf/open/floor/stone,
+/area/event)
 "gr" = (
 /obj/item/paper/pamphlet/ruin/originalcontent/stickman{
 	pixel_x = 0;
@@ -1853,11 +1910,10 @@
 /turf/open/floor/iron/terracotta/herringbone,
 /area/event)
 "gu" = (
-/obj/structure/table/wood/fancy/black,
-/obj/item/reagent_containers/cup/glass/shaker{
-	pixel_x = -8;
-	pixel_y = 10
+/obj/machinery/chem_dispenser/drinks/beer/fullupgrade{
+	dir = 1
 	},
+/obj/structure/table/wood/fancy/black,
 /turf/open/floor/wood/large,
 /area/event)
 "gv" = (
@@ -1991,6 +2047,22 @@
 	},
 /turf/open/floor/iron,
 /area/event)
+"gS" = (
+/obj/structure/table/wood/poker,
+/obj/item/binoculars{
+	pixel_x = 0;
+	pixel_y = 2
+	},
+/obj/item/binoculars{
+	pixel_x = -6;
+	pixel_y = 2
+	},
+/obj/item/binoculars{
+	pixel_x = -12;
+	pixel_y = 2
+	},
+/turf/open/floor/wood,
+/area/event)
 "gT" = (
 /obj/item/stack/spacecash/c1,
 /obj/structure/sign/poster/contraband/lamarr/directional/north,
@@ -2086,6 +2158,22 @@
 	pixel_x = 4
 	},
 /turf/open/misc/ashplanet/rocky,
+/area/event)
+"hp" = (
+/obj/structure/table/wood/poker,
+/obj/item/coin/silver{
+	pixel_x = 2;
+	pixel_y = 3
+	},
+/obj/item/coin/silver{
+	pixel_x = -2;
+	pixel_y = 3
+	},
+/obj/item/coin/silver{
+	pixel_x = -6;
+	pixel_y = 3
+	},
+/turf/open/floor/carpet/blue,
 /area/event)
 "hr" = (
 /obj/structure/table/wood,
@@ -2403,8 +2491,30 @@
 /area/event)
 "is" = (
 /obj/structure/table/wood/fancy/black,
-/obj/machinery/chem_dispenser/drinks/beer/fullupgrade{
-	pixel_y = 15
+/obj/item/reagent_containers/cup/glass/shaker{
+	pixel_x = -8;
+	pixel_y = 10
+	},
+/obj/item/reagent_containers/cup/glass/drinkingglass,
+/obj/item/reagent_containers/cup/glass/drinkingglass{
+	pixel_x = 0;
+	pixel_y = 4
+	},
+/obj/item/reagent_containers/cup/glass/drinkingglass{
+	pixel_x = 0;
+	pixel_y = 8
+	},
+/obj/item/reagent_containers/cup/glass/drinkingglass{
+	pixel_x = 8;
+	pixel_y = 8
+	},
+/obj/item/reagent_containers/cup/glass/drinkingglass{
+	pixel_x = 8;
+	pixel_y = 4
+	},
+/obj/item/reagent_containers/cup/glass/drinkingglass{
+	pixel_x = 8;
+	pixel_y = 0
 	},
 /turf/open/floor/wood/large,
 /area/event)
@@ -2533,6 +2643,12 @@
 	},
 /obj/structure/table/wood/fancy/black,
 /turf/open/floor/wood,
+/area/event)
+"iP" = (
+/obj/effect/turf_decal/arrows/white{
+	dir = 8
+	},
+/turf/open/floor/stone,
 /area/event)
 "iR" = (
 /turf/closed/indestructible/fakeglass,
@@ -2767,6 +2883,11 @@
 "jO" = (
 /obj/effect/spawner/random/entertainment/musical_instrument,
 /turf/open/floor/carpet,
+/area/event)
+"jP" = (
+/obj/structure/chair/stool/bar/directional/east,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood,
 /area/event)
 "jQ" = (
 /obj/effect/turf_decal/siding/green{
@@ -3011,6 +3132,15 @@
 /obj/machinery/vending/coffee,
 /turf/open/floor/wood,
 /area/event)
+"kF" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/effect/turf_decal/siding/wood{
+	dir = 8
+	},
+/turf/open/floor/carpet/blue,
+/area/event)
 "kG" = (
 /obj/effect/turf_decal/siding/wideplating_new/corner,
 /obj/effect/turf_decal/siding/wideplating_new{
@@ -3067,6 +3197,13 @@
 /obj/item/reagent_containers/cup/glass/drinkingglass,
 /obj/item/reagent_containers/cup/glass/drinkingglass,
 /obj/item/reagent_containers/cup/glass/drinkingglass,
+/turf/open/floor/wood,
+/area/event)
+"kQ" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/wood,
 /area/event)
 "kR" = (
@@ -3214,6 +3351,10 @@
 "lr" = (
 /obj/effect/turf_decal/siding/thinplating_new/dark,
 /turf/open/floor/wood,
+/area/event)
+"ls" = (
+/obj/effect/turf_decal/arrows/white,
+/turf/open/floor/wood/large,
 /area/event)
 "lt" = (
 /obj/effect/turf_decal/siding/wood,
@@ -3594,6 +3735,10 @@
 	},
 /turf/open/floor/iron/kitchen,
 /area/event)
+"mI" = (
+/obj/structure/chair/stool/bar/directional/south,
+/turf/open/floor/carpet/blue,
+/area/event)
 "mJ" = (
 /obj/structure/flora/rock/pile/jungle,
 /turf/open/misc/asteroid,
@@ -3835,6 +3980,10 @@
 /obj/structure/minecart_rail/railbreak,
 /turf/open/floor/wood,
 /area/event)
+"nC" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood/large,
+/area/event)
 "nE" = (
 /obj/effect/turf_decal/sand,
 /obj/structure/shipping_container/red,
@@ -4015,6 +4164,10 @@
 	},
 /turf/open/misc/asteroid,
 /area/event)
+"or" = (
+/obj/item/reagent_containers/cup/bucket,
+/turf/open/floor/stone,
+/area/event)
 "os" = (
 /obj/effect/decal/cleanable/blood/tracks{
 	dir = 9
@@ -4184,6 +4337,14 @@
 "pc" = (
 /obj/effect/spawner/random/trash/cigbutt,
 /turf/open/misc/asteroid,
+/area/event)
+"pd" = (
+/obj/structure/table/wood/poker,
+/obj/item/gun/ballistic/revolver/russian{
+	pixel_x = 0;
+	pixel_y = 5
+	},
+/turf/open/floor/wood,
 /area/event)
 "pe" = (
 /obj/effect/decal/cleanable/ash,
@@ -4686,6 +4847,11 @@
 /obj/structure/table/reinforced,
 /turf/open/floor/iron/terracotta/diagonal,
 /area/event)
+"qL" = (
+/obj/structure/table/wood/poker,
+/obj/item/food/canned/beans,
+/turf/open/floor/wood/large,
+/area/event)
 "qM" = (
 /obj/structure/chair/sofa/left/brown{
 	dir = 8
@@ -5091,6 +5257,11 @@
 /area/centcom/tdome/arena{
 	base_lighting_alpha = 255
 	})
+"si" = (
+/obj/structure/chair/stool/bar/directional/west,
+/obj/effect/mapping_helpers/broken_floor,
+/turf/open/floor/wood,
+/area/event)
 "sj" = (
 /obj/effect/turf_decal/siding/wideplating_new{
 	dir = 1
@@ -5548,6 +5719,11 @@
 /area/centcom/tdome/arena/team_prep{
 	base_lighting_alpha = 255
 	})
+"tp" = (
+/obj/structure/table/wood/poker,
+/obj/item/reagent_containers/cup/glass/bottle,
+/turf/open/floor/wood/large,
+/area/event)
 "tq" = (
 /obj/machinery/computer/tournament_controller{
 	arena_id = "a2"
@@ -5566,6 +5742,11 @@
 /obj/item/food/cake/mothmallow,
 /obj/item/knife/plastic,
 /turf/open/misc/asteroid,
+/area/event)
+"tv" = (
+/obj/structure/chair/stool/bar/directional/west,
+/obj/structure/sign/poster/contraband/dolphin/directional/north,
+/turf/open/floor/wood,
 /area/event)
 "tw" = (
 /obj/structure/table/wood/poker,
@@ -5679,6 +5860,13 @@
 /obj/structure/flora/rock/pile/style_3,
 /turf/open/misc/ashplanet/rocky,
 /area/event)
+"tS" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 4
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood,
+/area/event)
 "tT" = (
 /obj/structure/table/wood,
 /obj/effect/spawner/random/food_or_drink/snack,
@@ -5705,21 +5893,8 @@
 /area/event)
 "tZ" = (
 /obj/structure/table/wood/fancy/black,
-/obj/item/reagent_containers/cup/glass/drinkingglass/shotglass{
-	pixel_x = -5;
-	pixel_y = 3
-	},
-/obj/item/reagent_containers/cup/glass/drinkingglass/shotglass{
-	pixel_y = 15;
-	pixel_x = 5
-	},
-/obj/item/reagent_containers/cup/glass/drinkingglass/shotglass{
-	pixel_y = 15;
-	pixel_x = -5
-	},
-/obj/item/reagent_containers/cup/glass/drinkingglass/shotglass{
-	pixel_x = 5;
-	pixel_y = 3
+/obj/machinery/chem_dispenser/drinks/fullupgrade{
+	dir = 1
 	},
 /turf/open/floor/wood/large,
 /area/event)
@@ -5771,6 +5946,10 @@
 	dir = 5
 	},
 /turf/open/floor/grass,
+/area/event)
+"ui" = (
+/obj/structure/chair/stool/bar/directional/east,
+/turf/open/floor/wood,
 /area/event)
 "uj" = (
 /obj/structure/table/wood,
@@ -6252,6 +6431,11 @@
 	dir = 1
 	},
 /area/event)
+"vJ" = (
+/obj/machinery/computer/slot_machine,
+/obj/structure/sign/poster/contraband/lizard/directional/west,
+/turf/open/floor/wood,
+/area/event)
 "vL" = (
 /obj/machinery/newscaster/directional/west,
 /turf/open/floor/wood/large,
@@ -6694,6 +6878,12 @@
 	},
 /turf/open/floor/stone,
 /area/event)
+"xk" = (
+/obj/effect/turf_decal/arrows/white{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/event)
 "xl" = (
 /obj/structure/flora/ash/cacti,
 /turf/open/misc/sandy_dirt,
@@ -7030,9 +7220,34 @@
 	},
 /turf/open/floor/grass,
 /area/event)
+"yw" = (
+/obj/structure/table/wood/poker,
+/obj/item/coin/gold{
+	pixel_x = 6;
+	pixel_y = 0
+	},
+/obj/item/coin/gold{
+	pixel_x = 2;
+	pixel_y = 0
+	},
+/obj/item/coin/gold{
+	pixel_x = -3;
+	pixel_y = 0
+	},
+/obj/item/coin/gold{
+	pixel_x = -7;
+	pixel_y = 0
+	},
+/turf/open/floor/carpet/blue,
+/area/event)
 "yy" = (
 /obj/structure/fermenting_barrel,
 /turf/open/misc/asteroid,
+/area/event)
+"yz" = (
+/obj/structure/mop_bucket/janitorialcart,
+/obj/item/mop,
+/turf/open/floor/stone,
 /area/event)
 "yC" = (
 /obj/effect/turf_decal/weather/sand,
@@ -7118,6 +7333,12 @@
 /turf/open/floor/grass,
 /turf/open/misc/beach/sand,
 /turf/open/misc/beach/sand,
+/area/event)
+"yS" = (
+/obj/effect/turf_decal/siding/wood/end{
+	dir = 1
+	},
+/turf/open/floor/carpet/blue,
 /area/event)
 "yT" = (
 /obj/effect/turf_decal/siding/green{
@@ -8116,6 +8337,18 @@
 /obj/effect/turf_decal/weather/sand,
 /turf/open/misc/beach/sand,
 /area/event)
+"Cq" = (
+/obj/structure/table/wood/poker,
+/obj/item/carpenter_hammer{
+	pixel_x = 0;
+	pixel_y = 4
+	},
+/turf/open/floor/wood,
+/area/event)
+"Cr" = (
+/obj/item/reagent_containers/cup/bucket,
+/turf/open/floor/catwalk_floor,
+/area/event)
 "Cs" = (
 /obj/structure/minecart_rail,
 /obj/structure/minecart_rail{
@@ -8131,6 +8364,10 @@
 	dir = 4
 	},
 /turf/open/floor/wood,
+/area/event)
+"Cv" = (
+/obj/effect/turf_decal/arrows/white,
+/turf/open/floor/stone,
 /area/event)
 "Cw" = (
 /obj/structure/flora/bush/flowers_pp/style_3,
@@ -8566,6 +8803,10 @@
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/wood/tile,
 /area/event)
+"DS" = (
+/obj/machinery/computer/slot_machine,
+/turf/open/floor/wood,
+/area/event)
 "DV" = (
 /obj/effect/mapping_helpers/broken_floor,
 /obj/structure/sign/poster/contraband/pharlap/directional/south,
@@ -8735,6 +8976,11 @@
 	dir = 1
 	},
 /obj/structure/table/wood,
+/turf/open/floor/wood,
+/area/event)
+"EI" = (
+/obj/structure/table/wood,
+/obj/item/soap,
 /turf/open/floor/wood,
 /area/event)
 "EJ" = (
@@ -8979,6 +9225,12 @@
 /obj/structure/closet/crate/miningcar,
 /turf/open/floor/wood,
 /area/event)
+"FC" = (
+/obj/effect/turf_decal/arrows/white{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/event)
 "FD" = (
 /obj/structure/grille/broken,
 /turf/open/misc/asteroid,
@@ -8999,6 +9251,16 @@
 "FI" = (
 /obj/structure/flora/bush/style_4,
 /turf/open/misc/sandy_dirt,
+/area/event)
+"FJ" = (
+/obj/effect/turf_decal/siding/wood,
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 4
+	},
+/turf/open/floor/carpet/blue,
 /area/event)
 "FK" = (
 /obj/structure/table/wood,
@@ -9269,6 +9531,15 @@
 /obj/effect/turf_decal/sand,
 /turf/open/floor/iron,
 /area/event)
+"Gv" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/wood,
+/area/event)
+"Gx" = (
+/obj/effect/mapping_helpers/broken_floor,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
+/area/event)
 "Gy" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/sand/plating,
@@ -9497,7 +9768,11 @@
 /turf/open/misc/asteroid,
 /area/event)
 "Hh" = (
-/obj/structure/table/wood/fancy/black,
+/obj/machinery/vending/boozeomat{
+	age_restrictions = 0;
+	extended_inventory = 1;
+	all_products_free = 1
+	},
 /turf/open/floor/wood/large,
 /area/event)
 "Hi" = (
@@ -9743,6 +10018,11 @@
 /obj/structure/flora/rock/pile/style_3,
 /turf/open/misc/asteroid,
 /area/event)
+"Im" = (
+/obj/structure/table/wood/poker,
+/obj/item/stack/spacecash/c20,
+/turf/open/floor/carpet/blue,
+/area/event)
 "In" = (
 /obj/effect/turf_decal/siding/wideplating_new/corner{
 	dir = 1
@@ -9956,6 +10236,11 @@
 /obj/structure/sink/kitchen/directional/west,
 /obj/structure/sign/poster/contraband/calada_jelly/directional/east,
 /turf/open/floor/iron/kitchen,
+/area/event)
+"Ja" = (
+/obj/structure/mop_bucket,
+/obj/item/mop,
+/turf/open/floor/stone,
 /area/event)
 "Jb" = (
 /obj/effect/turf_decal/siding/wideplating_new{
@@ -10395,6 +10680,12 @@
 /turf/open/floor/grass,
 /turf/open/misc/beach/sand,
 /area/event)
+"Ke" = (
+/obj/effect/turf_decal/arrows/white{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/event)
 "Kf" = (
 /obj/effect/turf_decal/weather/dirt{
 	dir = 1;
@@ -10460,6 +10751,12 @@
 	},
 /turf/open/floor/plating,
 /area/event)
+"Ks" = (
+/obj/effect/turf_decal/arrows/white{
+	dir = 8
+	},
+/turf/open/floor/wood/large,
+/area/event)
 "Ku" = (
 /obj/effect/turf_decal/siding/wideplating_new,
 /obj/effect/turf_decal/sand,
@@ -10485,6 +10782,11 @@
 /obj/effect/turf_decal/tile/green/opposingcorners,
 /obj/structure/chair/comfy/teal,
 /turf/open/floor/iron,
+/area/event)
+"KB" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/stone,
 /area/event)
 "KC" = (
 /obj/effect/turf_decal/siding{
@@ -10532,6 +10834,10 @@
 /area/event)
 "KL" = (
 /obj/structure/sink/directional/west,
+/turf/open/floor/stone,
+/area/event)
+"KP" = (
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/stone,
 /area/event)
 "KQ" = (
@@ -11326,6 +11632,12 @@
 /obj/structure/flora/bush/flowers_yw,
 /turf/open/floor/grass,
 /area/event)
+"NA" = (
+/obj/effect/turf_decal/arrows/white{
+	dir = 4
+	},
+/turf/open/floor/stone,
+/area/event)
 "NB" = (
 /obj/structure/table/wood,
 /obj/item/reagent_containers/condiment/saltshaker{
@@ -11488,6 +11800,10 @@
 /turf/open/floor/iron/edge{
 	dir = 1
 	},
+/area/event)
+"Od" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/grimy,
 /area/event)
 "Oe" = (
 /obj/effect/mapping_helpers/broken_floor,
@@ -11702,6 +12018,10 @@
 "OS" = (
 /obj/effect/turf_decal/stripes/line,
 /turf/open/floor/wood,
+/area/event)
+"OT" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/carpet/blue,
 /area/event)
 "OU" = (
 /turf/open/openspace,
@@ -11965,6 +12285,15 @@
 	dir = 10
 	},
 /turf/open/misc/asteroid,
+/area/event)
+"PT" = (
+/obj/effect/turf_decal/siding/wood/corner{
+	dir = 1
+	},
+/obj/effect/turf_decal/arrows/white{
+	dir = 1
+	},
+/turf/open/floor/wood,
 /area/event)
 "PV" = (
 /obj/structure/table/wood/poker,
@@ -12460,6 +12789,33 @@
 /area/event)
 "RE" = (
 /turf/open/floor/stone,
+/area/event)
+"RF" = (
+/obj/item/stack/spacecash/c1{
+	pixel_x = -9;
+	pixel_y = 5
+	},
+/obj/item/stack/spacecash/c1{
+	pixel_x = 15;
+	pixel_y = 6
+	},
+/obj/item/stack/spacecash/c1{
+	pixel_x = 11;
+	pixel_y = 0
+	},
+/obj/item/stack/spacecash/c1{
+	pixel_x = -5;
+	pixel_y = 0
+	},
+/obj/item/stack/spacecash/c1{
+	pixel_x = 2;
+	pixel_y = 4
+	},
+/obj/item/stack/spacecash/c1{
+	pixel_x = -1;
+	pixel_y = 8
+	},
+/turf/open/floor/wood,
 /area/event)
 "RG" = (
 /obj/effect/oneway{
@@ -13780,6 +14136,14 @@
 	},
 /turf/open/floor/hay,
 /area/event)
+"Wf" = (
+/obj/structure/table/wood/poker,
+/obj/item/toy/cards/deck{
+	pixel_x = -8;
+	pixel_y = 1
+	},
+/turf/open/floor/carpet/blue,
+/area/event)
 "Wg" = (
 /obj/structure/flora/bush/sunny/style_3,
 /turf/open/misc/sandy_dirt,
@@ -13937,6 +14301,10 @@
 	},
 /turf/open/floor/wood,
 /area/event)
+"WJ" = (
+/obj/structure/chair/stool/bar/directional/north,
+/turf/open/floor/carpet/blue,
+/area/event)
 "WK" = (
 /obj/structure/closet/crate/secure/trashcart,
 /obj/effect/decal/cleanable/dirt/dust,
@@ -14026,6 +14394,12 @@
 /obj/effect/spawner/structure/window/reinforced,
 /obj/effect/mapping_helpers/damaged_window,
 /turf/open/floor/plating,
+/area/event)
+"WX" = (
+/obj/effect/turf_decal/arrows/white{
+	dir = 1
+	},
+/turf/open/floor/stone,
 /area/event)
 "WZ" = (
 /obj/effect/spawner/structure/window,
@@ -14151,6 +14525,10 @@
 /obj/structure/table/wood/fancy/red,
 /obj/effect/spawner/random/food_or_drink/jelly_donuts,
 /obj/effect/spawner/random/food_or_drink/jelly_donuts,
+/turf/open/floor/wood/large,
+/area/event)
+"Xs" = (
+/obj/effect/decal/cleanable/dirt/dust,
 /turf/open/floor/wood/large,
 /area/event)
 "Xt" = (
@@ -14477,6 +14855,11 @@
 	},
 /obj/structure/rack,
 /turf/open/misc/grass/jungle/station,
+/area/event)
+"Yp" = (
+/obj/structure/table/wood,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/wood,
 /area/event)
 "Yq" = (
 /obj/effect/turf_decal/weather/dirt{
@@ -15010,6 +15393,26 @@
 	},
 /turf/open/floor/wood/large,
 /area/event)
+"ZE" = (
+/obj/structure/table/wood/poker,
+/obj/item/reagent_containers/cup/glass/drinkingglass/shotglass{
+	pixel_x = 2;
+	pixel_y = 10
+	},
+/obj/item/reagent_containers/cup/glass/drinkingglass/shotglass{
+	pixel_x = -6;
+	pixel_y = 10
+	},
+/obj/item/reagent_containers/cup/glass/drinkingglass/shotglass{
+	pixel_x = 2;
+	pixel_y = 0
+	},
+/obj/item/reagent_containers/cup/glass/drinkingglass/shotglass{
+	pixel_x = -6;
+	pixel_y = 0
+	},
+/turf/open/floor/wood/large,
+/area/event)
 "ZF" = (
 /obj/structure/flora/bush/large/style_3,
 /turf/open/misc/dirt,
@@ -15059,6 +15462,31 @@
 	},
 /turf/open/floor/stone,
 /area/event)
+"ZP" = (
+/obj/structure/table/wood/poker,
+/obj/item/reagent_containers/cup/glass/drinkingglass,
+/obj/item/reagent_containers/cup/glass/drinkingglass{
+	pixel_x = 0;
+	pixel_y = 29
+	},
+/obj/item/reagent_containers/cup/glass/drinkingglass{
+	pixel_x = 5;
+	pixel_y = 15
+	},
+/obj/item/reagent_containers/cup/glass/drinkingglass{
+	pixel_x = -4;
+	pixel_y = 15
+	},
+/obj/item/reagent_containers/cup/glass/drinkingglass{
+	pixel_x = 9;
+	pixel_y = 0
+	},
+/obj/item/reagent_containers/cup/glass/drinkingglass{
+	pixel_x = -8;
+	pixel_y = 0
+	},
+/turf/open/floor/wood/large,
+/area/event)
 "ZQ" = (
 /obj/structure/fluff/totem_pole,
 /turf/open/misc/sandy_dirt,
@@ -15098,6 +15526,13 @@
 	pixel_y = -5
 	},
 /turf/open/floor/hay,
+/area/event)
+"ZY" = (
+/obj/effect/turf_decal/siding/wood{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/wood,
 /area/event)
 "ZZ" = (
 /obj/structure/table/wood/fancy/black,
@@ -37544,6 +37979,7 @@ Ln
 Ln
 Ln
 Ln
+OT
 Ln
 Ln
 Ln
@@ -37556,8 +37992,7 @@ Ln
 Ln
 Ln
 Ln
-Ln
-Ln
+OT
 Oa
 YQ
 YQ
@@ -37576,7 +38011,7 @@ YQ
 we
 YQ
 Oa
-RE
+Yf
 we
 fi
 fi
@@ -37808,7 +38243,7 @@ Ln
 Ln
 Ln
 Ln
-Ln
+OT
 Ln
 Ln
 Ln
@@ -38090,7 +38525,7 @@ YQ
 YQ
 YQ
 Oa
-RE
+KP
 we
 fi
 fi
@@ -38332,7 +38767,7 @@ rw
 RE
 dR
 RE
-RE
+Yf
 hz
 hz
 hz
@@ -38346,7 +38781,7 @@ hz
 hz
 hz
 Oa
-Oa
+Cr
 RE
 we
 we
@@ -38604,7 +39039,7 @@ jq
 hz
 RE
 RE
-RE
+KP
 we
 YQ
 YQ
@@ -38844,7 +39279,7 @@ BZ
 BZ
 vg
 RE
-RE
+Yf
 RE
 RE
 hz
@@ -39082,7 +39517,7 @@ fi
 fi
 bv
 Ln
-Ln
+OT
 jz
 hz
 Fj
@@ -39116,7 +39551,7 @@ oS
 gm
 jq
 hz
-RE
+Ja
 RE
 RE
 we
@@ -39360,7 +39795,7 @@ vg
 RE
 wH
 RE
-RE
+KP
 hz
 jG
 wp
@@ -39373,7 +39808,7 @@ oS
 gm
 jG
 hz
-RE
+KP
 RE
 dR
 we
@@ -39614,7 +40049,7 @@ lF
 wq
 wq
 vg
-RE
+KP
 RE
 RE
 RE
@@ -39630,7 +40065,7 @@ uK
 uK
 jm
 hz
-RE
+Yf
 RE
 RE
 we
@@ -39842,16 +40277,16 @@ Lu
 fi
 fi
 fi
-fi
-fi
-fi
-fi
-fi
 bv
-BZ
-BZ
-BZ
-Nj
+bv
+bv
+bv
+bv
+bv
+pd
+rw
+OA
+eQ
 Ln
 Ln
 jz
@@ -39874,7 +40309,7 @@ vg
 RE
 AP
 wH
-RE
+KP
 iR
 CS
 CS
@@ -40099,14 +40534,14 @@ Lu
 fi
 fi
 fi
-fi
-fi
-fi
-fi
-fi
 bv
-BZ
-BZ
+DS
+DS
+DS
+vJ
+DS
+gS
+vg
 JH
 cc
 Ln
@@ -40131,7 +40566,7 @@ vg
 RE
 RE
 Ao
-RE
+Yf
 iR
 CS
 CS
@@ -40356,14 +40791,14 @@ Lu
 fi
 fi
 fi
-fi
-fi
-fi
-fi
-fi
 bv
-BZ
-BZ
+dn
+MZ
+si
+MZ
+MZ
+Hb
+vg
 CU
 sF
 Ln
@@ -40403,7 +40838,7 @@ CS
 iR
 BB
 RE
-RE
+KB
 Oa
 YQ
 Oa
@@ -40613,14 +41048,14 @@ Lu
 fi
 fi
 fi
-fi
-fi
-fi
-fi
-fi
 bv
-BZ
-BZ
+yS
+kF
+kF
+kF
+kF
+kF
+FJ
 CU
 sF
 Ln
@@ -40870,14 +41305,14 @@ Lu
 fi
 fi
 fi
-fi
-fi
-fi
-fi
-fi
 bv
+ui
+ui
+ui
+ui
+jP
 BZ
-BZ
+vg
 xh
 Fc
 Ln
@@ -40901,7 +41336,7 @@ rF
 vg
 AP
 RE
-RE
+KP
 RE
 iR
 CS
@@ -40921,7 +41356,7 @@ RE
 Oa
 YQ
 Oa
-RE
+Yf
 we
 fi
 fi
@@ -41127,18 +41562,18 @@ Lu
 fi
 fi
 fi
-fi
-fi
-fi
-fi
-fi
 bv
-BZ
-BZ
-BZ
-Nj
+fJ
+DS
+DS
+DS
+DS
+RF
+vg
+OA
+eQ
 Ln
-Ln
+OT
 jz
 iR
 CS
@@ -41152,11 +41587,11 @@ CS
 CS
 CS
 iR
-BZ
+NR
 fh
 fh
 vg
-RE
+Yf
 RE
 wH
 RE
@@ -41384,16 +41819,16 @@ Lu
 fi
 fi
 fi
-fi
-fi
-fi
-fi
-fi
 bv
+tS
+dX
+tS
+dX
+cG
 BZ
-BZ
-BZ
-Nj
+vg
+OA
+eQ
 Ln
 Ln
 jz
@@ -41409,14 +41844,14 @@ CS
 CS
 CS
 iR
-BZ
+NR
 fh
 fh
 vg
+KP
 RE
 RE
-RE
-RE
+Yf
 iR
 CS
 CS
@@ -41641,14 +42076,14 @@ Lu
 fi
 fi
 fi
-fi
-fi
-fi
-fi
-fi
 bv
-BZ
-BZ
+Ln
+Im
+yw
+WJ
+ao
+BD
+vg
 JH
 cc
 Ln
@@ -41686,7 +42121,7 @@ CS
 CS
 CS
 iR
-RE
+KP
 RE
 RE
 Oa
@@ -41898,14 +42333,14 @@ Lu
 fi
 fi
 fi
-fi
-fi
-fi
-fi
-fi
 bv
+Ln
+mI
+Wf
+WJ
+jz
 BZ
-BZ
+vg
 CU
 sF
 Ln
@@ -41930,7 +42365,7 @@ vg
 RE
 wH
 RE
-RE
+KP
 iR
 CS
 CS
@@ -41943,7 +42378,7 @@ CS
 CS
 CS
 iR
-RE
+Yf
 jw
 RE
 Oa
@@ -42155,14 +42590,14 @@ Lu
 fi
 fi
 fi
-fi
-fi
-fi
-fi
-fi
 bv
+Ln
+hp
+fg
+WJ
+jz
 BZ
-BZ
+vg
 xh
 Fc
 Ln
@@ -42202,7 +42637,7 @@ CS
 iR
 RE
 RE
-RE
+KP
 Oa
 YQ
 YQ
@@ -42412,19 +42847,19 @@ Lu
 fi
 fi
 fi
-fi
-fi
-fi
-fi
-fi
 bv
-BZ
-BZ
-BZ
-Nj
+wK
+wK
+Tr
+wK
+UU
+Gv
+vg
+OA
+eQ
 Ln
 Ln
-jz
+ao
 iR
 CS
 CS
@@ -42669,16 +43104,16 @@ Lu
 fi
 fi
 fi
-fi
-fi
-fi
-fi
-fi
 bv
+DS
+DS
+DS
+DS
+DS
 BZ
-BZ
-BZ
-Nj
+vg
+OA
+eQ
 Ln
 Ln
 jz
@@ -42717,7 +43152,7 @@ iR
 RE
 jw
 RE
-RE
+Yf
 RE
 RE
 RE
@@ -42926,14 +43361,14 @@ Lu
 fi
 fi
 fi
-fi
-fi
-fi
-fi
-fi
 bv
+tv
+MZ
+MZ
+dn
+MZ
 BZ
-BZ
+vg
 JH
 cc
 Ln
@@ -42956,7 +43391,7 @@ Mo
 Io
 vg
 RE
-RE
+KP
 RE
 wH
 iR
@@ -43183,14 +43618,14 @@ Lu
 fi
 fi
 fi
-fi
-fi
-fi
-fi
-fi
 bv
-BZ
-BZ
+yS
+kF
+kF
+kF
+kF
+kF
+FJ
 CU
 sF
 Ln
@@ -43440,14 +43875,14 @@ Lu
 fi
 fi
 fi
-fi
-fi
-fi
-fi
-fi
 bv
+jP
+ui
+ui
+ui
+ui
 BZ
-BZ
+vg
 CU
 sF
 Ln
@@ -43472,7 +43907,7 @@ vg
 RE
 RE
 RE
-RE
+KP
 iR
 CS
 CS
@@ -43485,7 +43920,7 @@ CS
 CS
 CS
 iR
-RE
+KP
 jw
 RE
 Ng
@@ -43697,14 +44132,14 @@ Lu
 fi
 fi
 fi
-fi
-fi
-fi
-fi
-fi
 bv
-BZ
-BZ
+DS
+cC
+DS
+DS
+DS
+Cq
+vg
 xh
 Fc
 Ln
@@ -43729,7 +44164,7 @@ vg
 RE
 wH
 RE
-RE
+Yf
 iR
 CS
 CS
@@ -43748,7 +44183,7 @@ RE
 jU
 uo
 jU
-jU
+Od
 we
 fi
 fi
@@ -43954,17 +44389,17 @@ Lu
 fi
 fi
 fi
-fi
-fi
-fi
-fi
-fi
 bv
-BZ
-BZ
-BZ
-Nj
-Ln
+bv
+bv
+bv
+bv
+bv
+gS
+AV
+OA
+eQ
+OT
 Ln
 jz
 iR
@@ -43983,7 +44418,7 @@ NR
 fh
 fh
 vg
-RE
+KP
 RE
 BB
 RE
@@ -44000,7 +44435,7 @@ CS
 CS
 iR
 RE
-RE
+Yf
 dR
 jT
 RE
@@ -44240,7 +44675,7 @@ cn
 Yr
 Yr
 vg
-RE
+Yf
 RE
 RE
 RE
@@ -44258,7 +44693,7 @@ jm
 hz
 jT
 RE
-RE
+KP
 we
 we
 Lp
@@ -44513,9 +44948,9 @@ oS
 gm
 gL
 hz
+KP
 RE
-RE
-RE
+KP
 Lp
 fi
 fi
@@ -45013,7 +45448,7 @@ BZ
 vg
 dR
 RE
-RE
+Yf
 jT
 hz
 gL
@@ -45027,8 +45462,8 @@ oS
 gm
 gL
 hz
+or
 RE
-dR
 RE
 PZ
 fi
@@ -45265,12 +45700,12 @@ bY
 jG
 hz
 BZ
-BZ
+yh
 BZ
 vg
 RE
 wH
-RE
+KP
 RE
 hz
 jG
@@ -45285,8 +45720,8 @@ gm
 jG
 hz
 RE
-dR
-RE
+Gx
+yz
 we
 fi
 fi
@@ -45525,7 +45960,7 @@ BZ
 BZ
 BZ
 vg
-RE
+KP
 RE
 RE
 dR
@@ -45783,7 +46218,7 @@ BZ
 BZ
 AV
 RE
-RE
+KB
 RE
 RE
 RE
@@ -45799,7 +46234,7 @@ JY
 bv
 RE
 RE
-RE
+KP
 RE
 Lp
 fi
@@ -46023,7 +46458,7 @@ bv
 Ln
 Ln
 jz
-BZ
+yh
 bv
 CN
 rr
@@ -46037,7 +46472,7 @@ bv
 BZ
 BZ
 BZ
-BZ
+yh
 BZ
 RE
 RE
@@ -46055,7 +46490,7 @@ kp
 RS
 bv
 RE
-RE
+KP
 RE
 RE
 we
@@ -46292,7 +46727,7 @@ lS
 bv
 bv
 BZ
-BZ
+Gv
 BZ
 BZ
 BZ
@@ -46535,13 +46970,13 @@ fi
 fi
 bv
 Ln
-Ln
+OT
 jz
 BZ
 BZ
 BZ
 ne
-Vj
+EI
 Zf
 BZ
 lz
@@ -46559,7 +46994,7 @@ Kc
 Kc
 xu
 cG
-BZ
+Gv
 ne
 Vj
 Zf
@@ -46567,7 +47002,7 @@ BZ
 lz
 Jm
 HL
-BZ
+Gv
 BZ
 Nj
 Ln
@@ -46795,9 +47230,9 @@ Ln
 Ln
 jz
 BZ
+Gv
 BZ
-BZ
-BZ
+yh
 BZ
 BZ
 BZ
@@ -46809,21 +47244,21 @@ Ln
 Ln
 bS
 wb
-ij
-ij
+tp
+ZE
 GM
 Ei
 Ln
 Ln
 jz
 BZ
-BZ
+yh
 BZ
 BZ
 BZ
 Vj
 Vj
-Vj
+Yp
 BZ
 BZ
 Nj
@@ -47054,7 +47489,7 @@ xu
 dX
 dX
 dX
-dX
+kQ
 dX
 dX
 dX
@@ -47065,7 +47500,7 @@ fM
 Ln
 RK
 wb
-NR
+Xs
 NR
 NR
 NR
@@ -47583,7 +48018,7 @@ NR
 tZ
 is
 NR
-ij
+ZP
 Rt
 Ln
 Ln
@@ -47839,7 +48274,7 @@ bU
 NR
 NR
 NR
-NR
+Xs
 Ym
 wn
 Ln
@@ -48077,7 +48512,7 @@ fi
 fi
 bv
 Ln
-Ln
+OT
 jz
 BZ
 Vj
@@ -48085,16 +48520,16 @@ Vj
 BZ
 BZ
 BZ
+Gv
 BZ
-BZ
-BZ
+yh
 BZ
 Nj
 Ln
 Ln
 st
 bU
-ij
+qL
 ij
 Ym
 XV
@@ -48104,10 +48539,10 @@ jz
 Vj
 Vj
 BZ
+yh
 BZ
 BZ
-BZ
-BZ
+yh
 BZ
 BZ
 BZ
@@ -48115,10 +48550,10 @@ Nj
 Ln
 Ln
 aD
+nC
 NR
 NR
-NR
-NR
+Xs
 NR
 oy
 bv
@@ -48335,7 +48770,7 @@ fi
 bv
 Ln
 Ln
-jz
+ZY
 BZ
 qW
 Sx
@@ -48365,7 +48800,7 @@ ne
 Vj
 Zf
 BZ
-BZ
+Gv
 BZ
 BZ
 Nj
@@ -102871,6 +103306,7 @@ Yx
 RE
 RE
 RE
+Cv
 RE
 RE
 RE
@@ -102878,8 +103314,7 @@ RE
 RE
 RE
 RE
-RE
-RE
+Cv
 RE
 RE
 RE
@@ -103140,7 +103575,7 @@ MC
 MC
 sm
 bH
-RE
+NA
 Aw
 Ho
 Ho
@@ -105967,7 +106402,7 @@ Jv
 bf
 tW
 uD
-RE
+NA
 Aw
 Ho
 Ho
@@ -108279,7 +108714,7 @@ tW
 Ho
 Ho
 uD
-RE
+NA
 Aw
 tW
 tW
@@ -109574,14 +110009,14 @@ AL
 AL
 rp
 RE
-RE
+WX
 uZ
 AL
 AL
 AL
 rp
 RE
-RE
+WX
 RE
 RE
 RE
@@ -109598,7 +110033,7 @@ AL
 AL
 AL
 rp
-RE
+WX
 ft
 AL
 AL
@@ -110849,7 +111284,7 @@ Ho
 Ho
 Ho
 uD
-RE
+NA
 Aw
 tf
 rZ
@@ -111153,7 +111588,7 @@ im
 au
 im
 In
-RE
+WX
 xS
 Ho
 Ho
@@ -111410,7 +111845,7 @@ MC
 au
 MC
 GB
-RE
+WX
 xS
 Zm
 Ho
@@ -111853,8 +112288,8 @@ fi
 bv
 uv
 QH
-BZ
-BZ
+Ke
+Ke
 BZ
 Qy
 ig
@@ -111924,7 +112359,7 @@ im
 gn
 im
 In
-RE
+WX
 xS
 Zm
 Ho
@@ -112122,7 +112557,7 @@ BZ
 BZ
 BZ
 BZ
-BZ
+xk
 Jt
 Ln
 Ln
@@ -112132,7 +112567,7 @@ XB
 zw
 tW
 uD
-Aw
+fz
 yt
 tW
 zf
@@ -112181,7 +112616,7 @@ MC
 au
 MC
 GB
-RE
+WX
 xS
 Ho
 Ho
@@ -112379,7 +112814,7 @@ dX
 dX
 dX
 dX
-cG
+fH
 Nj
 Ln
 Ln
@@ -112389,7 +112824,7 @@ Ln
 jl
 Ho
 uD
-Aw
+fz
 Kf
 Xu
 Sw
@@ -112629,7 +113064,7 @@ OU
 OU
 OU
 OU
-BZ
+xk
 Nj
 Mu
 sK
@@ -113400,7 +113835,7 @@ OU
 OU
 OU
 OU
-BZ
+xk
 Nj
 lj
 xQ
@@ -113921,7 +114356,7 @@ wK
 wK
 wK
 wK
-UU
+PT
 Nj
 Ln
 Ln
@@ -113931,7 +114366,7 @@ WR
 zw
 Ho
 uD
-Aw
+fz
 yt
 NS
 BX
@@ -113967,7 +114402,7 @@ AL
 AL
 AL
 iy
-RE
+WX
 ft
 AL
 AL
@@ -114166,8 +114601,8 @@ fi
 bv
 nN
 cF
-BZ
-BZ
+FC
+FC
 BZ
 Qy
 De
@@ -114178,7 +114613,7 @@ BZ
 BZ
 BZ
 BZ
-BZ
+xk
 Nj
 Ln
 WR
@@ -114188,7 +114623,7 @@ GR
 jl
 Ho
 uD
-Aw
+fz
 Dw
 tW
 cQ
@@ -114463,7 +114898,7 @@ bv
 bv
 lk
 uD
-RE
+WX
 Aw
 tW
 kp
@@ -114720,7 +115155,7 @@ bv
 Vd
 cQ
 uD
-RE
+WX
 Aw
 Ho
 TC
@@ -116246,7 +116681,7 @@ Ho
 Ho
 Ho
 uD
-RE
+iP
 mD
 oq
 hw
@@ -117788,7 +118223,7 @@ Ho
 Ho
 Ho
 Bn
-MC
+gq
 av
 Ho
 Ho
@@ -118806,7 +119241,7 @@ Fa
 zj
 fo
 tW
-NR
+ls
 tW
 tW
 tW
@@ -120085,7 +120520,7 @@ RR
 Ho
 Ho
 Mc
-NR
+Ks
 NR
 Bx
 Ho
@@ -123426,7 +123861,7 @@ Qh
 bv
 Ho
 Mc
-NR
+Ks
 NR
 Ho
 Ho
